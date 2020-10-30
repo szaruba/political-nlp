@@ -32,7 +32,7 @@ def extract_next_paragraph(text):
 
 
 def write_speech_paragraph(name, speech):
-    line = name + ";" + speech
+    line = name + "@@" + speech
     line = html.unescape(line)
     line = line.replace("\n", " ")
     print(line)
