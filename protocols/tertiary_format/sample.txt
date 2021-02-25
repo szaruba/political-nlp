@@ -1,0 +1,4228 @@
+# sent_id = 29137
+# date = 2020_03_15
+# protocol_id = 16
+# party = _
+# speaker = Abgeordneter Josef Schellhorn (NEOS)
+# governing = _
+# text = Das heißt, diese Planbarkeit ist jetzt gar nicht machbar – für Sie nicht –, nur die Unternehmer kommen mit dieser Unplanbarkeit gar nicht zurecht, weil dieser Lockdown ja jetzt nur für eine Woche bestimmt ist.
+1	Das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	_
+2	heißt	heißen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	,	,	$,	$,	_	0	root	_	_
+4	diese	diese	ART	PDAT	Fem|Nom|Sg	5	det	_	_
+5	Planbarkeit	Planbarkeit	N	NN	Fem|Nom|Sg	6	subj	_	_
+6	ist	sein	V	VAFIN	3|Sg|Pres|Ind	2	s	_	_
+7	jetzt	jetzt	ADV	ADV	_	6	adv	_	_
+8	gar	gar	ADV	ADV	_	9	adv	_	_
+9	nicht	nicht	PTKNEG	PTKNEG	_	6	adv	_	_
+10	machbar	machbar	ADV	ADJD	Pos|	6	pred	_	_
+11	–	–	$(	$(	_	0	root	_	_
+12	für	für	PREP	APPR	Acc	6	pp	_	_
+13	Sie	sie	PRO	PPER	3|_|_|Acc	12	pn	_	_
+14	nicht	nicht	PTKNEG	PTKNEG	_	12	adv	_	_
+15	–	–	$(	$(	_	0	root	_	_
+16	,	,	$,	$,	_	0	root	_	_
+17	nur	nur	ADV	ADV	_	19	adv	_	_
+18	die	die	ART	ART	Def|Masc|Nom|Pl	19	det	_	_
+19	Unternehmer	Unternehmer	N	NN	Masc|Nom|Pl	20	subj	_	_
+20	kommen	kommen	V	VVFIN	3|Pl|Pres|_	6	kon	_	_
+21	mit	mit	PREP	APPR	Dat	20	pp	_	_
+22	dieser	diese	ART	PDAT	Fem|Dat|Sg	23	det	_	_
+23	Unplanbarkeit	Unplanbarkeit	N	NN	Fem|Dat|Sg	21	pn	_	_
+24	gar	gar	ADV	ADV	_	25	adv	_	_
+25	nicht	nicht	PTKNEG	PTKNEG	_	20	adv	_	_
+26	zurecht	zurecht	PTKVZ	PTKVZ	_	20	avz	_	_
+27	,	,	$,	$,	_	0	root	_	_
+28	weil	weil	KOUS	KOUS	_	38	konj	_	_
+29	dieser	diese	ART	PDAT	Masc|Nom|Sg	30	det	_	_
+30	Lockdown	Lockdown	N	NN	Masc|Nom|Sg	38	subj	_	_
+31	ja	ja	ADV	ADV	_	37	adv	_	_
+32	jetzt	jetzt	ADV	ADV	_	37	adv	_	_
+33	nur	nur	ADV	ADV	_	37	adv	_	_
+34	für	für	PREP	APPR	Acc	37	objp	_	_
+35	eine	eine	ART	ART	Indef|Fem|Acc|Sg	36	det	_	_
+36	Woche	Woche	N	NN	Fem|Acc|Sg	34	pn	_	_
+37	bestimmt	bestimmen	V	VVPP	_	38	aux	_	_
+38	ist	sein	V	VAFIN	3|Sg|Pres|Ind	20	neb	_	_
+39	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 31054
+# date = 2020_03_20
+# protocol_id = 19
+# party = _
+# speaker = Abgeordnete Mag. Beate Meinl-Reisinger, MES (NEOS)
+# governing = _
+# text = Wie und wann schaffen wir es, aus diesem Lockdown wieder herauszukommen, ohne die Gesundheit der Menschen in Österreich oder auch europaweit aufs Spiel zu setzen?
+1	Wie	Wie	PWAV	PWAV	_	4	adv	_	_
+2	und	und	KON	KON	_	1	kon	_	_
+3	wann	wann	PWAV	PWAV	_	2	cj	_	_
+4	schaffen	schaffen	V	VVFIN	1|Pl|Pres|_	0	root	_	_
+5	wir	wir	PRO	PPER	1|Pl|_|Nom	4	subj	12	subj
+6	es	es	PRO	PPER	3|Sg|Neut|Acc	4	obja	_	_
+7	,	,	$,	$,	_	0	root	_	_
+8	aus	aus	PREP	APPR	Dat	12	objp	_	_
+9	diesem	diese	ART	PDAT	Masc|Dat|Sg	10	det	_	_
+10	Lockdown	Lockdown	N	NN	Masc|Dat|Sg	8	pn	_	_
+11	wieder	wieder	ADV	ADV	_	12	adv	_	_
+12	herauszukommen	herauskommen	V	VVIZU	_	4	obji	_	_
+13	,	,	$,	$,	_	0	root	_	_
+14	ohne	ohne	KOUI	KOUI	_	27	konj	_	_
+15	die	die	ART	ART	Def|Fem|Acc|Sg	16	det	_	_
+16	Gesundheit	Gesundheit	N	NN	Fem|Acc|Sg	27	obja	_	_
+17	der	die	ART	ART	Def|Masc|Gen|Pl	18	det	_	_
+18	Menschen	Mensch	N	NN	Masc|Gen|Pl	16	gmod	_	_
+19	in	in	PREP	APPR	_	18	pp	_	_
+20	Österreich	Österreich	N	NE	Neut|_|Sg	19	pn	_	_
+21	oder	oder	KON	KON	_	19	kon	_	_
+22	auch	auch	ADV	ADV	_	23	adv	_	_
+23	europaweit	europaweit	ADV	ADJD	Pos|	21	cj	_	_
+24	aufs	auf	PREP	APPRART	Acc	27	objp	_	_
+25	Spiel	Spiel	N	NN	Neut|Acc|Sg	24	pn	_	_
+26	zu	zu	PTKZU	PTKZU	_	27	part	_	_
+27	setzen	setzen	V	VVINF	_	12	neb	_	_
+28	?	?	$.	$.	_	0	root	_	_
+
+# sent_id = 32973
+# date = 2020_04_03
+# protocol_id = 22
+# party = _
+# speaker = Abgeordneter August Wöginger (ÖVP)
+# governing = _
+# text = Kickl hat am 13. März von einem Lockdown gesprochen – also alles zudrehen, nichts geht mehr in diesem Land.
+1	Kickl	Kickl	N	NE	_|Nom|Sg	2	subj	_	_
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	am	an	PREP	APPRART	Dat	9	pp	_	_
+4	13.	13.	ADJA	ADJA	_|Masc|Dat|Sg|_|	5	attr	_	_
+5	März	März	N	NN	Masc|Dat|Sg	3	pn	_	_
+6	von	von	PREP	APPR	Dat	9	pp	_	_
+7	einem	eine	ART	ART	Indef|Masc|Dat|Sg	8	det	_	_
+8	Lockdown	Lockdown	N	NN	Masc|Dat|Sg	6	pn	_	_
+9	gesprochen	sprechen	V	VVPP	_	2	aux	_	_
+10	–	–	$(	$(	_	0	root	_	_
+11	also	also	ADV	ADV	_	13	adv	_	_
+12	alles	alle	PRO	PIS	Neut|Acc|Sg	13	obja	_	_
+13	zudrehen	zudrehen	V	VVINF	_	0	root	_	_
+14	,	,	$,	$,	_	0	root	_	_
+15	nichts	nichts	PRO	PIS	_|Nom|Sg	16	subj	_	_
+16	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+17	mehr	mehr	ADV	ADV	_	16	adv	_	_
+18	in	in	PREP	APPR	Dat	16	pp	_	_
+19	diesem	diese	ART	PDAT	Neut|Dat|Sg	20	det	_	_
+20	Land	Land	N	NN	Neut|Dat|Sg	18	pn	_	_
+21	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 34265
+# date = 2020_04_03
+# protocol_id = 22
+# party = _
+# speaker = Abgeordnete Dipl.-Ing. Karin Doppelbauer (NEOS)
+# governing = _
+# text = Ich möchte gleich zu Beginn eines klarstellen, damit es keine Missverständnisse gibt: Ja, der Lockdown war richtig.
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	_
+2	möchte	mögen	V	VMFIN	1|Sg|Past|Subj	0	root	_	_
+3	gleich	gleich	ADV	ADJD	Pos|	7	adv	_	_
+4	zu	zu	PREP	APPR	Dat	7	pp	_	_
+5	Beginn	Beginn	N	NN	Masc|Dat|Sg	4	pn	_	_
+6	eines	eine	PRO	PIS	Neut|Acc|Sg	7	obja	_	_
+7	klarstellen	klarstellen	V	VVINF	_	2	aux	_	_
+8	,	,	$,	$,	_	0	root	_	_
+9	damit	damit	KOUS	KOUS	_	13	konj	_	_
+10	es	es	PRO	PPER	3|Sg|Neut|Nom	13	subj	_	_
+11	keine	keine	ART	PIAT	Neut|Acc|Pl	12	det	_	_
+12	Missverständnisse	Missverständnis	N	NN	Neut|Acc|Pl	13	obja	_	_
+13	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	2	neb	_	_
+14	:	\:	$.	$.	_	0	root	_	_
+15	Ja	Ja	N	NN	Neut|_|_	19	vok	_	_
+16	,	,	$,	$,	_	0	root	_	_
+17	der	die	ART	ART	Def|Masc|Nom|Sg	18	det	_	_
+18	Lockdown	Lockdown	N	NN	Masc|Nom|Sg	19	subj	_	_
+19	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+20	richtig	richtig	ADV	ADJD	Pos|	19	pred	_	_
+21	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 34269
+# date = 2020_04_03
+# protocol_id = 22
+# party = _
+# speaker = Abgeordnete Dipl.-Ing. Karin Doppelbauer (NEOS)
+# governing = _
+# text = Lassen Sie mich aber mit dem Gemeinsamen beginnen: Was das Ziel betrifft, sind wir uns ja alle einig: Es geht um nichts Geringeres als das Einpendeln unserer Volks­wirtschaft auf ein Level, wie es vor der Krise war, oder, wenn Sie so wollen, wenn man jetzt den Lockdown schrittweise lockert, dass dann das Wirtschaftssystem eigentlich genauso aussieht, wie es vor der Krise war.
+1	Lassen	lassen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	PRO	PPER	3|Pl|_|Nom	1	subj	_	_
+3	mich	ich	PRO	PRF	1|Sg|Acc	8	obja	_	_
+4	aber	aber	ADV	ADV	_	8	adv	_	_
+5	mit	mit	PREP	APPR	Dat	8	pp	_	_
+6	dem	die	ART	ART	Def|_|Dat|Sg	7	det	_	_
+7	Gemeinsamen	Gemeinsame	N	NN	_|Dat|Sg	5	pn	_	_
+8	beginnen	beginnen	V	VVINF	_	1	obji	_	_
+9	:	\:	$.	$.	_	0	root	_	_
+10	Was	was	PRO	PWS	Neut|Acc|Sg	13	obja	_	_
+11	das	die	ART	ART	Def|Neut|Nom|Sg	12	det	_	_
+12	Ziel	Ziel	N	NN	Neut|Nom|Sg	13	subj	_	_
+13	betrifft	betreffen	V	VVFIN	3|Sg|Pres|Ind	15	objc	_	_
+14	,	,	$,	$,	_	0	root	_	_
+15	sind	sein	V	VAFIN	1|Pl|Pres|Ind	0	root	_	_
+16	wir	wir	PRO	PPER	1|Pl|_|Nom	15	subj	_	_
+17	uns	wir	PRO	PRF	1|Pl|Dat	15	objd	_	_
+18	ja	ja	ADV	ADV	_	15	adv	_	_
+19	alle	alle	PRO	PIS	_|_|_	15	adv	_	_
+20	einig	einig	ADV	ADJD	Pos|	15	pred	_	_
+21	:	\:	$.	$.	_	0	root	_	_
+22	Es	es	PRO	PPER	3|Sg|Neut|_	43	expl	_	_
+23	geht	gehen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+24	um	um	PREP	APPR	Acc	23	objp	_	_
+25	nichts	nichts	PRO	PIS	Neut|Acc|Sg	24	pn	_	_
+26	Geringeres	Geringeres	N	NN	Neut|Acc|Sg	25	app	_	_
+27	als	als	KOKOM	KOKOM	_	23	kom	_	_
+28	das	die	ART	ART	Def|Neut|_|Sg	29	det	_	_
+29	Einpendeln	Einpendel	N	NN	Neut|_|Sg	27	cj	_	_
+30	unserer	unsre	ART	PPOSAT	_|_|_	31	det	_	_
+31	Volks	Volk	N	NN	_|Gen|_	29	gmod	_	_
+32	­	­	FM	FM	_|Gen|_	31	app	_	_
+33	wirtschaft	wirtschaft	FM	FM	_|Gen|_	32	app	_	_
+34	auf	auf	PREP	APPR	Acc	33	pp	_	_
+35	ein	eine	ART	ART	Indef|Neut|Acc|Sg	36	det	_	_
+36	Level	Level	N	NN	Neut|Acc|Sg	34	pn	_	_
+37	,	,	$,	$,	_	0	root	_	_
+38	wie	wie	PWAV	PWAV	_	43	adv	_	_
+39	es	es	PRO	PPER	3|Sg|Neut|Nom	43	subj	_	_
+40	vor	vor	PREP	APPR	Dat	43	pp	_	_
+41	der	die	ART	ART	Def|Fem|Dat|Sg	42	det	_	_
+42	Krise	Krise	N	NN	Fem|Dat|Sg	40	pn	_	_
+43	war	sein	V	VAFIN	3|Sg|Past|Ind	23	subjc	_	_
+44	,	,	$,	$,	_	0	root	_	_
+45	oder	oder	KON	KON	_	0	root	_	_
+46	,	,	$,	$,	_	0	root	_	_
+47	wenn	wenn	KOUS	KOUS	_	50	konj	_	_
+48	Sie	sie	PRO	PPER	3|Pl|_|Nom	50	subj	_	_
+49	so	so	ADV	ADV	_	50	adv	_	_
+50	wollen	wollen	V	VMFIN	3|Pl|Pres|_	45	cj	_	_
+51	,	,	$,	$,	_	0	root	_	_
+52	wenn	wenn	KOUS	KOUS	_	0	root	_	_
+53	man	man	PRO	PIS	_|Nom|Sg	0	root	_	_
+54	jetzt	jetzt	ADV	ADV	_	58	adv	_	_
+55	den	die	ART	ART	Def|Masc|Acc|Sg	56	det	_	_
+56	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	58	obja	_	_
+57	schrittweise	schrittweise	ADV	ADJD	Pos|	58	adv	_	_
+58	lockert	lockern	V	VVFIN	_|_|Pres|_	0	root	_	_
+59	,	,	$,	$,	_	0	root	_	_
+60	dass	dass	KOUS	KOUS	_	66	konj	_	_
+61	dann	dann	ADV	ADV	_	66	adv	_	_
+62	das	die	ART	ART	Def|Neut|Nom|Sg	63	det	_	_
+63	Wirtschaftssystem	Wirtschaftssystem	N	NN	Neut|Nom|Sg	66	subj	_	_
+64	eigentlich	eigentlich	ADV	ADV	_	66	adv	_	_
+65	genauso	genauso	ADV	ADV	_	66	adv	_	_
+66	aussieht	aussehen	V	VVFIN	3|Sg|Pres|Ind	58	subjc	_	_
+67	,	,	$,	$,	_	0	root	_	_
+68	wie	wie	PWAV	PWAV	_	73	adv	_	_
+69	es	es	PRO	PPER	3|Sg|Neut|Nom	73	subj	_	_
+70	vor	vor	PREP	APPR	Dat	73	pp	_	_
+71	der	die	ART	ART	Def|Fem|Dat|Sg	72	det	_	_
+72	Krise	Krise	N	NN	Fem|Dat|Sg	70	pn	_	_
+73	war	sein	V	VAFIN	3|Sg|Past|Ind	66	objc	_	_
+74	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 34709
+# date = 2020_04_03
+# protocol_id = 22
+# party = _
+# speaker = Abgeordnete Mag. Martina Künsberg Sarre (NEOS)
+# governing = _
+# text = Regelmäßige begleitende Datenerhe­bun­gen in dieser Phase des Lockdowns, in der Lehrer_innen, Schüler_innen und Eltern auf digitales Unterrichten und Lernen absolut angewiesen sind, können einen wesent­lichen Beitrag für eine effiziente Digitalisierung des Bildungssystems in der Zukunft leisten.
+1	Regelmäßige	regelmäßig	ADJA	ADJA	Pos|_|_|_|_|	3	attr	_	_
+2	begleitende	begleitend	ADJA	ADJA	Pos|_|_|_|_|<PPRES	3	attr	_	_
+3	Datenerhe	Datenerhe	FM	FM	_|_|_	0	root	_	_
+4	­	­	FM	FM	_|_|_	3	app	_	_
+5	bun	bun	FM	FM	_|_|_	4	app	_	_
+6	­	­	FM	FM	_|_|_	5	app	_	_
+7	gen	gen	FM	FM	_|_|_	6	app	_	_
+8	in	in	PREP	APPR	Dat	30	pp	_	_
+9	dieser	diese	ART	PDAT	Fem|Dat|Sg	10	det	_	_
+10	Phase	Phase	N	NN	Fem|Dat|Sg	8	pn	_	_
+11	des	die	ART	ART	Def|Masc|Gen|Sg	12	det	_	_
+12	Lockdowns	Lockdown	N	NN	Masc|Gen|Sg	10	gmod	_	_
+13	,	,	$,	$,	_	0	root	_	_
+14	in	in	PREP	APPR	_	12	pp	_	_
+15	der	die	ART	ART	Def|Masc|_|_	16	det	_	_
+16	Lehrer	Lehrer	N	NN	Masc|_|_	14	pn	_	_
+17	_	_	N	NE	Masc|_|_	16	app	_	_
+18	innen	innen	ADV	ADV	_	14	adv	_	_
+19	,	,	$,	$,	_	0	root	_	_
+20	Schüler	Schüler	N	NN	Masc|Gen|Pl	12	kon	_	_
+21	_	_	N	NE	Masc|Gen|Pl	20	app	_	_
+22	innen	innen	ADV	ADV	_	21	adv	_	_
+23	und	und	KON	KON	_	20	kon	_	_
+24	Eltern	Elter	N	NN	_|Gen|Pl	23	cj	_	_
+25	auf	auf	PREP	APPR	Acc	24	pp	_	_
+26	digitales	digital	ADJA	ADJA	Pos|Neut|Acc|Sg|St|	27	attr	_	_
+27	Unterrichten	Unterricht	N	NN	Neut|Acc|Sg	25	pn	_	_
+28	und	und	KON	KON	_	27	kon	_	_
+29	Lernen	Lernen	N	NN	Neut|Acc|Sg	28	cj	_	_
+30	absolut	absolut	ADV	ADJD	Pos|	31	adv	_	_
+31	angewiesen	anweisen	V	VVPP	_	32	aux	_	_
+32	sind	sein	V	VAFIN	_|Pl|Pres|Ind	0	root	_	_
+33	,	,	$,	$,	_	0	root	_	_
+34	können	können	V	VMFIN	_|Pl|Pres|_	32	kon	_	_
+35	einen	eine	ART	ART	Indef|Masc|Acc|Sg	36	det	_	_
+36	wesent	wesent	FM	FM	Masc|Acc|Sg	49	obja	_	_
+37	­	­	FM	FM	Masc|Acc|Sg	36	app	_	_
+38	lichen	lichen	FM	FM	Masc|Acc|Sg	37	app	_	_
+39	Beitrag	Beitrag	N	NN	Masc|Acc|Sg	38	app	_	_
+40	für	für	PREP	APPR	Acc	39	pp	_	_
+41	eine	eine	ART	ART	Indef|Fem|Acc|Sg	43	det	_	_
+42	effiziente	effizient	ADJA	ADJA	Pos|Fem|Acc|Sg|_|	43	attr	_	_
+43	Digitalisierung	Digitalisierung	N	NN	Fem|Acc|Sg	40	pn	_	_
+44	des	die	ART	ART	Def|Neut|Gen|Sg	45	det	_	_
+45	Bildungssystems	Bildungssystem	N	NN	Neut|Gen|Sg	43	gmod	_	_
+46	in	in	PREP	APPR	Dat	49	pp	_	_
+47	der	die	ART	ART	Def|Fem|Dat|Sg	48	det	_	_
+48	Zukunft	Zukunft	N	NN	Fem|Dat|Sg	46	pn	_	_
+49	leisten	leisten	V	VVINF	_	34	aux	_	_
+50	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 36347
+# date = 2020_04_22
+# protocol_id = 24
+# party = _
+# speaker = Abgeordneter Mag. Gerald Loacker (NEOS)
+# governing = _
+# text = Sebastian Kurz und Gesundheitsminister Anschober haben es versäumt, die fünf Wochen seit dem Lockdown zu nützen, um Daten zu gewinnen, auf Basis derer wir arbeiten können.
+1	Sebastian	Sebastian	N	NE	Masc|Nom|Pl	6	subj	_	_
+2	Kurz	Kurz	N	NE	Masc|Nom|_	1	app	_	_
+3	und	und	KON	KON	_	2	kon	_	_
+4	Gesundheitsminister	Gesundheitsminister	N	NN	Masc|Nom|_	3	cj	_	_
+5	Anschober	Anschober	N	NE	Masc|Nom|_	4	app	_	_
+6	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+7	es	es	PRO	PPER	3|Sg|Neut|Acc	8	obja	_	_
+8	versäumt	versäumen	V	VVPP	_	6	aux	_	_
+9	,	,	$,	$,	_	0	root	_	_
+10	die	die	PRO	PRELS	_|_|_	0	root	_	_
+11	fünf	fünf	CARD	CARD	_	12	attr	_	_
+12	Wochen	Woche	N	NN	Fem|Dat|Pl	17	objd	_	_
+13	seit	seit	PREP	APPR	Dat	17	pp	_	_
+14	dem	die	ART	ART	Def|Masc|Dat|Sg	15	det	_	_
+15	Lockdown	Lockdown	N	NN	Masc|Dat|Sg	13	pn	_	_
+16	zu	zu	PTKZU	PTKZU	_	17	part	_	_
+17	nützen	nützen	V	VVINF	_	0	root	_	_
+18	,	,	$,	$,	_	0	root	_	_
+19	um	um	KOUI	KOUI	_	22	konj	_	_
+20	Daten	Daten	N	NN	_|Acc|Pl	22	obja	_	_
+21	zu	zu	PTKZU	PTKZU	_	22	part	_	_
+22	gewinnen	gewinnen	V	VVINF	_	17	neb	_	_
+23	,	,	$,	$,	_	0	root	_	_
+24	auf	auf	PREP	APPR	_	0	root	_	_
+25	Basis	Basis	N	NN	Fem|_|Sg	24	pn	_	_
+26	derer	die	PRO	PRELS	_|Gen|Pl	0	root	_	_
+27	wir	wir	PRO	PPER	1|Pl|_|Nom	29	subj	_	_
+28	arbeiten	arbeiten	V	VVINF	_	29	aux	_	_
+29	können	können	V	VMFIN	1|Pl|Pres|_	0	root	_	_
+30	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 37020
+# date = 2020_04_22
+# protocol_id = 24
+# party = _
+# speaker = Abgeordnete Sigrid Maurer, BA (Grüne)
+# governing = _
+# text = Ich erinnere mich daran, wie Sie vorgeschlagen haben – zu einem Zeitpunkt, als wir noch gar nichts gewusst haben –, ganz radikale Maßnahmen zu setzen: Ihnen war der Lockdown nicht scharf genug.
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	_
+2	erinnere	erinnern	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	mich	ich	PRO	PRF	1|Sg|Acc	2	obja	_	_
+4	daran	daran	PROAV	PROAV	_	2	objp	_	_
+5	,	,	$,	$,	_	0	root	_	_
+6	wie	wie	PWAV	PWAV	_	8	adv	_	_
+7	Sie	sie	PRO	PPER	3|Pl|_|Nom	9	subj	_	_
+8	vorgeschlagen	vorschlagen	V	VVPP	_	9	aux	_	_
+9	haben	haben	V	VAFIN	3|Pl|Pres|_	2	objc	_	_
+10	–	–	$(	$(	_	0	root	_	_
+11	zu	zu	PREP	APPR	Dat	0	root	_	_
+12	einem	eine	ART	ART	Indef|Masc|Dat|Sg	13	det	_	_
+13	Zeitpunkt	Zeitpunkt	N	NN	Masc|Dat|Sg	11	pn	_	_
+14	,	,	$,	$,	_	0	root	_	_
+15	als	als	KOUS	KOUS	_	21	konj	_	_
+16	wir	wir	PRO	PPER	1|Pl|_|Nom	21	subj	_	_
+17	noch	noch	ADV	ADV	_	20	adv	_	_
+18	gar	gar	ADV	ADV	_	20	adv	_	_
+19	nichts	nichts	PRO	PIS	_|_|_	20	obja	_	_
+20	gewusst	wissen	V	VVPP	_	21	aux	_	_
+21	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	_
+22	–	–	$(	$(	_	0	root	_	_
+23	,	,	$,	$,	_	0	root	_	_
+24	ganz	ganz	ADV	ADV	_	25	adv	_	_
+25	radikale	radikal	ADJA	ADJA	Pos|Fem|Acc|Pl|St|	26	attr	_	_
+26	Maßnahmen	Maßnahme	N	NN	Fem|Acc|Pl	28	obja	_	_
+27	zu	zu	PTKZU	PTKZU	_	28	part	_	_
+28	setzen	setzen	V	VVINF	_	0	root	_	_
+29	:	\:	$.	$.	_	0	root	_	_
+30	Ihnen	sie	PRO	PPER	3|Pl|_|Dat	31	objd	_	_
+31	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+32	der	die	ART	ART	Def|Masc|Nom|Sg	33	det	_	_
+33	Lockdown	Lockdown	N	NN	Masc|Nom|Sg	31	subj	_	_
+34	nicht	nicht	PTKNEG	PTKNEG	_	31	adv	_	_
+35	scharf	scharf	ADV	ADJD	Pos|	31	pred	_	_
+36	genug	genug	ADV	ADV	_	35	adv	_	_
+37	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 37580
+# date = 2020_04_22
+# protocol_id = 24
+# party = _
+# speaker = Abgeordneter Mag. Markus Koza (Grüne)
+# governing = _
+# text = Ich finde es schon sehr interessant, wie sich der Lockdown auch ökonomisch auswirkt – wie wir ja alle wissen, hat der verordnete Lockdown, der passiert ist, in Schweden nicht in diesem Ausmaß stattgefunden, ist dort aber trotzdem sehr stark von der Bevölkerung angenommen worden –, denn da sind die Unter­schiede interessanterweise gar nicht so frappant!
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	0	root	_	_
+2	finde	finden	V	VVFIN	3|Sg|Pres|Subj	0	root	_	_
+3	es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	_
+4	schon	schon	ADV	ADV	_	2	adv	_	_
+5	sehr	sehr	ADV	ADV	_	6	adv	_	_
+6	interessant	interessant	ADV	ADJD	Pos|	2	pred	_	_
+7	,	,	$,	$,	_	0	root	_	_
+8	wie	wie	PWAV	PWAV	_	14	adv	_	_
+9	sich	sie	PRO	PRF	3|_|Acc	14	obja	_	_
+10	der	die	ART	ART	Def|Masc|Nom|Sg	11	det	_	_
+11	Lockdown	Lockdown	N	NN	Masc|Nom|Sg	14	subj	_	_
+12	auch	auch	ADV	ADV	_	14	adv	_	_
+13	ökonomisch	ökonomisch	ADV	ADJD	Pos|	14	adv	_	_
+14	auswirkt	auswirken	V	VVFIN	3|Sg|Pres|Ind	2	objc	_	_
+15	–	–	$(	$(	_	0	root	_	_
+16	wie	wie	KOKOM	KOKOM	_	20	kom	_	_
+17	wir	wir	PRO	PPER	1|Pl|_|Nom	16	cj	_	_
+18	ja	ja	ADV	ADV	_	20	adv	_	_
+19	alle	alle	PRO	PIS	_|Nom|Pl	20	subj	_	_
+20	wissen	wissen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+21	,	,	$,	$,	_	0	root	_	_
+22	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+23	der	die	ART	ART	Def|Masc|Nom|Sg	25	det	_	_
+24	verordnete	verordnet	ADJA	ADJA	Pos|Masc|Nom|Sg|Wk|	25	attr	_	_
+25	Lockdown	Lockdown	N	NN	Masc|Nom|Sg	22	subj	_	_
+26	,	,	$,	$,	_	0	root	_	_
+27	der	die	PRO	PRELS	Masc|Nom|Sg	29	subj	_	_
+28	passiert	passieren	V	VVPP	_	29	aux	_	_
+29	ist	sein	V	VAFIN	3|Sg|Pres|Ind	25	rel	_	_
+30	,	,	$,	$,	_	0	root	_	_
+31	in	in	PREP	APPR	_	37	pp	_	_
+32	Schweden	Schweden	N	NE	Neut|_|Sg	31	pn	_	_
+33	nicht	nicht	PTKNEG	PTKNEG	_	37	adv	_	_
+34	in	in	PREP	APPR	Dat	37	pp	_	_
+35	diesem	diese	ART	PDAT	Neut|Dat|Sg	36	det	_	_
+36	Ausmaß	Ausmaß	N	NN	Neut|Dat|Sg	34	pn	_	_
+37	stattgefunden	stattfinden	V	VVPP	_	22	aux	_	_
+38	,	,	$,	$,	_	0	root	_	_
+39	ist	sein	V	VAFIN	3|Sg|Pres|Ind	22	kon	_	_
+40	dort	dort	ADV	ADV	_	48	adv	_	_
+41	aber	aber	ADV	ADV	_	48	adv	_	_
+42	trotzdem	trotzdem	PROAV	PROAV	_	48	pp	_	_
+43	sehr	sehr	ADV	ADV	_	44	adv	_	_
+44	stark	stark	ADV	ADJD	Pos|	48	adv	_	_
+45	von	von	PREP	APPR	_	48	pp	_	_
+46	der	die	ART	ART	Def|Fem|_|Sg	47	det	_	_
+47	Bevölkerung	Bevölkerung	N	NN	Fem|_|Sg	45	pn	_	_
+48	angenommen	annehmen	V	VVPP	_	49	aux	_	_
+49	worden	werden	V	VAPP	_	39	aux	_	_
+50	–	–	$(	$(	_	0	root	_	_
+51	,	,	$,	$,	_	0	root	_	_
+52	denn	denn	KON	KON	_	0	root	_	_
+53	da	da	ADV	ADV	_	54	adv	_	_
+54	sind	sein	V	VAFIN	_|Pl|Pres|Ind	52	cj	_	_
+55	die	die	ART	ART	Def|Masc|Acc|Pl	56	det	_	_
+56	Unter	Unter	N	NN	Masc|Acc|Pl	58	obja	_	_
+57	­	­	FM	FM	Masc|Acc|Pl	56	app	_	_
+58	schiede	scheiden	V	VVFIN	_|Sg|Past|Subj	0	root	_	_
+59	interessanterweise	interessanterweise	ADV	ADV	_	58	adv	_	_
+60	gar	gar	ADV	ADV	_	61	adv	_	_
+61	nicht	nicht	PTKNEG	PTKNEG	_	58	adv	_	_
+62	so	so	ADV	ADV	_	63	adv	_	_
+63	frappant	frappant	ADV	ADJD	Pos|	58	adv	_	_
+64	!	!	$.	$.	_	0	root	_	_
+
+# sent_id = 37699
+# date = 2020_04_22
+# protocol_id = 24
+# party = _
+# speaker = Abgeordneter Dr. Josef Smolle (ÖVP)
+# governing = _
+# text = Der Lockdown in unserem Land war eine gesundheitspolitische Präventivmaßnahme, eine Maßnahme, die das ganze Land betroffen hat und die es in diesem Ausmaß, in dieser Dimension noch nie gegeben hat.
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Lockdown	Lockdown	N	NN	Masc|Nom|Sg	6	subj	_	_
+3	in	in	PREP	APPR	Dat	2	pp	_	_
+4	unserem	unsre	ART	PPOSAT	Neut|Dat|Sg	5	det	_	_
+5	Land	Land	N	NN	Neut|Dat|Sg	3	pn	_	_
+6	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+7	eine	eine	ART	ART	Indef|Fem|Nom|Sg	9	det	_	_
+8	gesundheitspolitische	gesundheitspolitisch	ADJA	ADJA	Pos|Fem|Nom|Sg|_|	9	attr	_	_
+9	Präventivmaßnahme	Präventivmaßnahme	N	NN	Fem|Nom|Sg	6	pred	_	_
+10	,	,	$,	$,	_	0	root	_	_
+11	eine	eine	ART	ART	Indef|Fem|Nom|Sg	12	det	_	_
+12	Maßnahme	Maßnahme	N	NN	Fem|Nom|Sg	9	app	_	_
+13	,	,	$,	$,	_	0	root	_	_
+14	die	die	PRO	PRELS	Fem|Nom|Sg	19	subj	_	_
+15	das	die	ART	ART	Def|Neut|Acc|Sg	17	det	_	_
+16	ganze	ganz	ADJA	ADJA	Pos|Neut|Acc|Sg|Wk|	17	attr	_	_
+17	Land	Land	N	NN	Neut|Acc|Sg	18	obja	_	_
+18	betroffen	betreffen	V	VVPP	_	19	aux	_	_
+19	hat	haben	V	VAFIN	3|Sg|Pres|Ind	12	rel	_	_
+20	und	und	KON	KON	_	0	root	_	_
+21	die	die	PRO	PRELS	_|_|_	20	cj	_	_
+22	es	es	PRO	PPER	3|Sg|Neut|_	0	root	_	_
+23	in	in	PREP	APPR	Dat	22	pp	_	_
+24	diesem	diese	ART	PDAT	Neut|Dat|Sg	25	det	_	_
+25	Ausmaß	Ausmaß	N	NN	Neut|Dat|Sg	23	pn	_	_
+26	,	,	$,	$,	_	0	root	_	_
+27	in	in	PREP	APPR	Dat	32	pp	_	_
+28	dieser	diese	ART	PDAT	Fem|Dat|Sg	29	det	_	_
+29	Dimension	Dimension	N	NN	Fem|Dat|Sg	27	pn	_	_
+30	noch	noch	ADV	ADV	_	32	adv	_	_
+31	nie	nie	ADV	ADV	_	32	adv	_	_
+32	gegeben	geben	V	VVPP	_	33	aux	_	_
+33	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+34	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 37880
+# date = 2020_04_22
+# protocol_id = 24
+# party = _
+# speaker = Abgeordneter Dr. Helmut Brandstätter (NEOS)
+# governing = _
+# text = Regelmäßige begleitende Datenerhebungen in dieser Phase des Lockdowns, in der Lehrpersonal und Studierende auf digitales Unterrichten und Lernen absolut ange­wiesen sind, können einen wesentlichen Beitrag für eine effiziente Digitalisierung der Lehre an den Hochschulen in der Zukunft leisten.
+1	Regelmäßige	regelmäßig	ADJA	ADJA	Pos|_|_|_|_|	3	attr	_	_
+2	begleitende	begleitend	ADJA	ADJA	Pos|_|_|_|_|<PPRES	3	attr	_	_
+3	Datenerhebungen	Datenerhebung	N	NN	_|_|_	0	root	_	_
+4	in	in	PREP	APPR	Dat	3	pp	_	_
+5	dieser	diese	ART	PDAT	Fem|Dat|Sg	6	det	_	_
+6	Phase	Phase	N	NN	Fem|Dat|Sg	4	pn	_	_
+7	des	die	ART	ART	Def|Masc|Gen|Sg	8	det	_	_
+8	Lockdowns	Lockdown	N	NN	Masc|Gen|Sg	6	gmod	_	_
+9	,	,	$,	$,	_	0	root	_	_
+10	in	in	PREP	APPR	Dat	20	pp	_	_
+11	der	die	ART	ART	Def|_|_|_	12	det	_	_
+12	Lehrpersonal	Lehrpersonal	N	NN	Fem|Dat|Sg	10	pn	_	_
+13	und	und	KON	KON	_	12	kon	_	_
+14	Studierende	Studierende	N	NN	Neut|Dat|Sg	13	cj	_	_
+15	auf	auf	PREP	APPR	Acc	12	pp	_	_
+16	digitales	digital	ADJA	ADJA	Pos|Neut|Acc|Sg|St|	17	attr	_	_
+17	Unterrichten	Unterricht	N	NN	Neut|Acc|Sg	15	pn	_	_
+18	und	und	KON	KON	_	17	kon	_	_
+19	Lernen	Lernen	N	NN	Neut|Acc|Sg	18	cj	_	_
+20	absolut	absolut	ADV	ADJD	Pos|	0	root	_	_
+21	ange	ange	FM	FM	_|Nom|Pl	24	subj	_	_
+22	­	­	FM	FM	_|Nom|Pl	21	app	_	_
+23	wiesen	wiesen	FM	FM	_|Nom|Pl	22	app	_	_
+24	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+25	,	,	$,	$,	_	0	root	_	_
+26	können	können	V	VMFIN	_|Pl|Pres|_	24	kon	_	_
+27	einen	eine	ART	ART	Indef|Masc|Acc|Sg	29	det	_	_
+28	wesentlichen	wesentlich	ADJA	ADJA	Pos|Masc|Acc|Sg|_|	29	attr	_	_
+29	Beitrag	Beitrag	N	NN	Masc|Acc|Sg	42	obja	_	_
+30	für	für	PREP	APPR	Acc	29	pp	_	_
+31	eine	eine	ART	ART	Indef|Fem|Acc|Sg	33	det	_	_
+32	effiziente	effizient	ADJA	ADJA	Pos|Fem|Acc|Sg|_|	33	attr	_	_
+33	Digitalisierung	Digitalisierung	N	NN	Fem|Acc|Sg	30	pn	_	_
+34	der	die	ART	ART	Def|Fem|Gen|Sg	35	det	_	_
+35	Lehre	Lehre	N	NN	Fem|Gen|Sg	33	gmod	_	_
+36	an	an	PREP	APPR	Dat	42	pp	_	_
+37	den	die	ART	ART	Def|Fem|Dat|Pl	38	det	_	_
+38	Hochschulen	Hochschule	N	NN	Fem|Dat|Pl	36	pn	_	_
+39	in	in	PREP	APPR	Dat	42	pp	_	_
+40	der	die	ART	ART	Def|Fem|Dat|Sg	41	det	_	_
+41	Zukunft	Zukunft	N	NN	Fem|Dat|Sg	39	pn	_	_
+42	leisten	leisten	V	VVINF	_	26	aux	_	_
+43	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 38138
+# date = 2020_04_22
+# protocol_id = 24
+# party = _
+# speaker = Abgeordneter August Wöginger (ÖVP)
+# governing = _
+# text = Zum Zweiten möchte ich noch kurz anmerken, weil hier gerade von der FPÖ ständig behauptet wird  – die Wirtschaftskammer hat da sehr viel geleistet, lieber Kollege Loacker  –, es gebe Auswirkungen der Coronakrise dadurch, dass diese Maßnahmen gesetzt wurden – es ist mir wirklich wichtig, das jetzt zu erwähnen –: Am 13. März hat es eine Pressekonferenz von Klubobmann Kickl und Frau Kollegin Belakowitsch gegeben, bei der der „Lockdown“ gefordert wurde.
+1	Zum	zu	PREP	APPRART	Dat	3	pp	_	_
+2	Zweiten	zweit	ADJA	ADJA	_|_|Dat|_|_|	1	pn	_	_
+3	möchte	mögen	V	VMFIN	1|Sg|Past|Subj	0	root	_	_
+4	ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	_
+5	noch	noch	ADV	ADV	_	7	adv	_	_
+6	kurz	kurz	ADV	ADJD	Pos|	7	adv	_	_
+7	anmerken	anmerken	V	VVINF	_	3	aux	_	_
+8	,	,	$,	$,	_	0	root	_	_
+9	weil	weil	KOUS	KOUS	_	17	konj	_	_
+10	hier	hier	ADV	ADV	_	16	adv	_	_
+11	gerade	gerade	ADV	ADV	_	16	adv	_	_
+12	von	von	PREP	APPR	_	16	pp	_	_
+13	der	die	ART	ART	Def|_|_|_	14	det	_	_
+14	FPÖ	FPÖ	N	NN	_|_|_	12	pn	_	_
+15	ständig	ständig	ADV	ADJD	Pos|	16	adv	_	_
+16	behauptet	behaupten	V	VVPP	_	17	aux	_	_
+17	wird	werden	V	VAFIN	3|Sg|Pres|Ind	3	neb	_	_
+18	–	–	$(	$(	_	0	root	_	_
+19	die	die	ART	ART	Def|Fem|Nom|Sg	20	det	_	_
+20	Wirtschaftskammer	Wirtschaftskammer	N	NN	Fem|Nom|Sg	21	subj	_	_
+21	hat	haben	V	VAFIN	3|Sg|Pres|Ind	3	kon	_	_
+22	da	da	ADV	ADV	_	25	adv	_	_
+23	sehr	sehr	ADV	ADV	_	24	adv	_	_
+24	viel	viel	PRO	PIS	_|_|_	25	obja	_	_
+25	geleistet	leisten	V	VVPP	_	21	aux	_	_
+26	,	,	$,	$,	_	0	root	_	_
+27	lieber	lieb	ADJA	ADJA	Pos|Masc|Nom|Sg|St|	28	attr	_	_
+28	Kollege	Kollege	N	NN	Masc|Nom|Sg	0	root	_	_
+29	Loacker	Loacker	N	NE	Masc|Nom|Sg	28	app	_	_
+30	–	–	$(	$(	_	0	root	_	_
+31	,	,	$,	$,	_	0	root	_	_
+32	es	es	PRO	PPER	3|Sg|Neut|_	43	expl	_	_
+33	gebe	geben	V	VVFIN	_|Sg|Pres|_	0	root	_	_
+34	Auswirkungen	Auswirkung	N	NN	_|Acc|_	33	obja	_	_
+35	der	die	ART	ART	Def|Fem|Gen|Sg	36	det	_	_
+36	Coronakrise	Coronakrise	N	NN	Fem|Gen|Sg	34	gmod	_	_
+37	dadurch	dadurch	PROAV	PROAV	_	33	pp	_	_
+38	,	,	$,	$,	_	0	root	_	_
+39	dass	dass	KOUS	KOUS	_	43	konj	_	_
+40	diese	diese	ART	PDAT	Fem|Nom|Pl	41	det	_	_
+41	Maßnahmen	Maßnahme	N	NN	Fem|Nom|Pl	43	subj	_	_
+42	gesetzt	setzen	V	VVPP	_	43	aux	_	_
+43	wurden	werden	V	VAFIN	3|Pl|Past|Ind	33	subjc	_	_
+44	–	–	$(	$(	_	0	root	_	_
+45	es	es	PRO	PPER	3|Sg|Neut|Nom	46	subj	_	_
+46	ist	sein	V	VAFIN	3|Sg|Pres|Ind	33	kon	_	_
+47	mir	ich	PRO	PPER	1|Sg|_|Dat	46	objd	_	_
+48	wirklich	wirklich	ADV	ADJD	Pos|	46	adv	_	_
+49	wichtig	wichtig	ADV	ADJD	Pos|	46	pred	_	_
+50	,	,	$,	$,	_	0	root	_	_
+51	das	die	PRO	PRELS	Neut|_|Sg	0	root	_	_
+52	jetzt	jetzt	ADV	ADV	_	54	adv	_	_
+53	zu	zu	PTKZU	PTKZU	_	54	part	_	_
+54	erwähnen	erwähnen	V	VVINF	_	0	root	_	_
+55	–	–	$(	$(	_	0	root	_	_
+56	:	\:	$.	$.	_	0	root	_	_
+57	Am	an	PREP	APPRART	Dat	60	pp	_	_
+58	13.	13.	ADJA	ADJA	_|Masc|Dat|Sg|_|	59	attr	_	_
+59	März	März	N	NN	Masc|Dat|Sg	57	pn	_	_
+60	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+61	es	es	PRO	PPER	3|Sg|Neut|Nom	60	subj	_	_
+62	eine	eine	ART	ART	Indef|Fem|Acc|Sg	63	det	_	_
+63	Pressekonferenz	Pressekonferenz	N	NN	Fem|Acc|Sg	71	obja	_	_
+64	von	von	PREP	APPR	_	71	pp	_	_
+65	Klubobmann	Klubobmann	N	NE	Fem|_|Sg	64	pn	_	_
+66	Kickl	Kickl	N	NE	Fem|_|Sg	65	app	_	_
+67	und	und	KON	KON	_	66	kon	_	_
+68	Frau	Frau	N	NN	Fem|_|Sg	67	cj	_	_
+69	Kollegin	Kollegin	N	NN	Fem|_|Sg	68	app	_	_
+70	Belakowitsch	Belakowitsch	N	NE	Fem|_|Sg	69	app	_	_
+71	gegeben	geben	V	VVPP	_	60	aux	_	_
+72	,	,	$,	$,	_	0	root	_	_
+73	bei	bei	PREP	APPR	Dat	0	root	_	_
+74	der	die	PRO	PRELS	Fem|Dat|Sg	73	pn	_	_
+75	der	die	ART	ART	Def|_|_|_	76	det	_	_
+76	„	„	FM	FM	_|_|_	0	root	_	_
+77	Lockdown	Lockdown	FM	FM	_|_|_	76	app	_	_
+78	“	“	$(	$(	_	0	root	_	_
+79	gefordert	fordern	V	VVPP	_	80	aux	_	_
+80	wurde	werden	V	VAFIN	_|Sg|Past|Ind	0	root	_	_
+81	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 38139
+# date = 2020_04_22
+# protocol_id = 24
+# party = _
+# speaker = Abgeordneter August Wöginger (ÖVP)
+# governing = _
+# text = Es wurde der „Lockdown“ für Österreich gefor­dert, damit man endlich mit der Salamitaktik aufhört, die Regierung solle viel schneller handeln, und man müsse der österreichischen Bevölkerung „reinen Wein einschenken“ und die Wahrheit sprechen.
+1	Es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	wurde	werden	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	der	die	ART	ART	Def|Masc|Nom|Sg	4	det	_	_
+4	„	„	FM	FM	Masc|Nom|Sg	2	pred	_	_
+5	Lockdown	Lockdown	FM	FM	Masc|Nom|Sg	4	app	_	_
+6	“	“	$(	$(	_	0	root	_	_
+7	für	für	PREP	APPR	Acc	0	root	_	_
+8	Österreich	Österreich	N	NE	Neut|Acc|Sg	7	pn	_	_
+9	gefor	gefor	FM	FM	Neut|Acc|Sg	8	app	_	_
+10	­	­	FM	FM	Neut|Acc|Sg	9	app	_	_
+11	dert	dert	FM	FM	Neut|Acc|Sg	10	app	_	_
+12	,	,	$,	$,	_	0	root	_	_
+13	damit	damit	KOUS	KOUS	_	19	konj	_	_
+14	man	man	PRO	PIS	_|Nom|Sg	19	subj	_	_
+15	endlich	endlich	ADV	ADJD	Pos|	19	adv	_	_
+16	mit	mit	PREP	APPR	Dat	19	pp	_	_
+17	der	die	ART	ART	Def|Fem|Dat|Sg	18	det	_	_
+18	Salamitaktik	Salamitaktik	N	NN	Fem|Dat|Sg	16	pn	_	_
+19	aufhört	aufhören	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+20	,	,	$,	$,	_	0	root	_	_
+21	die	die	ART	ART	Def|Fem|Nom|Sg	22	det	_	_
+22	Regierung	Regierung	N	NN	Fem|Nom|Sg	23	subj	_	_
+23	solle	sollen	V	VMFIN	3|Sg|Pres|Subj	19	kon	_	_
+24	viel	viel	ADV	ADV	_	25	adv	_	_
+25	schneller	schnell	ADV	ADJD	Comp|	26	adv	_	_
+26	handeln	handeln	V	VVINF	_	23	aux	_	_
+27	,	,	$,	$,	_	0	root	_	_
+28	und	und	KON	KON	_	23	kon	_	_
+29	man	man	PRO	PIS	_|Nom|Sg	30	subj	_	_
+30	müsse	müssen	V	VMFIN	3|Sg|Pres|Subj	28	cj	_	_
+31	der	die	ART	ART	Def|Fem|Dat|Sg	33	det	_	_
+32	österreichischen	österreichisch	ADJA	ADJA	Pos|Fem|Dat|Sg|Wk|	33	attr	_	_
+33	Bevölkerung	Bevölkerung	N	NN	Fem|Dat|Sg	37	objd	_	_
+34	„	„	N	NE	Fem|Dat|Sg	33	app	_	_
+35	reinen	rein	ADJA	ADJA	Pos|Masc|Acc|Sg|_|	36	attr	_	_
+36	Wein	Wein	N	NN	Masc|Acc|Sg	37	obja	_	_
+37	einschenken	einschenken	V	VVINF	_	30	aux	_	_
+38	“	“	$(	$(	_	0	root	_	_
+39	und	und	KON	KON	_	0	root	_	_
+40	die	die	ART	ART	Def|Fem|Acc|Sg	41	det	_	_
+41	Wahrheit	Wahrheit	N	NN	Fem|Acc|Sg	42	obja	_	_
+42	sprechen	sprechen	V	VVFIN	_|Pl|Pres|_	39	cj	_	_
+43	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 39180
+# date = 2020_04_22
+# protocol_id = 24
+# party = _
+# speaker = Abgeordnete Mag. Nina Tomaselli (Grüne)
+# governing = _
+# text = Seit 16.3.2020 befindet sich Österreich im Lock-Down.
+1	Seit	seit	PREP	APPR	Dat	3	pp	_	_
+2	16.3.2020	16.3.2020	CARD	CARD	_	1	pn	_	_
+3	befindet	befinden	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sich	sie	PRO	PRF	3|_|Acc	3	obja	_	_
+5	Österreich	Österreich	N	NE	Neut|Nom|Sg	3	subj	_	_
+6	im	in	PREP	APPRART	Dat	3	objp	_	_
+7	Lock-Down	Lock-Down	N	NE	_|Dat|_	6	pn	_	_
+8	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 42515
+# date = 2020_04_28
+# protocol_id = 27
+# party = _
+# speaker = Abgeordneter August Wöginger (ÖVP)
+# governing = _
+# text = Am 13. März setzt du dich mit Kickl hin und sagst: Lockdown, alles nieder!
+1	Am	an	PREP	APPRART	Dat	4	pp	_	_
+2	13.	13.	ADJA	ADJA	_|Masc|Dat|Sg|_|	3	attr	_	_
+3	März	März	N	NN	Masc|Dat|Sg	1	pn	_	_
+4	setzt	setzen	V	VVFIN	2|Sg|Pres|Ind	0	root	_	_
+5	du	du	PRO	PPER	2|Sg|_|Nom	4	subj	_	_
+6	dich	du	PRO	PPER	2|Sg|_|Acc	4	obja	_	_
+7	mit	mit	PREP	APPR	Dat	4	pp	_	_
+8	Kickl	Kickl	N	NE	_|Dat|_	7	pn	_	_
+9	hin	hin	PTKVZ	PTKVZ	_	4	avz	_	_
+10	und	und	KON	KON	_	4	kon	_	_
+11	sagst	sagen	V	VVFIN	2|Sg|Pres|Ind	10	cj	_	_
+12	:	\:	$.	$.	_	0	root	_	_
+13	Lockdown	Lockdown	N	NE	_	0	root	_	_
+14	,	,	$,	$,	_	0	root	_	_
+15	alles	alle	PRO	PIS	_|_|Sg	0	root	_	_
+16	nieder	nieder	PTKVZ	PTKVZ	_	0	root	_	_
+17	!	!	$.	$.	_	0	root	_	_
+
+# sent_id = 42564
+# date = 2020_04_28
+# protocol_id = 27
+# party = _
+# speaker = Abgeordnete Dr. Dagmar Belakowitsch (FPÖ)
+# governing = _
+# text = Des Weiteren – ich berichtige weiter tatsächlich – hat Abgeordneter Wöginger in seiner Rede hier behauptet, ich hätte in einer Pressekonferenz gemeinsam mit Klubobmann Kickl behauptet, wir wollen den totalen Lockdown – Punkt.
+1	Des	die	ART	ART	Def|_|Gen|Sg	35	det	_	_
+2	Weiteren	weit	ADJA	ADJA	Comp|_|Gen|Sg|_|	35	attr	_	_
+3	–	–	$(	$(	_	0	root	_	_
+4	ich	ich	PRO	PPER	1|Sg|_|Nom	5	subj	_	_
+5	berichtige	berichtigen	V	VVFIN	1|Sg|Pres|_	2	par	_	_
+6	weiter	weiter	ADV	ADV	_	5	adv	_	_
+7	tatsächlich	tatsächlich	ADV	ADJD	Pos|	5	adv	_	_
+8	–	–	$(	$(	_	0	root	_	_
+9	hat	haben	V	VAFIN	3|Sg|Pres|Ind	5	kon	_	_
+10	Abgeordneter	Abgeordnete	N	NN	Masc|Nom|Sg	9	subj	_	_
+11	Wöginger	Wöginger	N	NE	Masc|Nom|Sg	10	app	_	_
+12	in	in	PREP	APPR	Dat	16	pp	_	_
+13	seiner	seine	ART	PPOSAT	Fem|Dat|Sg	14	det	_	_
+14	Rede	Rede	N	NN	Fem|Dat|Sg	12	pn	_	_
+15	hier	hier	ADV	ADV	_	12	adv	_	_
+16	behauptet	behaupten	V	VVPP	_	9	aux	_	_
+17	,	,	$,	$,	_	0	root	_	_
+18	ich	ich	PRO	PPER	1|Sg|_|Nom	19	subj	_	_
+19	hätte	haben	V	VAFIN	1|Sg|Past|Subj	16	s	_	_
+20	in	in	PREP	APPR	Dat	27	pp	_	_
+21	einer	eine	ART	ART	Indef|Fem|Dat|Sg	22	det	_	_
+22	Pressekonferenz	Pressekonferenz	N	NN	Fem|Dat|Sg	20	pn	_	_
+23	gemeinsam	gemeinsam	ADV	ADJD	Pos|	24	adv	_	_
+24	mit	mit	PREP	APPR	Dat	27	pp	_	_
+25	Klubobmann	Klubobmann	N	NE	_|Dat|_	24	pn	_	_
+26	Kickl	Kickl	N	NE	_|Dat|_	25	app	_	_
+27	behauptet	behaupten	V	VVPP	_	19	aux	_	_
+28	,	,	$,	$,	_	0	root	_	_
+29	wir	wir	PRO	PPER	1|Pl|_|Nom	30	subj	_	_
+30	wollen	wollen	V	VMFIN	1|Pl|Pres|_	27	s	_	_
+31	den	die	ART	ART	Def|Masc|Acc|Sg	33	det	_	_
+32	totalen	total	ADJA	ADJA	Pos|Masc|Acc|Sg|_|	33	attr	_	_
+33	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	30	obja	_	_
+34	–	–	$(	$(	_	0	root	_	_
+35	Punkt	Punkt	N	NN	_|Gen|Sg	0	root	_	_
+36	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 42567
+# date = 2020_04_28
+# protocol_id = 27
+# party = _
+# speaker = Abgeordnete Dr. Dagmar Belakowitsch (FPÖ)
+# governing = _
+# text = Wir wollten den totalen Lockdown am Flughafen Wien und die absolute Grenzschließung.
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	_
+2	wollten	wollen	V	VMFIN	1|Pl|Past|_	0	root	_	_
+3	den	die	ART	ART	Def|Masc|Acc|Sg	5	det	_	_
+4	totalen	total	ADJA	ADJA	Pos|Masc|Acc|Sg|_|	5	attr	_	_
+5	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	2	obja	_	_
+6	am	an	PREP	APPRART	Dat	2	pp	_	_
+7	Flughafen	Flughafen	N	NN	Masc|Dat|Sg	6	pn	_	_
+8	Wien	Wien	N	NE	_|_|Sg	7	app	_	_
+9	und	und	KON	KON	_	8	kon	_	_
+10	die	die	ART	ART	Def|Fem|_|Sg	12	det	_	_
+11	absolute	absolut	ADJA	ADJA	Pos|Fem|_|Sg|_|	12	attr	_	_
+12	Grenzschließung	Grenzschließung	N	NN	Fem|_|Sg	9	cj	_	_
+13	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 42674
+# date = 2020_04_28
+# protocol_id = 27
+# party = _
+# speaker = Abgeordneter Mag. Ernst Gödl (ÖVP)
+# governing = _
+# text = Ich erinnere nochmals eindrücklich daran – das lässt sich im Protokoll nachlesen –, dass sich ein gewisser Herr Klub­obmann Kickl am 20. März hier ans Podium gestellt und die Regierung dafür gegeißelt hat, dass nicht ein sofortiger gesamter Lockdown – und nicht nur die Grenzschließun­gen  – durchgeführt wurde.
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	_
+2	erinnere	erinnern	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	nochmals	nochmals	ADV	ADV	_	2	adv	_	_
+4	eindrücklich	eindrücklich	ADV	ADJD	Pos|	2	adv	_	_
+5	daran	daran	PROAV	PROAV	_	2	objp	_	_
+6	–	–	$(	$(	_	0	root	_	_
+7	das	die	PRO	PDS	Neut|Nom|Sg	8	subj	_	_
+8	lässt	lassen	V	VVFIN	3|Sg|Pres|Ind	5	par	_	_
+9	sich	sie	PRO	PRF	3|_|Acc	12	obja	_	_
+10	im	in	PREP	APPRART	Dat	12	pp	_	_
+11	Protokoll	Protokoll	N	NN	Neut|Dat|Sg	10	pn	_	_
+12	nachlesen	nachlesen	V	VVINF	_	8	obji	_	_
+13	–	–	$(	$(	_	0	root	_	_
+14	,	,	$,	$,	_	0	root	_	_
+15	dass	dass	KOUS	KOUS	_	36	konj	_	_
+16	sich	sie	PRO	PRF	3|_|Acc	30	obja	_	_
+17	ein	eine	ART	ART	Indef|Masc|Nom|Sg	19	det	_	_
+18	gewisser	gewiss	ADJA	ADJA	Pos|Masc|Nom|Sg|St|	19	attr	_	_
+19	Herr	Herr	N	NN	Masc|Nom|Sg	36	subj	_	_
+20	Klub	Klub	N	NE	Masc|Nom|Sg	19	app	_	_
+21	­	­	FM	FM	Masc|Nom|Sg	20	app	_	_
+22	obmann	obmann	FM	FM	Masc|Nom|Sg	21	app	_	_
+23	Kickl	Kickl	FM	FM	Masc|Nom|Sg	22	app	_	_
+24	am	an	PREP	APPRART	Dat	30	pp	_	_
+25	20.	20.	ADJA	ADJA	_|Masc|Dat|Sg|_|	26	attr	_	_
+26	März	März	N	NN	Masc|Dat|Sg	24	pn	_	_
+27	hier	hier	ADV	ADV	_	24	adv	_	_
+28	ans	an	PREP	APPRART	Acc	30	objp	_	_
+29	Podium	Podium	N	NN	Neut|Acc|Sg	28	pn	_	_
+30	gestellt	stellen	V	VVPP	_	36	aux	_	_
+31	und	und	KON	KON	_	30	kon	_	_
+32	die	die	ART	ART	Def|Fem|Acc|Sg	33	det	_	_
+33	Regierung	Regierung	N	NN	Fem|Acc|Sg	35	obja	_	_
+34	dafür	dafür	PROAV	PROAV	_	35	pp	_	_
+35	gegeißelt	geißeln	V	VVPP	_	31	cj	_	_
+36	hat	haben	V	VAFIN	3|Sg|Pres|Ind	2	objc	_	_
+37	,	,	$,	$,	_	0	root	_	_
+38	dass	dass	KOUS	KOUS	_	0	root	_	_
+39	nicht	nicht	PTKNEG	PTKNEG	_	43	adv	_	_
+40	ein	eine	ART	ART	Indef|Masc|Nom|Sg	43	det	_	_
+41	sofortiger	sofortig	ADJA	ADJA	Pos|Masc|Nom|Sg|St|	43	attr	_	_
+42	gesamter	gesamt	ADJA	ADJA	Pos|Masc|Nom|Sg|St|	43	attr	_	_
+43	Lockdown	Lockdown	N	NN	Masc|Nom|Sg	0	root	_	_
+44	–	–	$(	$(	_	0	root	_	_
+45	und	und	KON	KON	_	0	root	_	_
+46	nicht	nicht	PTKNEG	PTKNEG	_	47	adv	_	_
+47	nur	nur	ADV	ADV	_	45	cj	_	_
+48	die	die	ART	ART	Def|_|_|_	49	det	_	_
+49	Grenzschließun	Grenzschließun	FM	FM	_|_|_	0	root	_	_
+50	­	­	FM	FM	_|_|_	49	app	_	_
+51	gen	gen	FM	FM	_|_|_	50	app	_	_
+52	–	–	$(	$(	_	0	root	_	_
+53	durchgeführt	durchführen	V	VVPP	_	54	aux	_	_
+54	wurde	werden	V	VAFIN	_|Sg|Past|Ind	0	root	_	_
+55	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 43113
+# date = 2020_04_28
+# protocol_id = 27
+# party = _
+# speaker = Abgeordneter Michael Schnedlitz (FPÖ)
+# governing = _
+# text = – Ich darf vorher Folgendes klarstellen, weil Sie immer sa­gen, Herr Kickl hätte einen Lockdown gefordert und fordere jetzt das Gegenteil: Das ist richtig, Herr Kickl und die Freiheitliche Partei haben einen Lockdown gefordert, aber nicht nur betreffend die Bevölkerung, wie Sie das gemacht haben, sondern vor allem was die Grenzen betrifft, was den Flughafen betrifft und was die schwarzen Freunderl zum Beispiel in Tirol betrifft, während Sie sich allein auf die Bevölkerung verlassen haben.
+1	–	–	$(	$(	_	0	root	_	_
+2	Ich	ich	PRO	PPER	1|Sg|_|Nom	3	subj	_	_
+3	darf	dürfen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+4	vorher	vorher	ADV	ADV	_	5	adv	_	_
+5	Folgendes	folgend	ADJA	ADJA	Pos|Neut|Acc|Sg|St|_	6	obja	_	_
+6	klarstellen	klarstellen	V	VVINF	_	3	aux	_	_
+7	,	,	$,	$,	_	0	root	_	_
+8	weil	weil	KOUS	KOUS	_	0	root	_	_
+9	Sie	sie	PRO	PPER	3|_|_|_	0	root	_	_
+10	immer	immer	ADV	ADV	_	9	adv	_	_
+11	sa	sa	FM	FM	_	0	root	_	_
+12	­	­	FM	FM	_	11	app	_	_
+13	gen	gen	FM	FM	_	12	app	_	_
+14	,	,	$,	$,	_	0	root	_	_
+15	Herr	Herr	N	NN	Masc|Nom|Sg	17	subj	_	_
+16	Kickl	Kickl	N	NE	Masc|Nom|Sg	15	app	_	_
+17	hätte	haben	V	VAFIN	3|Sg|Past|Subj	0	root	_	_
+18	einen	eine	ART	ART	Indef|Masc|Acc|Sg	19	det	_	_
+19	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	17	obja	_	_
+20	gefordert	fordern	V	VVPP	_	17	neb	_	_
+21	und	und	KON	KON	_	17	kon	_	_
+22	fordere	fordern	V	VVFIN	_|Sg|Pres|_	21	cj	_	_
+23	jetzt	jetzt	ADV	ADV	_	22	adv	_	_
+24	das	die	ART	ART	Def|Neut|Acc|Sg	25	det	_	_
+25	Gegenteil	Gegenteil	N	NN	Neut|Acc|Sg	22	obja	_	_
+26	:	\:	$.	$.	_	0	root	_	_
+27	Das	die	PRO	PDS	Neut|Nom|Sg	28	subj	_	_
+28	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+29	richtig	richtig	ADV	ADJD	Pos|	28	pred	_	_
+30	,	,	$,	$,	_	0	root	_	_
+31	Herr	Herr	N	NN	Masc|Nom|Sg	37	subj	_	_
+32	Kickl	Kickl	N	NE	Fem|Nom|Sg	31	app	_	_
+33	und	und	KON	KON	_	32	kon	_	_
+34	die	die	ART	ART	Def|Fem|Nom|Sg	36	det	_	_
+35	Freiheitliche	freiheitlich	ADJA	ADJA	Pos|Fem|Nom|Sg|_|	36	attr	_	_
+36	Partei	Partei	N	NN	Fem|Nom|Sg	33	cj	_	_
+37	haben	haben	V	VAFIN	_|Pl|Pres|_	28	kon	_	_
+38	einen	eine	ART	ART	Indef|Masc|Acc|Sg	39	det	_	_
+39	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	40	obja	_	_
+40	gefordert	fordern	V	VVPP	_	37	aux	_	_
+41	,	,	$,	$,	_	0	root	_	_
+42	aber	aber	KON	KON	_	0	root	_	_
+43	nicht	nicht	PTKNEG	PTKNEG	_	47	adv	_	_
+44	nur	nur	ADV	ADV	_	47	adv	_	_
+45	betreffend	betreffend	ADV	ADJD	_|_	47	adv	_	_
+46	die	die	ART	ART	Def|Fem|_|Sg	47	det	_	_
+47	Bevölkerung	Bevölkerung	N	NN	Fem|_|Sg	42	cj	_	_
+48	,	,	$,	$,	_	0	root	_	_
+49	wie	wie	PWAV	PWAV	_	52	adv	_	_
+50	Sie	sie	PRO	PPER	3|Pl|_|Nom	53	subj	_	_
+51	das	die	PRO	PDS	Neut|Acc|Sg	52	obja	_	_
+52	gemacht	machen	V	VVPP	_	53	aux	_	_
+53	haben	haben	V	VAFIN	3|Pl|Pres|_	47	objc	_	_
+54	,	,	$,	$,	_	0	root	_	_
+55	sondern	sondern	KON	KON	_	0	root	_	_
+56	vor	vor	PREP	APPR	Dat	55	cj	_	_
+57	allem	alle	PRO	PIS	_|Dat|Sg	56	pn	_	_
+58	was	was	PRO	PWS	Neut|Nom|Sg	61	subj	_	_
+59	die	die	ART	ART	Def|Fem|Acc|Pl	60	det	_	_
+60	Grenzen	Grenze	N	NN	Fem|Acc|Pl	61	obja	_	_
+61	betrifft	betreffen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+62	,	,	$,	$,	_	0	root	_	_
+63	was	was	PRO	PRELS	Neut|Nom|Sg	66	subj	_	_
+64	den	die	ART	ART	Def|Masc|Acc|Sg	65	det	_	_
+65	Flughafen	Flughafen	N	NN	Masc|Acc|Sg	66	obja	_	_
+66	betrifft	betreffen	V	VVFIN	3|Sg|Pres|Ind	58	rel	_	_
+67	und	und	KON	KON	_	66	kon	_	_
+68	was	was	PRO	PWS	Neut|Nom|Sg	76	subj	_	_
+69	die	die	ART	ART	Def|_|Acc|Pl	71	det	_	_
+70	schwarzen	schwarz	ADJA	ADJA	Pos|_|Acc|Pl|Wk|	71	attr	_	_
+71	Freunderl	Freunderl	N	NN	_|Acc|Pl	76	obja	_	_
+72	zum	zu	PREP	APPRART	Dat	76	pp	_	_
+73	Beispiel	Beispiel	N	NN	Neut|Dat|Sg	72	pn	_	_
+74	in	in	PREP	APPR	_	76	pp	_	_
+75	Tirol	Tirol	N	NE	Neut|_|Sg	74	pn	_	_
+76	betrifft	betreffen	V	VVFIN	3|Sg|Pres|Ind	67	cj	_	_
+77	,	,	$,	$,	_	0	root	_	_
+78	während	während	KOUS	KOUS	_	86	konj	_	_
+79	Sie	sie	PRO	PPER	3|Pl|_|Nom	86	subj	_	_
+80	sich	sie	PRO	PRF	3|_|Acc	85	obja	_	_
+81	allein	allein	ADV	ADV	_	80	adv	_	_
+82	auf	auf	PREP	APPR	Acc	85	objp	_	_
+83	die	die	ART	ART	Def|Fem|Acc|Sg	84	det	_	_
+84	Bevölkerung	Bevölkerung	N	NN	Fem|Acc|Sg	82	pn	_	_
+85	verlassen	verlassen	V	VVPP	_	86	aux	_	_
+86	haben	haben	V	VAFIN	3|Pl|Pres|_	76	neb	_	_
+87	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 43261
+# date = 2020_04_28
+# protocol_id = 27
+# party = _
+# speaker = Abgeordneter Mag. Michael Hammer
+# governing = _
+# text = Ich darf, da den Medien ja oft misstraut wird, für die vier Kollegen der Freiheitlichen Partei, die gerade herinnen sind – es ist ja, wenn es um sachliche Debatten und um soziale Maßnahmen für unse­re Familien geht, anscheinend nicht so üblich, dass man an der Debatte teilnimmt und sich hier einbringt  –, einfach aus der OTS des Freiheitlichen Parlamentsklubs vom 13. März zitieren: „Coronavirus: Kickl für ‚Lock­down‘ Österreichs“.
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	_
+2	darf	dürfen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	,	,	$,	$,	_	0	root	_	_
+4	da	da	KOUS	KOUS	_	10	konj	_	_
+5	den	die	ART	ART	Def|_|Dat|Pl	6	det	_	_
+6	Medien	Media	N	NN	_|Dat|Pl	9	objd	_	_
+7	ja	ja	ADV	ADV	_	6	adv	_	_
+8	oft	oft	ADV	ADV	_	9	adv	_	_
+9	misstraut	misstrauen	V	VVPP	_	10	aux	_	_
+10	wird	werden	V	VAFIN	3|Sg|Pres|Ind	2	neb	_	_
+11	,	,	$,	$,	_	0	root	_	_
+12	für	für	PREP	APPR	Acc	9	pp	_	_
+13	die	die	ART	ART	Def|Masc|Acc|Pl	15	det	_	_
+14	vier	vier	CARD	CARD	_	15	attr	_	_
+15	Kollegen	Kollege	N	NN	Masc|Acc|Pl	12	pn	_	_
+16	der	die	ART	ART	Def|Fem|Gen|Sg	18	det	_	_
+17	Freiheitlichen	freiheitlich	ADJA	ADJA	Pos|Fem|Gen|Sg|Wk|	18	attr	_	_
+18	Partei	Partei	N	NN	Fem|Gen|Sg	15	gmod	_	_
+19	,	,	$,	$,	_	0	root	_	_
+20	die	die	PRO	PRELS	Masc|Nom|Pl	23	subj	_	_
+21	gerade	gerade	ADV	ADV	_	23	adv	_	_
+22	herinnen	herinnen	ADV	ADV	_	23	adv	_	_
+23	sind	sein	V	VAFIN	3|Pl|Pres|Ind	15	rel	_	_
+24	–	–	$(	$(	_	0	root	_	_
+25	es	es	PRO	PPER	3|Sg|Neut|Nom	26	subj	_	_
+26	ist	sein	V	VAFIN	3|Sg|Pres|Ind	2	kon	_	_
+27	ja	ja	ADV	ADV	_	26	adv	_	_
+28	,	,	$,	$,	_	0	root	_	_
+29	wenn	wenn	KOUS	KOUS	_	0	root	_	_
+30	es	es	PRO	PPER	3|Sg|Neut|_	0	root	_	_
+31	um	um	PREP	APPR	Acc	30	pp	_	_
+32	sachliche	sachlich	ADJA	ADJA	Pos|Fem|Acc|Pl|St|	33	attr	_	_
+33	Debatten	Debatte	N	NN	Fem|Acc|Pl	31	pn	_	_
+34	und	und	KON	KON	_	0	root	_	_
+35	um	um	KOUI	KOUI	_	0	root	_	_
+36	soziale	sozial	ADJA	ADJA	Pos|_|_|_|_|	0	root	_	_
+37	Maßnahmen	Maßnahme	N	NN	Fem|Dat|Pl	43	objd	_	_
+38	für	für	PREP	APPR	Acc	37	pp	_	_
+39	unse	unse	FM	FM	Fem|Acc|Pl	38	pn	_	_
+40	­	­	FM	FM	Fem|Acc|Pl	39	app	_	_
+41	re	re	FM	FM	Fem|Acc|Pl	40	app	_	_
+42	Familien	Familie	N	NN	Fem|Acc|Pl	41	app	_	_
+43	geht	gehen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+44	,	,	$,	$,	_	0	root	_	_
+45	anscheinend	anscheinen	ADV	ADJD	_|<PPRES	46	adv	_	_
+46	nicht	nicht	PTKNEG	PTKNEG	_	48	adv	_	_
+47	so	so	ADV	ADV	_	48	adv	_	_
+48	üblich	üblich	ADV	ADJD	Pos|	0	root	_	_
+49	,	,	$,	$,	_	0	root	_	_
+50	dass	dass	KOUS	KOUS	_	55	konj	_	_
+51	man	man	PRO	PIS	_|Nom|Sg	55	subj	_	_
+52	an	an	PREP	APPR	Dat	55	pp	_	_
+53	der	die	ART	ART	Def|Fem|Dat|Sg	54	det	_	_
+54	Debatte	Debatte	N	NN	Fem|Dat|Sg	52	pn	_	_
+55	teilnimmt	teilnehmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+56	und	und	KON	KON	_	55	kon	_	_
+57	sich	sie	PRO	PRF	3|_|Acc	59	obja	_	_
+58	hier	hier	ADV	ADV	_	59	adv	_	_
+59	einbringt	einbringen	V	VVFIN	_|_|Pres|Ind	56	cj	_	_
+60	–	–	$(	$(	_	0	root	_	_
+61	,	,	$,	$,	_	0	root	_	_
+62	einfach	einfach	ADV	ADJD	Pos|	72	adv	_	_
+63	aus	aus	PREP	APPR	Dat	72	pp	_	_
+64	der	die	ART	ART	Def|Fem|Dat|Sg	65	det	_	_
+65	OTS	OTS	N	NN	Fem|Dat|Sg	63	pn	_	_
+66	des	die	ART	ART	Def|Masc|Gen|Sg	68	det	_	_
+67	Freiheitlichen	freiheitlich	ADJA	ADJA	Pos|Masc|Gen|Sg|_|	68	attr	_	_
+68	Parlamentsklubs	Parlamentsklub	N	NN	Masc|Gen|Sg	65	gmod	_	_
+69	vom	von	PREP	APPRART	Dat	68	pp	_	_
+70	13.	13.	ADJA	ADJA	_|Masc|Dat|Sg|_|	71	attr	_	_
+71	März	März	N	NN	Masc|Dat|Sg	69	pn	_	_
+72	zitieren	zitieren	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+73	:	\:	$.	$.	_	0	root	_	_
+74	„	„	FM	FM	_|_|Sg	0	root	_	_
+75	Coronavirus	Coronavirus	N	NN	_|_|Sg	74	app	_	_
+76	:	\:	$.	$.	_	0	root	_	_
+77	Kickl	Kickl	N	NN	_	0	root	_	_
+78	für	für	PREP	APPR	Acc	77	pp	_	_
+79	‚	‚	FM	FM	_|Acc|_	78	pn	_	_
+80	Lock	Lock	FM	FM	_|Acc|_	79	app	_	_
+81	­	­	FM	FM	_|Acc|_	80	app	_	_
+82	down	down	FM	FM	_|Acc|_	81	app	_	_
+83	‘	‘	$(	$(	_	0	root	_	_
+84	Österreichs	Österreich	N	NE	Neut|Gen|Sg	0	root	_	_
+85	“	“	$(	$(	_	0	root	_	_
+86	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 43263
+# date = 2020_04_28
+# protocol_id = 27
+# party = _
+# speaker = Abgeordneter Mag. Michael Hammer
+# governing = _
+# text = Daher schlage die FPÖ einen ‚Lockdown‘ vor.
+1	Daher	Daher	PROAV	PROAV	_	2	pp	_	_
+2	schlage	schlagen	V	VVFIN	3|Sg|Pres|Subj	0	root	_	_
+3	die	die	ART	ART	Def|Fem|Nom|Sg	4	det	_	_
+4	FPÖ	FPÖ	N	NN	Fem|Nom|Sg	2	subj	_	_
+5	einen	eine	ART	ART	Indef|Masc|Acc|Sg	6	det	_	_
+6	‚	‚	FM	FM	Masc|Acc|Sg	2	obja	_	_
+7	Lockdown	Lockdown	FM	FM	Masc|Acc|Sg	6	app	_	_
+8	‘	‘	$(	$(	_	0	root	_	_
+9	vor	vor	PTKVZ	PTKVZ	_	0	root	_	_
+10	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 43266
+# date = 2020_04_28
+# protocol_id = 27
+# party = _
+# speaker = Abgeordneter Mag. Michael Hammer
+# governing = _
+# text = – Das ist das, was die Freiheitlichen am 13. März vorgeschlagen haben: ein Lockdown für Österreich.
+1	–	–	$(	$(	_	0	root	_	_
+2	Das	die	PRO	PDS	Neut|_|Sg	0	root	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	das	die	PRO	PDS	Neut|Nom|Sg	3	subj	_	_
+5	,	,	$,	$,	_	0	root	_	_
+6	was	was	PRO	PRELS	Neut|Acc|Sg	12	obja	_	_
+7	die	die	ART	ART	Def|_|Nom|Pl	8	det	_	_
+8	Freiheitlichen	Freiheitliche	N	NN	_|Nom|Pl	13	subj	_	_
+9	am	an	PREP	APPRART	Dat	12	pp	_	_
+10	13.	13.	ADJA	ADJA	_|Masc|Dat|Sg|_|	11	attr	_	_
+11	März	März	N	NN	Masc|Dat|Sg	9	pn	_	_
+12	vorgeschlagen	vorschlagen	V	VVPP	_	13	aux	_	_
+13	haben	haben	V	VAFIN	3|Pl|Pres|_	3	objc	_	_
+14	:	\:	$.	$.	_	0	root	_	_
+15	ein	eine	ART	ART	Indef|Masc|Nom|Sg	16	det	_	_
+16	Lockdown	Lockdown	N	NN	Masc|Nom|Sg	0	root	_	_
+17	für	für	PREP	APPR	Acc	16	pp	_	_
+18	Österreich	Österreich	N	NE	Neut|Acc|Sg	17	pn	_	_
+19	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 43973
+# date = 2020_04_28
+# protocol_id = 27
+# party = _
+# speaker = Abgeordneter Ralph Schallmeiner (Grüne)
+# governing = _
+# text = Wir wollen wieder zurück in eine Normalität, wie wir sie vor dem Lockdown kannten und wie wir sie geschätzt haben.
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	_
+2	wollen	wollen	V	VMFIN	1|Pl|Pres|_	0	root	_	_
+3	wieder	wieder	ADV	ADV	_	2	adv	_	_
+4	zurück	zurück	ADV	ADV	_	2	adv	_	_
+5	in	in	PREP	APPR	Acc	2	objp	_	_
+6	eine	eine	ART	ART	Indef|Fem|Acc|Sg	7	det	_	_
+7	Normalität	Normalität	N	NN	Fem|Acc|Sg	5	pn	_	_
+8	,	,	$,	$,	_	0	root	_	_
+9	wie	wie	PWAV	PWAV	_	15	adv	_	_
+10	wir	wir	PRO	PPER	1|Pl|_|Nom	15	subj	_	_
+11	sie	sie	PRO	PPER	3|_|_|Acc	15	obja	_	_
+12	vor	vor	PREP	APPR	Dat	15	pp	_	_
+13	dem	die	ART	ART	Def|Masc|Dat|Sg	14	det	_	_
+14	Lockdown	Lockdown	N	NN	Masc|Dat|Sg	12	pn	_	_
+15	kannten	kennen	V	VVFIN	1|Pl|Past|Ind	2	objc	_	_
+16	und	und	KON	KON	_	15	kon	_	_
+17	wie	wie	PWAV	PWAV	_	20	adv	_	_
+18	wir	wir	PRO	PPER	1|Pl|_|Nom	21	subj	_	_
+19	sie	sie	PRO	PPER	3|_|_|Acc	20	obja	_	_
+20	geschätzt	schätzen	V	VVPP	_	21	aux	_	_
+21	haben	haben	V	VAFIN	1|Pl|Pres|_	16	cj	_	_
+22	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 43975
+# date = 2020_04_28
+# protocol_id = 27
+# party = _
+# speaker = Abgeordneter Ralph Schallmeiner (Grüne)
+# governing = _
+# text = Wie kommen wir heraus aus dem Lockdown?
+1	Wie	Wie	PWAV	PWAV	_	2	adv	_	_
+2	kommen	kommen	V	VVFIN	1|Pl|Pres|_	0	root	_	_
+3	wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	_
+4	heraus	heraus	APZR	APZR	_	0	root	_	_
+5	aus	aus	PREP	APPR	Dat	0	root	_	_
+6	dem	die	ART	ART	Def|Masc|Dat|Sg	7	det	_	_
+7	Lockdown	Lockdown	N	NN	Masc|Dat|Sg	5	pn	_	_
+8	?	?	$.	$.	_	0	root	_	_
+
+# sent_id = 43993
+# date = 2020_04_28
+# protocol_id = 27
+# party = _
+# speaker = Abgeordneter Ralph Schallmeiner (Grüne)
+# governing = _
+# text = Das ist ein Beitrag dazu, dass wir aus diesem Lockdown herauskommen.
+1	Das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ein	eine	ART	ART	Indef|Masc|Nom|Sg	4	det	_	_
+4	Beitrag	Beitrag	N	NN	Masc|Nom|Sg	2	pred	_	_
+5	dazu	dazu	PROAV	PROAV	_	4	pp	_	_
+6	,	,	$,	$,	_	0	root	_	_
+7	dass	dass	KOUS	KOUS	_	12	konj	_	_
+8	wir	wir	PRO	PPER	1|Pl|_|Nom	12	subj	_	_
+9	aus	aus	PREP	APPR	Dat	12	objp	_	_
+10	diesem	diese	ART	PDAT	Masc|Dat|Sg	11	det	_	_
+11	Lockdown	Lockdown	N	NN	Masc|Dat|Sg	9	pn	_	_
+12	herauskommen	herauskommen	V	VVFIN	1|Pl|Pres|_	2	objc	_	_
+13	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 44061
+# date = 2020_04_28
+# protocol_id = 27
+# party = _
+# speaker = Abgeordneter Mag. Gerhard Kaniak (FPÖ)
+# governing = _
+# text = Umso unbegreiflicher, dass Anträge zur Normalisierung, zur Beendigung des Lockdowns im Gesundheitswesen  im Gesund­heitsausschuss wieder abgelehnt worden sind.
+1	Umso	Umso	ADV	ADV	_	2	adv	_	_
+2	unbegreiflicher	unbegreiflich	ADV	ADJD	Comp|	0	root	_	_
+3	,	,	$,	$,	_	0	root	_	_
+4	dass	dass	KOUS	KOUS	_	0	root	_	_
+5	Anträge	Antrag	N	NN	Masc|_|Pl	0	root	_	_
+6	zur	zu	PREP	APPRART	Dat	5	pp	_	_
+7	Normalisierung	Normalisierung	N	NN	Fem|Dat|Sg	6	pn	_	_
+8	,	,	$,	$,	_	0	root	_	_
+9	zur	zu	PREP	APPRART	Dat	20	pp	_	_
+10	Beendigung	Beendigung	N	NN	Fem|Dat|Sg	9	pn	_	_
+11	des	die	ART	ART	Def|Masc|Gen|Sg	12	det	_	_
+12	Lockdowns	Lockdown	N	NN	Masc|Gen|Sg	10	gmod	_	_
+13	im	in	PREP	APPRART	Dat	20	pp	_	_
+14	Gesundheitswesen	Gesundheitswesen	N	NN	Neut|Dat|_	13	pn	_	_
+15	im	in	PREP	APPRART	Dat	20	pp	_	_
+16	Gesund	Gesund	FM	FM	_|Dat|_	15	pn	_	_
+17	­	­	FM	FM	_|Dat|_	16	app	_	_
+18	heitsausschuss	heitsausschuss	FM	FM	_|Dat|_	17	app	_	_
+19	wieder	wieder	ADV	ADV	_	20	adv	_	_
+20	abgelehnt	ablehnen	V	VVPP	_	21	aux	_	_
+21	worden	werden	V	VAPP	_	22	aux	_	_
+22	sind	sein	V	VAFIN	_|Pl|Pres|Ind	0	root	_	_
+23	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 44317
+# date = 2020_04_28
+# protocol_id = 27
+# party = _
+# speaker = Abgeordneter Peter Wurm (FPÖ)
+# governing = _
+# text = Zum Abschluss nur noch einmal ganz kurz zu Italien: Italien hat eine Woche vor Ös­terreich den Lockdown gemacht und hat ihn mit wesentlich strengeren Maßnahmen für die Bevölkerung durchgezogen.
+1	Zum	zu	PREP	APPRART	Dat	7	pp	_	_
+2	Abschluss	Abschluss	N	NN	Masc|Dat|Sg	1	pn	_	_
+3	nur	nur	ADV	ADV	_	1	adv	_	_
+4	noch	noch	ADV	ADV	_	5	adv	_	_
+5	einmal	einmal	ADV	ADV	_	1	adv	_	_
+6	ganz	ganz	ADV	ADV	_	7	adv	_	_
+7	kurz	kurz	ADV	ADJD	Pos|	8	adv	_	_
+8	zu	zu	PREP	APPR	Dat	0	root	_	_
+9	Italien	Italien	N	NE	Neut|Dat|Sg	8	pn	_	_
+10	:	\:	$.	$.	_	0	root	_	_
+11	Italien	Italien	N	NE	Neut|Nom|Sg	12	subj	_	_
+12	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+13	eine	eine	ART	ART	Indef|Fem|Acc|Sg	14	det	_	_
+14	Woche	Woche	N	NN	Fem|Acc|Sg	15	grad	_	_
+15	vor	vor	PREP	APPR	_	21	pp	_	_
+16	Ös	Ös	FM	FM	_|_|_	15	pn	_	_
+17	­	­	FM	FM	_|_|_	16	app	_	_
+18	terreich	terreich	FM	FM	_|_|_	17	app	_	_
+19	den	die	ART	ART	Def|Masc|Acc|Sg	20	det	_	_
+20	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	21	obja	_	_
+21	gemacht	machen	V	VVPP	_	12	aux	_	_
+22	und	und	KON	KON	_	12	kon	_	_
+23	hat	haben	V	VAFIN	3|Sg|Pres|Ind	22	cj	_	_
+24	ihn	er	PRO	PPER	3|Sg|Masc|Acc	32	obja	_	_
+25	mit	mit	PREP	APPR	Dat	32	pp	_	_
+26	wesentlich	wesentlich	ADV	ADJD	Pos|	27	adv	_	_
+27	strengeren	streng	ADJA	ADJA	Comp|Fem|Dat|Pl|_|	28	attr	_	_
+28	Maßnahmen	Maßnahme	N	NN	Fem|Dat|Pl	25	pn	_	_
+29	für	für	PREP	APPR	Acc	28	pp	_	_
+30	die	die	ART	ART	Def|Fem|Acc|Sg	31	det	_	_
+31	Bevölkerung	Bevölkerung	N	NN	Fem|Acc|Sg	29	pn	_	_
+32	durchgezogen	durchziehen	V	VVPP	_	23	aux	_	_
+33	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 44688
+# date = 2020_04_28
+# protocol_id = 27
+# party = _
+# speaker = Abgeordnete Katharina Kucharowits (SPÖ)
+# governing = _
+# text = Vor sechs Wochen ist unsere Republik in einen Lockdownmodus gegangen.
+1	Vor	vor	PREP	APPR	_	4	pp	_	_
+2	sechs	sechs	CARD	CARD	_	3	attr	_	_
+3	Wochen	Woche	N	NN	Fem|_|Pl	1	pn	_	_
+4	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	unsere	unsre	ART	PPOSAT	Fem|Nom|Sg	6	det	_	_
+6	Republik	Republik	N	NN	Fem|Nom|Sg	4	subj	_	_
+7	in	in	PREP	APPR	Acc	10	objp	_	_
+8	einen	eine	ART	ART	Indef|Masc|Acc|Sg	9	det	_	_
+9	Lockdownmodus	Lockdownmodus	N	NN	Masc|Acc|Sg	7	pn	_	_
+10	gegangen	gehen	V	VVPP	_	4	aux	_	_
+11	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 45108
+# date = 2020_04_28
+# protocol_id = 27
+# party = _
+# speaker = Abgeordneter Mag. Gerald Loacker (NEOS)
+# governing = _
+# text = Sie haben nämlich die Zeit des Lockdowns nicht genützt, um jetzt die Phase der Öffnung mit Daten substanziell zu begleiten.
+1	Sie	sie	PRO	PPER	3|Pl|_|Nom	2	subj	_	_
+2	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	nämlich	nämlich	ADV	ADV	_	9	adv	_	_
+4	die	die	ART	ART	Def|Fem|Acc|Sg	5	det	_	_
+5	Zeit	Zeit	N	NN	Fem|Acc|Sg	9	obja	_	_
+6	des	die	ART	ART	Def|Masc|Gen|Sg	7	det	_	_
+7	Lockdowns	Lockdown	N	NN	Masc|Gen|Sg	5	gmod	_	_
+8	nicht	nicht	PTKNEG	PTKNEG	_	9	adv	_	_
+9	genützt	nützen	V	VVPP	_	2	aux	_	_
+10	,	,	$,	$,	_	0	root	_	_
+11	um	um	KOUI	KOUI	_	21	konj	_	_
+12	jetzt	jetzt	ADV	ADV	_	21	adv	_	_
+13	die	die	ART	ART	Def|Fem|Acc|Sg	14	det	_	_
+14	Phase	Phase	N	NN	Fem|Acc|Sg	21	obja	_	_
+15	der	die	ART	ART	Def|Fem|Gen|Sg	16	det	_	_
+16	Öffnung	Öffnung	N	NN	Fem|Gen|Sg	14	gmod	_	_
+17	mit	mit	PREP	APPR	Dat	21	pp	_	_
+18	Daten	Daten	N	NN	_|Dat|Pl	17	pn	_	_
+19	substanziell	substanziell	ADV	ADJD	Pos|	21	adv	_	_
+20	zu	zu	PTKZU	PTKZU	_	21	part	_	_
+21	begleiten	begleiten	V	VVINF	_	2	neb	_	_
+22	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 45685
+# date = 2020_04_28
+# protocol_id = 27
+# party = _
+# speaker = Abgeordnete Dr. Susanne Fürst (FPÖ)
+# governing = _
+# text = Die Vielfalt der Meinungen wurde jedoch ab Anfang März systematisch weniger, bis letztlich in den Iden des März nicht nur der wirtschaftliche und soziale Shutdown beschlossen worden ist, sondern auch der Lockdown für die Meinungsfreiheit und die Wissenschaftsfreiheit.
+1	Die	die	ART	ART	Def|Fem|Nom|Sg	2	det	_	_
+2	Vielfalt	Vielfalt	N	NN	Fem|Nom|Sg	5	subj	_	_
+3	der	die	ART	ART	Def|Fem|Gen|Pl	4	det	_	_
+4	Meinungen	Meinung	N	NN	Fem|Gen|Pl	2	gmod	_	_
+5	wurde	werden	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+6	jedoch	jedoch	ADV	ADV	_	5	adv	_	_
+7	ab	ab	PREP	APPR	Dat	5	pp	_	_
+8	Anfang	Anfang	N	NN	Masc|Dat|Sg	7	pn	_	_
+9	März	März	N	NN	Masc|Dat|Sg	8	app	_	_
+10	systematisch	systematisch	ADV	ADJD	Pos|	5	adv	_	_
+11	weniger	weniger	ADV	ADV	_	5	adv	_	_
+12	,	,	$,	$,	_	0	root	_	_
+13	bis	bis	KOUS	KOUS	_	29	konj	_	_
+14	letztlich	letztlich	ADV	ADV	_	27	adv	_	_
+15	in	in	PREP	APPR	_	27	pp	_	_
+16	den	die	ART	ART	Def|_|_|_	17	det	_	_
+17	Iden	Iden	N	NN	_|_|_	15	pn	_	_
+18	des	die	ART	ART	Def|_|Gen|Sg	19	det	_	_
+19	März	März	N	NN	_|Gen|Sg	17	gmod	_	_
+20	nicht	nicht	PTKNEG	PTKNEG	_	27	adv	_	_
+21	nur	nur	ADV	ADV	_	27	adv	_	_
+22	der	die	ART	ART	Def|Masc|Nom|Sg	26	det	_	_
+23	wirtschaftliche	wirtschaftlich	ADJA	ADJA	Pos|Masc|Nom|Sg|Wk|	26	attr	_	_
+24	und	und	KON	KON	_	23	kon	_	_
+25	soziale	sozial	ADJA	ADJA	Pos|_|Nom|_|_|	24	cj	_	_
+26	Shutdown	Shutdown	N	NN	Masc|Nom|Sg	29	subj	_	_
+27	beschlossen	beschließen	V	VVPP	_	28	aux	_	_
+28	worden	werden	V	VAPP	_	29	aux	_	_
+29	ist	sein	V	VAFIN	3|Sg|Pres|Ind	5	neb	_	_
+30	,	,	$,	$,	_	0	root	_	_
+31	sondern	sondern	KON	KON	_	0	root	_	_
+32	auch	auch	ADV	ADV	_	31	cj	_	_
+33	der	die	ART	ART	Def|Masc|Nom|Sg	34	det	_	_
+34	Lockdown	Lockdown	N	NN	Masc|Nom|Sg	31	cj	_	_
+35	für	für	PREP	APPR	Acc	34	pp	_	_
+36	die	die	ART	ART	Def|Fem|Acc|Sg	37	det	_	_
+37	Meinungsfreiheit	Meinungsfreiheit	N	NN	Fem|Acc|Sg	35	pn	_	_
+38	und	und	KON	KON	_	37	kon	_	_
+39	die	die	ART	ART	Def|Fem|Acc|Sg	40	det	_	_
+40	Wissenschaftsfreiheit	Wissenschaftsfreiheit	N	NN	Fem|Acc|Sg	38	cj	_	_
+41	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 45689
+# date = 2020_04_28
+# protocol_id = 27
+# party = _
+# speaker = Abgeordnete Dr. Susanne Fürst (FPÖ)
+# governing = _
+# text = Man durfte auch nicht mehr sagen, dass es vielleicht nicht das Beste ist, nur stur auf die Zahl der Co­ronatoten zu schauen, sondern dass man vielleicht auch an die Opfer des Lockdowns denken muss und dass es da vielleicht zu einer Bilanz kommt, in der wir mehr Tote haben.
+1	Man	man	PRO	PIS	_|Nom|Sg	2	subj	_	_
+2	durfte	dürfen	V	VMFIN	3|Sg|Past|Ind	0	root	_	_
+3	auch	auch	ADV	ADV	_	6	adv	_	_
+4	nicht	nicht	PTKNEG	PTKNEG	_	6	adv	_	_
+5	mehr	mehr	PRO	PIS	_|Dat|_	6	objd	_	_
+6	sagen	sagen	V	VVINF	_	2	aux	_	_
+7	,	,	$,	$,	_	0	root	_	_
+8	dass	dass	KOUS	KOUS	_	14	konj	_	_
+9	es	es	PRO	PPER	3|Sg|Neut|_	26	expl	_	_
+10	vielleicht	vielleicht	ADV	ADV	_	14	adv	_	_
+11	nicht	nicht	PTKNEG	PTKNEG	_	14	adv	_	_
+12	das	die	ART	ART	Def|Neut|Nom|Sg	13	det	_	_
+13	Beste	Beste	N	NN	Neut|Nom|Sg	14	pred	_	_
+14	ist	sein	V	VAFIN	3|Sg|Pres|Ind	6	objc	_	_
+15	,	,	$,	$,	_	0	root	_	_
+16	nur	nur	ADV	ADV	_	26	adv	_	_
+17	stur	stur	ADV	ADJD	Pos|	26	adv	_	_
+18	auf	auf	PREP	APPR	Acc	26	pp	_	_
+19	die	die	ART	ART	Def|Fem|Acc|Sg	20	det	_	_
+20	Zahl	Zahl	N	NN	Fem|Acc|Sg	18	pn	_	_
+21	der	die	ART	ART	Def|_|Gen|_	22	det	_	_
+22	Co	Co	N	NN	_|Gen|_	20	gmod	_	_
+23	­	­	FM	FM	_|Gen|_	22	app	_	_
+24	ronatoten	ronatoten	FM	FM	_|Gen|_	23	app	_	_
+25	zu	zu	PTKZU	PTKZU	_	26	part	_	_
+26	schauen	schauen	V	VVINF	_	14	subjc	_	_
+27	,	,	$,	$,	_	0	root	_	_
+28	sondern	sondern	KON	KON	_	14	kon	_	_
+29	dass	dass	KOUS	KOUS	_	39	konj	_	_
+30	man	man	PRO	PIS	_|Nom|Sg	39	subj	_	_
+31	vielleicht	vielleicht	ADV	ADV	_	38	adv	_	_
+32	auch	auch	ADV	ADV	_	38	adv	_	_
+33	an	an	PREP	APPR	Acc	38	objp	_	_
+34	die	die	ART	ART	Def|Neut|Acc|Pl	35	det	_	_
+35	Opfer	Opfer	N	NN	Neut|Acc|Pl	33	pn	_	_
+36	des	die	ART	ART	Def|Masc|Gen|Sg	37	det	_	_
+37	Lockdowns	Lockdown	N	NN	Masc|Gen|Sg	35	gmod	_	_
+38	denken	denken	V	VVINF	_	39	aux	_	_
+39	muss	müssen	V	VMFIN	3|Sg|Pres|Ind	28	cj	_	_
+40	und	und	KON	KON	_	39	kon	_	_
+41	dass	dass	KOUS	KOUS	_	48	konj	_	_
+42	es	es	PRO	PPER	3|Sg|Neut|Nom	48	subj	_	_
+43	da	da	ADV	ADV	_	48	adv	_	_
+44	vielleicht	vielleicht	ADV	ADV	_	48	adv	_	_
+45	zu	zu	PREP	APPR	Dat	48	objp	_	_
+46	einer	eine	ART	ART	Indef|Fem|Dat|Sg	47	det	_	_
+47	Bilanz	Bilanz	N	NN	Fem|Dat|Sg	45	pn	_	_
+48	kommt	kommen	V	VVFIN	3|Sg|Pres|Ind	40	cj	_	_
+49	,	,	$,	$,	_	0	root	_	_
+50	in	in	PREP	APPR	Dat	55	pp	_	_
+51	der	die	PRO	PRELS	Fem|Dat|Sg	50	pn	_	_
+52	wir	wir	PRO	PPER	1|Pl|_|Nom	55	subj	_	_
+53	mehr	mehr	ART	PIAT	_|Acc|_	54	det	_	_
+54	Tote	Tote	N	NN	_|Acc|_	55	obja	_	_
+55	haben	haben	V	VAFIN	1|Pl|Pres|_	47	rel	_	_
+56	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 45726
+# date = 2020_04_28
+# protocol_id = 27
+# party = _
+# speaker = Abgeordnete Eva-Maria Himmelbauer, BSc (ÖVP)
+# governing = _
+# text = – man kann das auch online nachlesen – noch einen Lockdown eingefordert, ja, massive Maßnahmen.
+1	–	–	$(	$(	_	0	root	_	_
+2	man	man	PRO	PIS	_|Nom|Sg	3	subj	_	_
+3	kann	können	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+4	das	die	PRO	PDS	Neut|Acc|Sg	7	obja	_	_
+5	auch	auch	ADV	ADV	_	7	adv	_	_
+6	online	online	ADV	ADJD	Pos|	7	adv	_	_
+7	nachlesen	nachlesen	V	VVINF	_	3	aux	_	_
+8	–	–	$(	$(	_	0	root	_	_
+9	noch	noch	ADV	ADV	_	7	adv	_	_
+10	einen	eine	ART	ART	Indef|Masc|Acc|Sg	11	det	_	_
+11	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	12	obja	_	_
+12	eingefordert	einfordern	V	VVPP	_	0	root	_	_
+13	,	,	$,	$,	_	0	root	_	_
+14	ja	ja	PTKANT	PTKANT	_	0	root	_	_
+15	,	,	$,	$,	_	0	root	_	_
+16	massive	massiv	ADJA	ADJA	Pos|Fem|_|Pl|St|	17	attr	_	_
+17	Maßnahmen	Maßnahme	N	NN	Fem|_|Pl	0	root	_	_
+18	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 48188
+# date = 2020_05_13
+# protocol_id = 30
+# party = _
+# speaker = Abgeordneter August Wöginger (ÖVP)
+# governing = _
+# text = Am Anfang – und ich möchte das noch einmal betonen – war es so: Kickl hat am 13. März den Lockdown gefordert , Rendi-Wagner hat Ende März von diesem Pult aus gesagt, Mitte April könnte es sein, dass wir die 30 000er-Marke an Infizierten überschreiten, und dann wären die Kapazitäts­grenzen sozusagen erreicht, was die Spitäler und auch die Intensivbetten anbelangt.
+1	Am	an	PREP	APPRART	Dat	6	pp	_	_
+2	Anfang	Anfang	N	NN	Masc|Nom|Sg	1	pn	_	_
+3	–	–	$(	$(	_	0	root	_	_
+4	und	und	KON	KON	_	2	kon	_	_
+5	ich	ich	PRO	PPER	1|Sg|_|Nom	4	cj	_	_
+6	möchte	mögen	V	VMFIN	_|Sg|Past|Subj	0	root	_	_
+7	das	die	ART	ART	Def|Neut|_|Sg	0	root	_	_
+8	noch	noch	ADV	ADV	_	9	adv	_	_
+9	einmal	einmal	ADV	ADV	_	0	root	_	_
+10	betonen	betonen	V	VVINF	_	0	root	_	_
+11	–	–	$(	$(	_	0	root	_	_
+12	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+13	es	es	PRO	PPER	3|Sg|Neut|Nom	12	subj	_	_
+14	so	so	ADV	ADV	_	12	adv	_	_
+15	:	\:	$.	$.	_	0	root	_	_
+16	Kickl	Kickl	N	NE	_|Nom|Sg	17	subj	_	_
+17	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+18	am	an	PREP	APPRART	Dat	23	pp	_	_
+19	13.	13.	ADJA	ADJA	_|Masc|Dat|Sg|_|	20	attr	_	_
+20	März	März	N	NN	Masc|Dat|Sg	18	pn	_	_
+21	den	die	ART	ART	Def|Masc|Acc|Sg	22	det	_	_
+22	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	23	obja	_	_
+23	gefordert	fordern	V	VVPP	_	17	aux	_	_
+24	,	,	$,	$,	_	0	root	_	_
+25	Rendi-Wagner	Rendi-Wagner	N	NN	Masc|Nom|Sg	26	subj	_	_
+26	hat	haben	V	VAFIN	3|Sg|Pres|Ind	17	kon	_	_
+27	Ende	Ende	N	NN	Masc|Acc|Sg	33	zeit	_	_
+28	März	März	N	NN	Masc|Acc|Sg	27	app	_	_
+29	von	von	PREP	APPR	Dat	28	pp	_	_
+30	diesem	diese	ART	PDAT	Neut|Dat|Sg	31	det	_	_
+31	Pult	Pult	N	NN	Neut|Dat|Sg	29	pn	_	_
+32	aus	aus	APZR	APZR	_	29	part	_	_
+33	gesagt	sagen	V	VVPP	_	26	aux	_	_
+34	,	,	$,	$,	_	0	root	_	_
+35	Mitte	Mitte	N	NN	Masc|Acc|Sg	37	zeit	_	_
+36	April	April	N	NN	Masc|Acc|Sg	35	app	_	_
+37	könnte	können	V	VMFIN	3|Sg|Past|Subj	33	s	_	_
+38	es	es	PRO	PPER	3|Sg|Neut|Nom	37	subj	_	_
+39	sein	sein	V	VAINF	_	37	aux	_	_
+40	,	,	$,	$,	_	0	root	_	_
+41	dass	dass	KOUS	KOUS	_	0	root	_	_
+42	wir	wir	PRO	PPER	1|Pl|_|Nom	0	root	_	_
+43	die	die	ART	ART	Def|_|_|_	0	root	_	_
+44	30	30	CARD	CARD	_	0	root	_	_
+45	000er-Marke	000er-Mark	N	NN	Fem|Acc|Sg	48	obja	_	_
+46	an	an	PREP	APPR	_	48	pp	_	_
+47	Infizierten	Infizierte	N	NN	_|_|_	46	pn	_	_
+48	überschreiten	überschreiten	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+49	,	,	$,	$,	_	0	root	_	_
+50	und	und	KON	KON	_	48	kon	_	_
+51	dann	dann	ADV	ADV	_	52	adv	_	_
+52	wären	sein	V	VAFIN	_|Pl|Past|Subj	50	cj	_	_
+53	die	die	ART	ART	Def|_|Nom|_	54	det	_	_
+54	Kapazitäts	Kapazitäts	FM	FM	_|Nom|_	58	subj	_	_
+55	­	­	FM	FM	_|Nom|_	54	app	_	_
+56	grenzen	grenzen	V	VVINF	_	58	aux	_	_
+57	sozusagen	sozusagen	ADV	ADV	_	58	adv	_	_
+58	erreicht	erreichen	V	VVPP	_	67	neb	_	_
+59	,	,	$,	$,	_	0	root	_	_
+60	was	was	PRO	PRELS	Neut|Nom|Sg	67	subj	_	_
+61	die	die	ART	ART	Def|Neut|Acc|Pl	62	det	_	_
+62	Spitäler	Spital	N	NN	Neut|Acc|Pl	67	obja	_	_
+63	und	und	KON	KON	_	62	kon	_	_
+64	auch	auch	ADV	ADV	_	66	adv	_	_
+65	die	die	ART	ART	Def|Neut|Acc|Pl	66	det	_	_
+66	Intensivbetten	Intensivbett	N	NN	Neut|Acc|Pl	63	cj	_	_
+67	anbelangt	anbelangen	V	VVFIN	3|Sg|Pres|Ind	52	objc	_	_
+68	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 48325
+# date = 2020_05_13
+# protocol_id = 30
+# party = _
+# speaker = Abgeordnete Sigrid Maurer, BA (Grüne)
+# governing = _
+# text = Ich erinnere noch einmal daran, dass Ihnen der Lockdown nicht scharf genug war.
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	_
+2	erinnere	erinnern	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	noch	noch	ADV	ADV	_	2	adv	_	_
+4	einmal	einmal	ADV	ADV	_	2	adv	_	_
+5	daran	daran	PROAV	PROAV	_	2	objp	_	_
+6	,	,	$,	$,	_	0	root	_	_
+7	dass	dass	KOUS	KOUS	_	14	konj	_	_
+8	Ihnen	sie	PRO	PPER	3|Pl|_|Dat	14	objd	_	_
+9	der	die	ART	ART	Def|Masc|Nom|Sg	10	det	_	_
+10	Lockdown	Lockdown	N	NN	Masc|Nom|Sg	14	subj	_	_
+11	nicht	nicht	PTKNEG	PTKNEG	_	14	adv	_	_
+12	scharf	scharf	ADV	ADJD	Pos|	14	pred	_	_
+13	genug	genug	ADV	ADV	_	12	adv	_	_
+14	war	sein	V	VAFIN	3|Sg|Past|Ind	2	objc	_	_
+15	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 49209
+# date = 2020_05_13
+# protocol_id = 30
+# party = _
+# speaker = Abgeordneter Mag. Gerhard Kaniak (FPÖ)
+# governing = _
+# text = Wir haben hier aber eine unterschiedliche Sicht der Dinge, denn die Gesundheitskrise, die jetzt noch besteht, liegt nicht an der bestehenden Gefahr durch den Coronavirus oder durch die aktuellen Infektionsfälle, sondern die Krise in unserem Gesundheitssystem besteht dadurch, dass wir zwei Monate lang einen Lockdown in unserem Gesundheitssystem gehabt haben, in dem die Österreicher und Österreicherinnen keine reguläre Gesund­heitsversorgung mehr gehabt haben.
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	_
+2	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	_
+3	hier	hier	ADV	ADV	_	2	adv	_	_
+4	aber	aber	ADV	ADV	_	2	adv	_	_
+5	eine	eine	ART	ART	Indef|Fem|Acc|Sg	7	det	_	_
+6	unterschiedliche	unterschiedlich	ADJA	ADJA	Pos|Fem|Acc|Sg|_|	7	attr	_	_
+7	Sicht	Sicht	N	NN	Fem|Acc|Sg	2	obja	_	_
+8	der	die	ART	ART	Def|Neut|Gen|Pl	9	det	_	_
+9	Dinge	Ding	N	NN	Neut|Gen|Pl	7	gmod	_	_
+10	,	,	$,	$,	_	0	root	_	_
+11	denn	denn	KON	KON	_	2	kon	_	_
+12	die	die	ART	ART	Def|Fem|Nom|Sg	13	det	_	_
+13	Gesundheitskrise	Gesundheitskrise	N	NN	Fem|Nom|Sg	20	subj	_	_
+14	,	,	$,	$,	_	0	root	_	_
+15	die	die	PRO	PRELS	Fem|Nom|Sg	18	subj	_	_
+16	jetzt	jetzt	ADV	ADV	_	18	adv	_	_
+17	noch	noch	ADV	ADV	_	18	adv	_	_
+18	besteht	bestehen	V	VVFIN	3|Sg|Pres|Ind	13	rel	_	_
+19	,	,	$,	$,	_	0	root	_	_
+20	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	11	cj	_	_
+21	nicht	nicht	PTKNEG	PTKNEG	_	20	adv	_	_
+22	an	an	PREP	APPR	Dat	20	objp	_	_
+23	der	die	ART	ART	Def|Fem|Dat|Sg	25	det	_	_
+24	bestehenden	bestehend	ADJA	ADJA	Pos|Fem|Dat|Sg|Wk|<PPRES	25	attr	_	_
+25	Gefahr	Gefahr	N	NN	Fem|Dat|Sg	22	pn	_	_
+26	durch	durch	PREP	APPR	Acc	25	pp	_	_
+27	den	die	ART	ART	Def|Masc|Acc|Sg	28	det	_	_
+28	Coronavirus	Coronavirus	N	NN	Masc|Acc|Sg	26	pn	_	_
+29	oder	oder	KON	KON	_	26	kon	_	_
+30	durch	durch	PREP	APPR	Acc	29	cj	_	_
+31	die	die	ART	ART	Def|Masc|Acc|Pl	33	det	_	_
+32	aktuellen	aktuell	ADJA	ADJA	Pos|Masc|Acc|Pl|Wk|	33	attr	_	_
+33	Infektionsfälle	Infektionsfall	N	NN	Masc|Acc|Pl	30	pn	_	_
+34	,	,	$,	$,	_	0	root	_	_
+35	sondern	sondern	KON	KON	_	20	kon	_	_
+36	die	die	ART	ART	Def|Fem|Nom|Sg	37	det	_	_
+37	Krise	Krise	N	NN	Fem|Nom|Sg	41	subj	_	_
+38	in	in	PREP	APPR	Dat	37	pp	_	_
+39	unserem	unsre	ART	PPOSAT	Neut|Dat|Sg	40	det	_	_
+40	Gesundheitssystem	Gesundheitssystem	N	NN	Neut|Dat|Sg	38	pn	_	_
+41	besteht	bestehen	V	VVFIN	3|Sg|Pres|Ind	35	cj	_	_
+42	dadurch	dadurch	PROAV	PROAV	_	41	pp	_	_
+43	,	,	$,	$,	_	0	root	_	_
+44	dass	dass	KOUS	KOUS	_	55	konj	_	_
+45	wir	wir	PRO	PPER	1|Pl|_|Nom	55	subj	_	_
+46	zwei	zwei	CARD	CARD	_	47	attr	_	_
+47	Monate	Monat	N	NN	Masc|Acc|Pl	48	pn	_	_
+48	lang	lang	PREP	APPO	Acc	54	pp	_	_
+49	einen	eine	ART	ART	Indef|Masc|Acc|Sg	50	det	_	_
+50	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	54	obja	_	_
+51	in	in	PREP	APPR	Dat	54	pp	_	_
+52	unserem	unsre	ART	PPOSAT	Neut|Dat|Sg	53	det	_	_
+53	Gesundheitssystem	Gesundheitssystem	N	NN	Neut|Dat|Sg	51	pn	_	_
+54	gehabt	haben	V	VAPP	_	55	aux	_	_
+55	haben	haben	V	VAFIN	1|Pl|Pres|_	41	objc	_	_
+56	,	,	$,	$,	_	0	root	_	_
+57	in	in	PREP	APPR	Dat	69	pp	_	_
+58	dem	die	PRO	PRELS	Neut|Dat|Sg	57	pn	_	_
+59	die	die	ART	ART	Def|Fem|Nom|Pl	60	det	_	_
+60	Österreicher	Österreicher	N	NN	Fem|Nom|Pl	70	subj	_	_
+61	und	und	KON	KON	_	60	kon	_	_
+62	Österreicherinnen	Österreicherin	N	NN	Fem|Nom|Pl	61	cj	_	_
+63	keine	keine	ART	PIAT	_|Acc|_	65	det	_	_
+64	reguläre	regulär	ADJA	ADJA	Pos|_|Acc|_|_|	65	attr	_	_
+65	Gesund	Gesund	FM	FM	_|Acc|_	69	obja	_	_
+66	­	­	FM	FM	_|Acc|_	65	app	_	_
+67	heitsversorgung	heitsversorgung	FM	FM	_|Acc|_	66	app	_	_
+68	mehr	mehr	ADV	ADV	_	69	adv	_	_
+69	gehabt	haben	V	VAPP	_	70	aux	_	_
+70	haben	haben	V	VAFIN	3|Pl|Pres|_	53	rel	_	_
+71	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 49210
+# date = 2020_05_13
+# protocol_id = 30
+# party = _
+# speaker = Abgeordneter Mag. Gerhard Kaniak (FPÖ)
+# governing = _
+# text = Die Folgeschäden, die aus diesen Maßnahmen, aus diesem Lockdown des Gesundheitssystems für die Österreicher und Österreiche­rinnen entstehen, werden um ein Vielfaches höher sein als das, was der Coronavirus angestellt hat, meine sehr geehrten Damen und Herren!
+1	Die	die	ART	ART	Def|Masc|_|Pl	2	det	_	_
+2	Folgeschäden	Folgeschaden	N	NN	Masc|_|Pl	0	root	_	_
+3	,	,	$,	$,	_	0	root	_	_
+4	die	die	PRO	PRELS	_|_|_	0	root	_	_
+5	aus	aus	PREP	APPR	Dat	20	pp	_	_
+6	diesen	diese	ART	PDAT	_|_|_	7	det	_	_
+7	Maßnahmen	Maßnahme	N	NN	_|Dat|Pl	5	pn	_	_
+8	,	,	$,	$,	_	0	root	_	_
+9	aus	aus	PREP	APPR	Dat	13	pp	_	_
+10	diesem	diese	ART	PDAT	Masc|Dat|Sg	11	det	_	_
+11	Lockdown	Lockdown	N	NN	Masc|Dat|Sg	9	pn	_	_
+12	des	die	ART	ART	Def|Neut|Gen|Sg	13	det	_	_
+13	Gesundheitssystems	Gesundheitssystem	N	NN	Neut|Gen|Sg	7	kon	_	_
+14	für	für	PREP	APPR	Acc	13	pp	_	_
+15	die	die	ART	ART	Def|_|Acc|_	16	det	_	_
+16	Österreicher	Österreicher	N	NN	_|Acc|_	14	pn	_	_
+17	und	und	KON	KON	_	13	kon	_	_
+18	Österreiche	Österreiche	FM	FM	_|Dat|Pl	17	cj	_	_
+19	­	­	FM	FM	_|_|_	20	obja	_	_
+20	rinnen	rinnen	V	VVINF	_	0	root	_	_
+21	entstehen	entstehen	V	VVFIN	_|Pl|Pres|_	0	root	_	_
+22	,	,	$,	$,	_	0	root	_	_
+23	werden	werden	V	VAFIN	_|Pl|Pres|_	0	root	_	_
+24	um	um	PREP	APPR	Acc	28	pp	_	_
+25	ein	eine	ART	ART	Indef|Neut|Acc|Sg	26	det	_	_
+26	Vielfaches	Vielfach	N	NN	Neut|Acc|Sg	24	pn	_	_
+27	höher	hoch	ADV	ADJD	Comp|	28	pred	_	_
+28	sein	sein	V	VAINF	_	23	aux	_	_
+29	als	als	KOKOM	KOKOM	_	28	kom	_	_
+30	das	die	PRO	PDS	Neut|_|Sg	29	cj	_	_
+31	,	,	$,	$,	_	0	root	_	_
+32	was	was	PRO	PRELS	Neut|Acc|Sg	35	obja	_	_
+33	der	die	ART	ART	Def|Masc|Nom|Sg	34	det	_	_
+34	Coronavirus	Coronavirus	N	NN	Masc|Nom|Sg	36	subj	_	_
+35	angestellt	anstellen	V	VVPP	_	36	aux	_	_
+36	hat	haben	V	VAFIN	3|Sg|Pres|Ind	30	rel	_	_
+37	,	,	$,	$,	_	0	root	_	_
+38	meine	meine	ART	PPOSAT	Fem|_|Pl	41	det	_	_
+39	sehr	sehr	ADV	ADV	_	40	adv	_	_
+40	geehrten	geehrt	ADJA	ADJA	Pos|Fem|_|Pl|Wk|	41	attr	_	_
+41	Damen	Dame	N	NN	Fem|_|Pl	30	kon	_	_
+42	und	und	KON	KON	_	41	kon	_	_
+43	Herren	Herr	N	NN	Masc|_|_	42	cj	_	_
+44	!	!	$.	$.	_	0	root	_	_
+
+# sent_id = 49818
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordnete Dr. Pamela Rendi-Wagner, MSc (SPÖ)
+# governing = _
+# text = Corona bestimmt unser Leben, denn die sozialen und vor allem auch die wirtschaftlichen Folgen des Lockdowns sind unübersehbar.
+1	Corona	Corona	N	NN	Fem|Nom|Sg	2	subj	_	_
+2	bestimmt	bestimmen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	unser	unsre	ART	PPOSAT	Neut|Acc|Sg	4	det	_	_
+4	Leben	Leben	N	NN	Neut|Acc|Sg	2	obja	_	_
+5	,	,	$,	$,	_	0	root	_	_
+6	denn	denn	KON	KON	_	2	kon	_	_
+7	die	die	ART	ART	Def|_|_|_	8	det	_	_
+8	sozialen	sozial	ADJA	ADJA	_|_|Pl	18	subj	_	_
+9	und	und	KON	KON	_	8	kon	_	_
+10	vor	vor	PREP	APPR	Dat	15	pp	_	_
+11	allem	alle	PRO	PIS	_|Dat|Sg	10	pn	_	_
+12	auch	auch	ADV	ADV	_	15	adv	_	_
+13	die	die	ART	ART	Def|Fem|_|Pl	15	det	_	_
+14	wirtschaftlichen	wirtschaftlich	ADJA	ADJA	Pos|Fem|_|Pl|Wk|	15	attr	_	_
+15	Folgen	Folge	N	NN	Fem|_|Pl	9	cj	_	_
+16	des	die	ART	ART	Def|Masc|Gen|Sg	17	det	_	_
+17	Lockdowns	Lockdown	N	NN	Masc|Gen|Sg	15	gmod	_	_
+18	sind	sein	V	VAFIN	_|Pl|Pres|Ind	6	cj	_	_
+19	unübersehbar	unübersehbar	ADV	ADJD	Pos|	18	pred	_	_
+20	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 50482
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordneter Dr. Christoph Matznetter (SPÖ)
+# governing = _
+# text = Der Antrag hat folgenden Gesamtwortlaut: der Abgeordneten Pamela Rendi-Wagner, Christoph Matznetter Genossinnen und Genossen Eingebracht im Zuge der Debatte zu TOP 1: Bericht des Budgetausschusses über die Regierungsvorlage : Bundesgesetz, mit dem das Ausländerbeschäftigungsge­setz, das Arbeitsmarktpolitik-Finanzierungsgesetz, das Insolvenz-Entgeltsicherungsge­setz, das Bauarbeiter-Schlechtwetterentschädigungsgesetz, das Bauarbeiter-Urlaubs- und Abfertigungsgesetz, das Familienlastenausgleichsgesetz 1967, das Beamten-Dienstrechtsgesetz 1979, das Gehaltsgesetz 1956 und das Umweltförderungsgesetz geändert werden   Betreffend: Österreich braucht das größte Investitions- und Beschäftigungspaket in der Geschichte der zweiten Republik Die Ausgangslage Der Lockdown hat eine soziale und wirtschaftliche Krise ausgelöst, die beispielhaft ist in der zweiten Republik.
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Antrag	Antrag	N	NN	Masc|Nom|Sg	3	subj	_	_
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	folgenden	folgend	ADJA	ADJA	Pos|Masc|Acc|Sg|_|_	5	attr	_	_
+5	Gesamtwortlaut	Gesamtwortlaut	N	NN	Masc|Acc|Sg	3	obja	_	_
+6	:	\:	$.	$.	_	0	root	_	_
+7	der	die	ART	ART	Def|Fem|Dat|Sg	8	det	_	_
+8	Abgeordneten	Abgeordnete	N	NN	Fem|Dat|Sg	17	objd	_	_
+9	Pamela	Pamela	N	NE	_|Dat|Sg	8	app	_	_
+10	Rendi-Wagner	Rendi-Wagner	N	NE	_|Dat|Sg	9	app	_	_
+11	,	,	$,	$,	_	0	root	_	_
+12	Christoph	Christoph	N	NE	Masc|Dat|Sg	10	kon	_	_
+13	Matznetter	matznett	ADJA	ADJA	Pos|Fem|Gen|Pl|St|	14	attr	_	_
+14	Genossinnen	Genossin	N	NN	Fem|Gen|Pl	12	gmod	_	_
+15	und	und	KON	KON	_	12	kon	_	_
+16	Genossen	Genosse	N	NN	Masc|Dat|_	15	cj	_	_
+17	Eingebracht	einbringen	V	VVPP	_	0	root	_	_
+18	im	in	PREP	APPRART	Dat	17	pp	_	_
+19	Zuge	Zug	N	NN	_|Dat|Sg	18	pn	_	_
+20	der	die	ART	ART	Def|Fem|Gen|Sg	21	det	_	_
+21	Debatte	Debatte	N	NN	Fem|Gen|Sg	19	gmod	_	_
+22	zu	zu	PREP	APPR	Dat	17	pp	_	_
+23	TOP	TOP	N	NE	_|Dat|_	22	pn	_	_
+24	1	1	CARD	CARD	_	23	app	_	_
+25	:	\:	$.	$.	_	0	root	_	_
+26	Bericht	Bericht	N	NN	Masc|_|Sg	0	root	_	_
+27	des	die	ART	ART	Def|Masc|Gen|Sg	28	det	_	_
+28	Budgetausschusses	Budgetausschuss	N	NN	Masc|Gen|Sg	26	gmod	_	_
+29	über	über	PREP	APPR	Acc	26	pp	_	_
+30	die	die	ART	ART	Def|Fem|Acc|Sg	31	det	_	_
+31	Regierungsvorlage	Regierungsvorlage	N	NN	Fem|Acc|Sg	29	pn	_	_
+32	:	\:	$.	$.	_	0	root	_	_
+33	Bundesgesetz	Bundesgesetz	N	NN	Neut|_|Sg	0	root	_	_
+34	,	,	$,	$,	_	0	root	_	_
+35	mit	mit	PREP	APPR	Dat	72	pp	_	_
+36	dem	die	PRO	PRELS	Neut|Dat|Sg	35	pn	_	_
+37	das	die	ART	ART	Def|Neut|Nom|Sg	38	det	_	_
+38	Ausländerbeschäftigungsge	Ausländerbeschäftigungsge	FM	FM	Neut|Nom|Sg	73	subj	_	_
+39	­	­	FM	FM	Neut|Nom|Sg	38	app	_	_
+40	setz	setz	FM	FM	Neut|Nom|Sg	39	app	_	_
+41	,	,	$,	$,	_	0	root	_	_
+42	das	die	ART	ART	Def|Neut|Nom|Sg	43	det	_	_
+43	Arbeitsmarktpolitik-Finanzierungsgesetz	Arbeitsmarktpolitik-Finanzierungsgesetz	N	NN	Neut|Nom|Sg	39	kon	_	_
+44	,	,	$,	$,	_	0	root	_	_
+45	das	die	ART	ART	Def|Neut|Nom|Sg	46	det	_	_
+46	Insolvenz-Entgeltsicherungsge	Insolvenz-Entgeltsicherungsge	FM	FM	Neut|Nom|Sg	43	kon	_	_
+47	­	­	FM	FM	Neut|Nom|Sg	46	app	_	_
+48	setz	setz	FM	FM	Neut|Nom|Sg	47	app	_	_
+49	,	,	$,	$,	_	0	root	_	_
+50	das	die	ART	ART	Def|Neut|Nom|Sg	51	det	_	_
+51	Bauarbeiter-Schlechtwetterentschädigungsgesetz	Bauarbeiter-Schlechtwetterentschädigungsgesetz	N	NN	Neut|Nom|Sg	46	kon	_	_
+52	,	,	$,	$,	_	0	root	_	_
+53	das	die	ART	ART	Def|Neut|_|Sg	54	det	_	_
+54	Bauarbeiter-Urlaubs-	Bauarbeiter-Urlaubs-	TRUNC	TRUNC	Neut|_|Sg	51	kon	_	_
+55	und	und	KON	KON	_	54	kon	_	_
+56	Abfertigungsgesetz	Abfertigungsgesetz	N	NN	Neut|Nom|Sg	55	cj	_	_
+57	,	,	$,	$,	_	0	root	_	_
+58	das	die	ART	ART	Def|Neut|Nom|Sg	59	det	_	_
+59	Familienlastenausgleichsgesetz	Familienlastenausgleichsgesetz	N	NN	Neut|Nom|Sg	51	kon	_	_
+60	1967	1967	CARD	CARD	_	59	app	_	_
+61	,	,	$,	$,	_	0	root	_	_
+62	das	die	ART	ART	Def|Neut|Nom|Sg	63	det	_	_
+63	Beamten-Dienstrechtsgesetz	Beamten-Dienstrechtsgesetz	N	NN	Neut|Nom|Sg	59	kon	_	_
+64	1979	1979	CARD	CARD	_	63	app	_	_
+65	,	,	$,	$,	_	0	root	_	_
+66	das	die	ART	ART	Def|Neut|Nom|Sg	67	det	_	_
+67	Gehaltsgesetz	Gehaltsgesetz	N	NN	Neut|Nom|Sg	63	kon	_	_
+68	1956	1956	CARD	CARD	_	67	app	_	_
+69	und	und	KON	KON	_	67	kon	_	_
+70	das	die	ART	ART	Def|Neut|Nom|Sg	71	det	_	_
+71	Umweltförderungsgesetz	Umweltförderungsgesetz	N	NN	Neut|Nom|Sg	69	cj	_	_
+72	geändert	ändern	V	VVPP	_	73	aux	_	_
+73	werden	werden	V	VAFIN	_|Pl|Pres|_	33	rel	_	_
+74	Betreffend	betreffend	ADV	ADJD	_|_	72	adv	_	_
+75	:	\:	$.	$.	_	0	root	_	_
+76	Österreich	Österreich	N	NE	Neut|_|Sg	0	root	_	_
+77	braucht	brauchen	V	VVFIN	_|_|Pres|Ind	0	root	_	_
+78	das	die	ART	ART	Def|Neut|_|Sg	80	det	_	_
+79	größte	groß	ADJA	ADJA	Sup|_|_|_|_|	80	attr	_	_
+80	Investitions-	Investitions-	TRUNC	TRUNC	Neut|_|Sg	77	subj	_	_
+81	und	und	KON	KON	_	80	kon	_	_
+82	Beschäftigungspaket	Beschäftigungspaket	N	NN	Neut|_|Sg	81	cj	_	_
+83	in	in	PREP	APPR	Dat	77	pp	_	_
+84	der	die	ART	ART	Def|Fem|Dat|Sg	85	det	_	_
+85	Geschichte	Geschichte	N	NN	Fem|Dat|Sg	83	pn	_	_
+86	der	die	ART	ART	Def|Fem|Gen|Sg	88	det	_	_
+87	zweiten	zweit	ADJA	ADJA	_|Fem|Gen|Sg|Wk|	88	attr	_	_
+88	Republik	Republik	N	NN	Fem|Gen|Sg	85	gmod	_	_
+89	Die	die	ART	ART	Def|Fem|Acc|Sg	90	det	_	_
+90	Ausgangslage	Ausgangslage	N	NN	Fem|Acc|Sg	77	obja	_	_
+91	Der	die	ART	ART	Def|Masc|Nom|Sg	92	det	_	_
+92	Lockdown	Lockdown	N	NN	Masc|Nom|Sg	93	subj	_	_
+93	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+94	eine	eine	ART	ART	Indef|Fem|Acc|Sg	98	det	_	_
+95	soziale	sozial	ADJA	ADJA	Pos|Fem|Acc|Sg|_|	98	attr	_	_
+96	und	und	KON	KON	_	95	kon	_	_
+97	wirtschaftliche	wirtschaftlich	ADJA	ADJA	Pos|_|Acc|_|_|	96	cj	_	_
+98	Krise	Krise	N	NN	Fem|Acc|Sg	99	obja	_	_
+99	ausgelöst	auslösen	V	VVPP	_	93	aux	_	_
+100	,	,	$,	$,	_	0	root	_	_
+101	die	die	PRO	PRELS	Fem|Nom|Sg	103	subj	_	_
+102	beispielhaft	beispielhaft	ADV	ADJD	Pos|	103	pred	_	_
+103	ist	sein	V	VAFIN	3|Sg|Pres|Ind	98	rel	_	_
+104	in	in	PREP	APPR	Dat	103	pp	_	_
+105	der	die	ART	ART	Def|Fem|Dat|Sg	107	det	_	_
+106	zweiten	zweit	ADJA	ADJA	_|Fem|Dat|Sg|Wk|	107	attr	_	_
+107	Republik	Republik	N	NN	Fem|Dat|Sg	104	pn	_	_
+108	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 50595
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordnete Dr. Susanne Fürst (FPÖ)
+# governing = _
+# text = Es wurde wirklich alles in Kauf genommen, um den Lockdown, um die Beschränkungen, die es noch gibt, um die plötzliche neue Machtfülle für die Bundesregierung und die alleinige Meinungshoheit und das Eigenlob fortzusetzen und in die neue Normalität zu retten.
+1	Es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	wurde	werden	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+3	wirklich	wirklich	ADV	ADJD	Pos|	4	attr	_	_
+4	alles	alle	PRO	PIS	_|_|Sg	7	adv	_	_
+5	in	in	PREP	APPR	_	7	objp	_	_
+6	Kauf	Kauf	N	NN	Masc|_|Sg	5	pn	_	_
+7	genommen	nehmen	V	VVPP	_	2	aux	_	_
+8	,	,	$,	$,	_	0	root	_	_
+9	um	um	KOUI	KOUI	_	0	root	_	_
+10	den	die	ART	ART	Def|Masc|Acc|Sg	11	det	_	_
+11	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	0	root	_	_
+12	,	,	$,	$,	_	0	root	_	_
+13	um	um	KOUI	KOUI	_	0	root	_	_
+14	die	die	ART	ART	Def|Fem|_|Pl	15	det	_	_
+15	Beschränkungen	Beschränkung	N	NN	Fem|_|Pl	0	root	_	_
+16	,	,	$,	$,	_	0	root	_	_
+17	die	die	PRO	PRELS	Fem|Acc|Pl	20	obja	_	_
+18	es	es	PRO	PPER	3|Sg|Neut|Nom	20	subj	_	_
+19	noch	noch	ADV	ADV	_	20	adv	_	_
+20	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	15	rel	_	_
+21	,	,	$,	$,	_	0	root	_	_
+22	um	um	KOUI	KOUI	_	37	konj	_	_
+23	die	die	ART	ART	Def|Fem|Acc|Sg	26	det	_	_
+24	plötzliche	plötzlich	ADJA	ADJA	Pos|Fem|Acc|Sg|_|	26	attr	_	_
+25	neue	neu	ADJA	ADJA	Pos|Fem|Acc|Sg|_|	26	attr	_	_
+26	Machtfülle	Machtfülle	N	NN	Fem|Acc|Sg	37	obja	_	_
+27	für	für	PREP	APPR	Acc	26	pp	_	_
+28	die	die	ART	ART	Def|Fem|Acc|Sg	29	det	_	_
+29	Bundesregierung	Bundesregierung	N	NN	Fem|Acc|Sg	27	pn	_	_
+30	und	und	KON	KON	_	29	kon	_	_
+31	die	die	ART	ART	Def|Fem|Acc|Sg	33	det	_	_
+32	alleinige	alleinig	ADJA	ADJA	Pos|Fem|Acc|Sg|_|	33	attr	_	_
+33	Meinungshoheit	Meinungshoheit	N	NN	Fem|Acc|Sg	30	cj	_	_
+34	und	und	KON	KON	_	33	kon	_	_
+35	das	die	ART	ART	Def|Neut|Acc|Sg	36	det	_	_
+36	Eigenlob	Eigenlob	N	NN	Neut|Acc|Sg	34	cj	_	_
+37	fortzusetzen	fortsetzen	V	VVIZU	_	20	neb	_	_
+38	und	und	KON	KON	_	37	kon	_	_
+39	in	in	PREP	APPR	Acc	44	pp	_	_
+40	die	die	ART	ART	Def|Fem|Acc|Sg	42	det	_	_
+41	neue	neu	ADJA	ADJA	Pos|Fem|Acc|Sg|_|	42	attr	_	_
+42	Normalität	Normalität	N	NN	Fem|Acc|Sg	39	pn	_	_
+43	zu	zu	PTKZU	PTKZU	_	44	part	_	_
+44	retten	retten	V	VVINF	_	38	cj	_	_
+45	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 51103
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordneter Mag. Gerhard Kaniak (FPÖ)
+# governing = _
+# text = – Es hat sich gezeigt, dass durch Einhalten einfacher Hygienemaßnahmen und die Disziplin der österreichischen Bevölkerung die Infektionsraten schon vor dem Lockdown deutlich zurückgegangen sind.
+1	–	–	$(	$(	_	0	root	_	_
+2	Es	es	PRO	PPER	3|Sg|Neut|_	26	expl	_	_
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	sich	sie	PRO	PRF	3|_|Acc	5	obja	_	_
+5	gezeigt	zeigen	V	VVPP	_	3	aux	_	_
+6	,	,	$,	$,	_	0	root	_	_
+7	dass	dass	KOUS	KOUS	_	26	konj	_	_
+8	durch	durch	PREP	APPR	Acc	25	pp	_	_
+9	Einhalten	Einhalt	N	NN	Neut|Acc|Sg	8	pn	_	_
+10	einfacher	einfach	ADJA	ADJA	Pos|Fem|Gen|Pl|St|	11	attr	_	_
+11	Hygienemaßnahmen	Hygienemaßnahme	N	NN	Fem|Gen|Pl	9	gmod	_	_
+12	und	und	KON	KON	_	9	kon	_	_
+13	die	die	ART	ART	Def|Fem|Acc|Sg	14	det	_	_
+14	Disziplin	Disziplin	N	NN	Fem|Acc|Sg	12	cj	_	_
+15	der	die	ART	ART	Def|Fem|Gen|Sg	17	det	_	_
+16	österreichischen	österreichisch	ADJA	ADJA	Pos|Fem|Gen|Sg|Wk|	17	attr	_	_
+17	Bevölkerung	Bevölkerung	N	NN	Fem|Gen|Sg	14	gmod	_	_
+18	die	die	ART	ART	Def|Fem|Nom|Pl	19	det	_	_
+19	Infektionsraten	Infektionsrate	N	NN	Fem|Nom|Pl	26	subj	_	_
+20	schon	schon	ADV	ADV	_	25	adv	_	_
+21	vor	vor	PREP	APPR	Dat	25	pp	_	_
+22	dem	die	ART	ART	Def|Masc|Dat|Sg	23	det	_	_
+23	Lockdown	Lockdown	N	NN	Masc|Dat|Sg	21	pn	_	_
+24	deutlich	deutlich	ADV	ADJD	Pos|	25	adv	_	_
+25	zurückgegangen	zurückgehen	V	VVPP	_	26	aux	_	_
+26	sind	sein	V	VAFIN	3|Pl|Pres|Ind	3	subjc	_	_
+27	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 51143
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordneter Maximilian Köllner, MA (SPÖ)
+# governing = _
+# text = Ich habe erst gestern mit einem Fitnessstudiobetreiber aus meiner Region gesprochen, bei dem seit dem Lockdown Mitte März keine Hantel geschwungen wurde und der dennoch erst ein Mal eine kleine Minizahlung erhalten hat; viele haben aber noch nicht einmal irgendet­was bekommen.
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	_
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	erst	erst	ADV	ADV	_	11	adv	_	_
+4	gestern	gestern	ADV	ADV	_	11	adv	_	_
+5	mit	mit	PREP	APPR	Dat	11	pp	_	_
+6	einem	eine	ART	ART	Indef|Masc|Dat|Sg	7	det	_	_
+7	Fitnessstudiobetreiber	Fitnessstudiobetreiber	N	NN	Masc|Dat|Sg	5	pn	_	_
+8	aus	aus	PREP	APPR	Dat	7	pp	_	_
+9	meiner	meine	ART	PPOSAT	Fem|Dat|Sg	10	det	_	_
+10	Region	Region	N	NN	Fem|Dat|Sg	8	pn	_	_
+11	gesprochen	sprechen	V	VVPP	_	2	aux	_	_
+12	,	,	$,	$,	_	0	root	_	_
+13	bei	bei	PREP	APPR	Dat	22	pp	_	_
+14	dem	die	PRO	PRELS	Masc|Dat|Sg	13	pn	_	_
+15	seit	seit	PREP	APPR	Dat	22	pp	_	_
+16	dem	die	ART	ART	Def|Masc|Dat|Sg	17	det	_	_
+17	Lockdown	Lockdown	N	NN	Masc|Dat|Sg	15	pn	_	_
+18	Mitte	Mitte	N	NN	Masc|Acc|Sg	22	zeit	_	_
+19	März	März	N	NN	Masc|Acc|Sg	18	app	_	_
+20	keine	keine	ART	PIAT	Fem|Nom|Sg	21	det	_	_
+21	Hantel	Hantel	N	NN	Fem|Nom|Sg	23	subj	_	_
+22	geschwungen	schwingen	V	VVPP	_	23	aux	_	_
+23	wurde	werden	V	VAFIN	3|Sg|Past|Ind	7	rel	_	_
+24	und	und	KON	KON	_	0	root	_	_
+25	der	die	ART	ART	Def|_|_|_	24	cj	_	_
+26	dennoch	dennoch	ADV	ADV	_	33	adv	_	_
+27	erst	erst	ADV	ADV	_	29	adv	_	_
+28	ein	eine	ART	ART	Indef|Neut|Nom|Sg	29	det	_	_
+29	Mal	Mal	N	NN	Neut|Nom|Sg	34	subj	_	_
+30	eine	eine	ART	ART	Indef|Fem|Acc|Sg	32	det	_	_
+31	kleine	klein	ADJA	ADJA	Pos|Fem|Acc|Sg|_|	32	attr	_	_
+32	Minizahlung	Minizahlung	N	NN	Fem|Acc|Sg	33	obja	_	_
+33	erhalten	erhalten	V	VVPP	_	34	aux	_	_
+34	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+35	;	;	$.	$.	_	0	root	_	_
+36	viele	viele	PRO	PIS	_|_|_	0	root	_	_
+37	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+38	aber	aber	ADV	ADV	_	37	adv	_	_
+39	noch	noch	ADV	ADV	_	40	adv	_	_
+40	nicht	nicht	PTKNEG	PTKNEG	_	37	adv	_	_
+41	einmal	einmal	ADV	ADV	_	37	adv	_	_
+42	irgendet	irgendet	FM	FM	_|Nom|Pl	37	subj	_	_
+43	­	­	FM	FM	_|Nom|Pl	42	app	_	_
+44	was	was	PRO	PIS	_|_|_	37	obja	_	_
+45	bekommen	bekommen	V	VVINF	_	0	root	_	_
+46	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 51369
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordneter Dr. Christoph Matznetter (SPÖ)
+# governing = _
+# text = Er hat den Einnahmenentfall zu Be­ginn des Lockdowns – der war da nämlich – mit der Budgetänderung verwechselt.
+1	Er	er	PRO	PPER	3|Sg|Masc|Nom	2	subj	_	_
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	den	die	ART	ART	Def|Masc|Acc|Sg	4	det	_	_
+4	Einnahmenentfall	Einnahmenentfall	N	NN	Masc|Acc|Sg	2	obja	_	_
+5	zu	zu	PREP	APPR	Dat	2	pp	_	_
+6	Be	Be	N	NE	_|Dat|_	5	pn	_	_
+7	­	­	FM	FM	_|Dat|_	6	app	_	_
+8	ginn	ginn	FM	FM	_|Dat|_	7	app	_	_
+9	des	die	ART	ART	Def|Masc|Gen|Sg	10	det	_	_
+10	Lockdowns	Lockdown	N	NN	Masc|Gen|Sg	8	gmod	_	_
+11	–	–	$(	$(	_	0	root	_	_
+12	der	die	PRO	PDS	Masc|Nom|Sg	13	subj	_	_
+13	war	sein	V	VAFIN	3|Sg|Past|Ind	10	par	_	_
+14	da	da	ADV	ADV	_	13	adv	_	_
+15	nämlich	nämlich	ADV	ADV	_	13	adv	_	_
+16	–	–	$(	$(	_	0	root	_	_
+17	mit	mit	PREP	APPR	Dat	2	pp	_	_
+18	der	die	ART	ART	Def|Fem|Dat|Sg	19	det	_	_
+19	Budgetänderung	Budgetänderung	N	NN	Fem|Dat|Sg	17	pn	_	_
+20	verwechselt	verwechseln	V	VVPP	_	0	root	_	_
+21	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 52821
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Bundeskanzler Sebastian Kurz
+# governing = _
+# text = Sehr geehrte Damen und Herren, ich bin froh, dass wir nach der Phase des Lockdowns schneller als andere wieder in die Phase der Öffnung kommen konnten.
+1	Sehr	sehr	ADV	ADV	_	2	adv	_	_
+2	geehrte	geehrt	ADJA	ADJA	Pos|Fem|_|Pl|St|	3	attr	_	_
+3	Damen	Dame	N	NN	Fem|_|Pl	8	vok	_	_
+4	und	und	KON	KON	_	3	kon	_	_
+5	Herren	Herr	N	NN	Masc|_|_	4	cj	_	_
+6	,	,	$,	$,	_	0	root	_	_
+7	ich	ich	PRO	PPER	1|Sg|_|Nom	8	subj	_	_
+8	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+9	froh	froh	ADV	ADJD	Pos|	8	pred	_	_
+10	,	,	$,	$,	_	0	root	_	_
+11	dass	dass	KOUS	KOUS	_	28	konj	_	_
+12	wir	wir	PRO	PPER	1|Pl|_|Nom	28	subj	_	_
+13	nach	nach	PREP	APPR	Dat	27	pp	_	_
+14	der	die	ART	ART	Def|Fem|Dat|Sg	15	det	_	_
+15	Phase	Phase	N	NN	Fem|Dat|Sg	13	pn	_	_
+16	des	die	ART	ART	Def|Masc|Gen|Sg	17	det	_	_
+17	Lockdowns	Lockdown	N	NN	Masc|Gen|Sg	15	gmod	_	_
+18	schneller	schnell	ADV	ADJD	Comp|	27	adv	_	_
+19	als	als	KOKOM	KOKOM	_	18	kom	_	_
+20	andere	andere	PRO	PIS	_|_|_	19	cj	_	_
+21	wieder	wieder	ADV	ADV	_	27	adv	_	_
+22	in	in	PREP	APPR	Acc	27	objp	_	_
+23	die	die	ART	ART	Def|Fem|Acc|Sg	24	det	_	_
+24	Phase	Phase	N	NN	Fem|Acc|Sg	22	pn	_	_
+25	der	die	ART	ART	Def|Fem|Gen|Sg	26	det	_	_
+26	Öffnung	Öffnung	N	NN	Fem|Gen|Sg	24	gmod	_	_
+27	kommen	kommen	V	VVINF	_	28	aux	_	_
+28	konnten	können	V	VMFIN	1|Pl|Past|Ind	8	objc	_	_
+29	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 53682
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordnete Mag. Dr. Maria Theresia Niss, MBA (ÖVP)
+# governing = _
+# text = Dank der Entscheidungsstärke unserer Regierung sind wir rascher als andere in den Lockdown gegangen, und die Folge daraus ist klar: Es gibt weniger Coronainfizierte und vor allem auch weniger Todesfälle.
+1	Dank	dank	PREP	APPR	_	6	pp	_	_
+2	der	die	ART	ART	Def|Fem|_|Sg	3	det	_	_
+3	Entscheidungsstärke	Entscheidungsstärke	N	NN	Fem|_|Sg	1	pn	_	_
+4	unserer	unsre	ART	PPOSAT	Fem|Gen|Sg	5	det	_	_
+5	Regierung	Regierung	N	NN	Fem|Gen|Sg	3	gmod	_	_
+6	sind	sein	V	VAFIN	1|Pl|Pres|Ind	0	root	_	_
+7	wir	wir	PRO	PPER	1|Pl|_|Nom	6	subj	_	_
+8	rascher	rasch	ADV	ADJD	Comp|	14	adv	_	_
+9	als	als	KOKOM	KOKOM	_	14	kom	_	_
+10	andere	andere	PRO	PIS	_|_|_	9	cj	_	_
+11	in	in	PREP	APPR	Acc	14	objp	_	_
+12	den	die	ART	ART	Def|Masc|Acc|Sg	13	det	_	_
+13	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	11	pn	_	_
+14	gegangen	gehen	V	VVPP	_	6	aux	_	_
+15	,	,	$,	$,	_	0	root	_	_
+16	und	und	KON	KON	_	6	kon	_	_
+17	die	die	ART	ART	Def|Fem|Nom|Sg	18	det	_	_
+18	Folge	Folge	N	NN	Fem|Nom|Sg	20	subj	_	_
+19	daraus	daraus	PROAV	PROAV	_	18	pp	_	_
+20	ist	sein	V	VAFIN	3|Sg|Pres|Ind	16	cj	_	_
+21	klar	klar	ADV	ADJD	Pos|	20	pred	_	_
+22	:	\:	$.	$.	_	0	root	_	_
+23	Es	es	PRO	PPER	3|Sg|Neut|_	24	expl	_	_
+24	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+25	weniger	wenige	ART	PIAT	Masc|Nom|Sg	26	det	_	_
+26	Coronainfizierte	Coronainfizierte	N	NN	Masc|Nom|Sg	24	subj	_	_
+27	und	und	KON	KON	_	0	root	_	_
+28	vor	vor	PREP	APPR	Dat	32	pp	_	_
+29	allem	alle	PRO	PIS	_|Dat|Sg	28	pn	_	_
+30	auch	auch	ADV	ADV	_	32	adv	_	_
+31	weniger	wenige	ART	PIAT	Masc|Gen|Pl	32	det	_	_
+32	Todesfälle	Todesfall	N	NN	Masc|Gen|Pl	27	cj	_	_
+33	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 53685
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordnete Mag. Dr. Maria Theresia Niss, MBA (ÖVP)
+# governing = _
+# text = Durch rasche und konsequente Maßnahmen am Anfang sind wir nämlich auch führend dabei, aus dem Lockdown wieder rasch herauszukommen.
+1	Durch	durch	PREP	APPR	Acc	8	pp	_	_
+2	rasche	rasch	ADJA	ADJA	Pos|Fem|Acc|Pl|St|	5	attr	_	_
+3	und	und	KON	KON	_	2	kon	_	_
+4	konsequente	konsequent	ADJA	ADJA	Pos|_|Acc|_|_|	3	cj	_	_
+5	Maßnahmen	Maßnahme	N	NN	Fem|Acc|Pl	1	pn	_	_
+6	am	an	PREP	APPRART	Dat	5	pp	_	_
+7	Anfang	Anfang	N	NN	Masc|Dat|Sg	6	pn	_	_
+8	sind	sein	V	VAFIN	1|Pl|Pres|Ind	0	root	_	_
+9	wir	wir	PRO	PPER	1|Pl|_|Nom	8	subj	_	_
+10	nämlich	nämlich	ADV	ADV	_	8	adv	_	_
+11	auch	auch	ADV	ADV	_	8	adv	_	_
+12	führend	führend	ADV	ADJD	_|_	8	pred	_	_
+13	dabei	dabei	PROAV	PROAV	_	8	pp	_	_
+14	,	,	$,	$,	_	0	root	_	_
+15	aus	aus	PREP	APPR	Dat	20	objp	_	_
+16	dem	die	ART	ART	Def|Masc|Dat|Sg	17	det	_	_
+17	Lockdown	Lockdown	N	NN	Masc|Dat|Sg	15	pn	_	_
+18	wieder	wieder	ADV	ADV	_	20	adv	_	_
+19	rasch	rasch	ADV	ADJD	Pos|	20	adv	_	_
+20	herauszukommen	herauskommen	V	VVIZU	_	8	obji	_	_
+21	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 53852
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordneter Maximilian Lercher (SPÖ)
+# governing = _
+# text = Sie haben vor dem Lockdown, in der wichtigsten Phase, in der die Unsicherheit begonnen hat, der Wirtschaft in Österreich signalisiert: Auf den Staat könnt ihr euch nicht verlas­sen!
+1	Sie	sie	PRO	PPER	3|Pl|_|Nom	2	subj	_	_
+2	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	vor	vor	PREP	APPR	Dat	23	pp	_	_
+4	dem	die	ART	ART	Def|Masc|Dat|Sg	5	det	_	_
+5	Lockdown	Lockdown	N	NN	Masc|Dat|Sg	3	pn	_	_
+6	,	,	$,	$,	_	0	root	_	_
+7	in	in	PREP	APPR	Dat	23	pp	_	_
+8	der	die	ART	ART	Def|Fem|Dat|Sg	10	det	_	_
+9	wichtigsten	wichtig	ADJA	ADJA	Sup|Fem|Dat|Sg|Wk|	10	attr	_	_
+10	Phase	Phase	N	NN	Fem|Dat|Sg	7	pn	_	_
+11	,	,	$,	$,	_	0	root	_	_
+12	in	in	PREP	APPR	Dat	16	pp	_	_
+13	der	die	PRO	PRELS	Fem|Dat|Sg	12	pn	_	_
+14	die	die	ART	ART	Def|Fem|Nom|Sg	15	det	_	_
+15	Unsicherheit	Unsicherheit	N	NN	Fem|Nom|Sg	17	subj	_	_
+16	begonnen	beginnen	V	VVPP	_	17	aux	_	_
+17	hat	haben	V	VAFIN	3|Sg|Pres|Ind	10	rel	_	_
+18	,	,	$,	$,	_	0	root	_	_
+19	der	die	ART	ART	Def|Fem|Dat|Sg	20	det	_	_
+20	Wirtschaft	Wirtschaft	N	NN	Fem|Dat|Sg	23	objd	_	_
+21	in	in	PREP	APPR	_	23	pp	_	_
+22	Österreich	Österreich	N	NE	Neut|_|Sg	21	pn	_	_
+23	signalisiert	signalisieren	V	VVPP	_	2	aux	_	_
+24	:	\:	$.	$.	_	0	root	_	_
+25	Auf	auf	PREP	APPR	Acc	28	pp	_	_
+26	den	die	ART	ART	Def|Masc|Acc|Sg	27	det	_	_
+27	Staat	Staat	N	NN	Masc|Acc|Sg	25	pn	_	_
+28	könnt	können	V	VMFIN	2|Pl|Pres|Ind	0	root	_	_
+29	ihr	ihr	PRO	PPER	2|Pl|_|Nom	28	subj	_	_
+30	euch	ihr	PRO	PRF	2|Pl|Acc	28	obja	_	_
+31	nicht	nicht	PTKNEG	PTKNEG	_	28	adv	_	_
+32	verlas	verlesen	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+33	­	­	FM	FM	_|Nom|Sg	32	subj	_	_
+34	sen	sen	FM	FM	_|Nom|Sg	33	app	_	_
+35	!	!	$.	$.	_	0	root	_	_
+
+# sent_id = 55123
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordneter Dr. Harald Troch (SPÖ)
+# governing = _
+# text = Nach elf Wochen coronabedingtem Lockdown, Shutdown sind wir jetzt am We­ge der Normalisierung.
+1	Nach	nach	PREP	APPR	Dat	4	pp	_	_
+2	elf	elf	CARD	CARD	_	3	attr	_	_
+3	Wochen	Woche	N	NN	Fem|Dat|Pl	1	pn	_	_
+4	coronabedingtem	coronabedingt	ADJA	ADJA	Pos|Masc|Dat|Sg|St|	5	attr	_	_
+5	Lockdown	Lockdown	N	NN	Masc|Dat|Sg	8	vok	_	_
+6	,	,	$,	$,	_	0	root	_	_
+7	Shutdown	Shutdown	N	NE	_|Nom|Pl	8	subj	_	_
+8	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+9	wir	wir	PRO	PPER	1|Pl|_|Nom	8	pred	_	_
+10	jetzt	jetzt	ADV	ADV	_	11	adv	_	_
+11	am	an	PREP	APPRART	Dat	8	pp	_	_
+12	We	We	FM	FM	_|Dat|_	11	pn	_	_
+13	­	­	FM	FM	_|Dat|_	12	app	_	_
+14	ge	ge	FM	FM	_|Dat|_	13	app	_	_
+15	der	die	ART	ART	Def|Fem|Gen|Sg	16	det	_	_
+16	Normalisierung	Normalisierung	N	NN	Fem|Gen|Sg	14	gmod	_	_
+17	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 55145
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordneter Dr. Harald Troch (SPÖ)
+# governing = _
+# text = Wenn alle Leute merken, was da an Angstmacherei, an unnötiger Angstmacherei dahinter war, dann werden auch Ihre Umfragewerte, Herr Bundeskanzler, einen Lockdown erleben, und das ist gut so.
+1	Wenn	wenn	KOUS	KOUS	_	4	konj	_	_
+2	alle	alle	ART	PIDAT	_|Nom|Pl	3	det	_	_
+3	Leute	Leute	N	NN	_|Nom|Pl	4	subj	_	_
+4	merken	merken	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	,	,	$,	$,	_	0	root	_	_
+6	was	was	PRO	PRELS	Neut|_|Sg	0	root	_	_
+7	da	da	ADV	ADV	_	8	adv	_	_
+8	an	an	PREP	APPR	_	0	root	_	_
+9	Angstmacherei	Angstmacherei	N	NN	Fem|_|Sg	8	pn	_	_
+10	,	,	$,	$,	_	0	root	_	_
+11	an	an	PREP	APPR	Dat	15	pp	_	_
+12	unnötiger	unnötig	ADJA	ADJA	Pos|Fem|Dat|Sg|St|	13	attr	_	_
+13	Angstmacherei	Angstmacherei	N	NN	Fem|Dat|Sg	11	pn	_	_
+14	dahinter	dahinter	PROAV	PROAV	_	15	pp	_	_
+15	war	sein	V	VAFIN	_|Sg|Past|Ind	0	root	_	_
+16	,	,	$,	$,	_	0	root	_	_
+17	dann	dann	ADV	ADV	_	18	adv	_	_
+18	werden	werden	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+19	auch	auch	ADV	ADV	_	28	adv	_	_
+20	Ihre	ihre	ART	PPOSAT	_|Nom|Pl	21	det	_	_
+21	Umfragewerte	Umfragewert	N	NN	_|Nom|Pl	18	subj	_	_
+22	,	,	$,	$,	_	0	root	_	_
+23	Herr	Herr	N	NN	Masc|Nom|_	21	app	_	_
+24	Bundeskanzler	Bundeskanzler	N	NN	Masc|Nom|_	23	app	_	_
+25	,	,	$,	$,	_	0	root	_	_
+26	einen	eine	ART	ART	Indef|Masc|Acc|Sg	27	det	_	_
+27	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	28	obja	_	_
+28	erleben	erleben	V	VVINF	_	18	aux	_	_
+29	,	,	$,	$,	_	0	root	_	_
+30	und	und	KON	KON	_	18	kon	_	_
+31	das	die	PRO	PDS	Neut|Nom|Sg	32	subj	_	_
+32	ist	sein	V	VAFIN	3|Sg|Pres|Ind	30	cj	_	_
+33	gut	gut	ADV	ADJD	Pos|	32	adv	_	_
+34	so	so	ADV	ADV	_	32	adv	_	_
+35	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 55235
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordnete Petra Bayr, MA MLS (SPÖ)
+# governing = _
+# text = Auch österreichische Hilfsorganisationen warnen vor den sozialen und wirtschaftlichen Folgen des Lockdowns für afrikanische Staaten, etwa die Caritas Österreich, die eine humanitäre Katastrophe befürchtet, u.a. durch sie steigenden Preise während einer Pandemie.
+1	Auch	auch	ADV	ADV	_	3	adv	_	_
+2	österreichische	österreichisch	ADJA	ADJA	Pos|Fem|Nom|Pl|St|	3	attr	_	_
+3	Hilfsorganisationen	Hilfsorganisation	N	NN	Fem|Nom|Pl	4	subj	_	_
+4	warnen	warnen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+5	vor	vor	PREP	APPR	Dat	4	pp	_	_
+6	den	die	ART	ART	Def|Fem|Dat|Pl	10	det	_	_
+7	sozialen	sozial	ADJA	ADJA	Pos|Fem|Dat|Pl|_|	10	attr	_	_
+8	und	und	KON	KON	_	7	kon	_	_
+9	wirtschaftlichen	wirtschaftlich	ADJA	ADJA	Pos|_|Dat|_|_|	8	cj	_	_
+10	Folgen	Folge	N	NN	Fem|Dat|Pl	5	pn	_	_
+11	des	die	ART	ART	Def|Masc|Gen|Sg	12	det	_	_
+12	Lockdowns	Lockdown	N	NN	Masc|Gen|Sg	10	gmod	_	_
+13	für	für	PREP	APPR	Acc	10	pp	_	_
+14	afrikanische	afrikanisch	ADJA	ADJA	Pos|Masc|Acc|Pl|St|	15	attr	_	_
+15	Staaten	Staat	N	NN	Masc|Acc|Pl	13	pn	_	_
+16	,	,	$,	$,	_	0	root	_	_
+17	etwa	etwa	ADV	ADV	_	19	adv	_	_
+18	die	die	ART	ART	Def|_|Acc|_	19	det	_	_
+19	Caritas	Caritas	N	NN	_|Acc|_	15	kon	_	_
+20	Österreich	Österreich	N	NE	Fem|Acc|Sg	19	app	_	_
+21	,	,	$,	$,	_	0	root	_	_
+22	die	die	PRO	PRELS	Fem|Nom|Sg	26	subj	_	_
+23	eine	eine	ART	ART	Indef|Fem|Acc|Sg	25	det	_	_
+24	humanitäre	humanitär	ADJA	ADJA	Pos|Fem|Acc|Sg|_|	25	attr	_	_
+25	Katastrophe	Katastrophe	N	NN	Fem|Acc|Sg	26	obja	_	_
+26	befürchtet	befürchten	V	VVFIN	3|Sg|Pres|Ind	20	rel	_	_
+27	,	,	$,	$,	_	0	root	_	_
+28	u.a.	u.a.	N	NE	Fem|Acc|Sg	20	app	_	_
+29	durch	durch	PREP	APPR	Acc	4	pp	_	_
+30	sie	sie	PRO	PPER	3|_|_|Acc	29	pn	_	_
+31	steigenden	steigend	ADJA	ADJA	Pos|Masc|Acc|Pl|Wk|_	32	attr	_	_
+32	Preise	Preis	N	NN	Masc|Acc|Pl	4	obja	_	_
+33	während	während	PREP	APPR	_	4	pp	_	_
+34	einer	eine	ART	ART	Indef|Fem|_|Sg	35	det	_	_
+35	Pandemie	Pandemie	N	NN	Fem|_|Sg	33	pn	_	_
+36	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 55348
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordneter Dr. Helmut Brandstätter (NEOS)
+# governing = _
+# text = Ich habe mich als Journalist von den Außenstellen immer sehr gut betreut gefühlt; so wie auch bei meiner letzten Reise nach Tirana, die ich noch vor dem Lockdown machen durfte – ich bin dem dortigen Botschafter Steiner sehr dankbar für die Hilfe –, merkt man, dass das Leute sind, die international schon etwas draufhaben.
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	_
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	mich	ich	PRO	PRF	1|Sg|Acc	13	obja	_	_
+4	als	als	KOKOM	KOKOM	_	13	kom	_	_
+5	Journalist	Journalist	N	NN	_|_|Sg	4	cj	_	_
+6	von	von	PREP	APPR	Dat	13	pp	_	_
+7	den	die	ART	ART	Def|Fem|Dat|Pl	8	det	_	_
+8	Außenstellen	Außenstelle	N	NN	Fem|Dat|Pl	6	pn	_	_
+9	immer	immer	ADV	ADV	_	10	adv	_	_
+10	sehr	sehr	ADV	ADV	_	11	adv	_	_
+11	gut	gut	ADV	ADJD	Pos|	12	adv	_	_
+12	betreut	betreut	ADV	ADJD	Pos|	13	pred	_	_
+13	gefühlt	fühlen	V	VVPP	_	2	aux	_	_
+14	;	;	$.	$.	_	0	root	_	_
+15	so	so	ADV	ADV	_	47	adv	_	_
+16	wie	wie	KOKOM	KOKOM	_	15	kom	_	_
+17	auch	auch	ADV	ADV	_	18	adv	_	_
+18	bei	bei	PREP	APPR	Dat	16	cj	_	_
+19	meiner	meine	ART	PPOSAT	Fem|Dat|Sg	21	det	_	_
+20	letzten	letzte	ADJA	ADJA	Pos|Fem|Dat|Sg|Wk|	21	attr	_	_
+21	Reise	Reis	N	NN	Fem|Dat|Sg	18	pn	_	_
+22	nach	nach	PREP	APPR	Dat	21	pp	_	_
+23	Tirana	Tirana	N	NE	Neut|Dat|Sg	22	pn	_	_
+24	,	,	$,	$,	_	0	root	_	_
+25	die	die	PRO	PRELS	Fem|Acc|Sg	31	obja	_	_
+26	ich	ich	PRO	PPER	1|Sg|_|Nom	32	subj	_	_
+27	noch	noch	ADV	ADV	_	31	adv	_	_
+28	vor	vor	PREP	APPR	Dat	31	pp	_	_
+29	dem	die	ART	ART	Def|Masc|Dat|Sg	30	det	_	_
+30	Lockdown	Lockdown	N	NN	Masc|Dat|Sg	28	pn	_	_
+31	machen	machen	V	VVINF	_	32	aux	_	_
+32	durfte	dürfen	V	VMFIN	1|Sg|Past|Ind	21	rel	_	_
+33	–	–	$(	$(	_	0	root	_	_
+34	ich	ich	PRO	PPER	1|Sg|_|Nom	35	subj	_	_
+35	bin	sein	V	VAFIN	1|Sg|Pres|Ind	32	par	_	_
+36	dem	die	ART	ART	Def|Masc|Dat|Sg	38	det	_	_
+37	dortigen	dortig	ADJA	ADJA	Pos|Masc|Dat|Sg|Wk|	38	attr	_	_
+38	Botschafter	Botschafter	N	NN	Masc|Dat|Sg	35	objd	_	_
+39	Steiner	Steiner	N	NE	_|Dat|Sg	38	app	_	_
+40	sehr	sehr	ADV	ADV	_	41	adv	_	_
+41	dankbar	dankbar	ADV	ADJD	Pos|	35	pred	_	_
+42	für	für	PREP	APPR	Acc	35	pp	_	_
+43	die	die	ART	ART	Def|Fem|Acc|Sg	44	det	_	_
+44	Hilfe	Hilfe	N	NN	Fem|Acc|Sg	42	pn	_	_
+45	–	–	$(	$(	_	0	root	_	_
+46	,	,	$,	$,	_	0	root	_	_
+47	merkt	merken	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+48	man	man	PRO	PIS	_|Nom|Sg	47	subj	_	_
+49	,	,	$,	$,	_	0	root	_	_
+50	dass	dass	KOUS	KOUS	_	53	konj	_	_
+51	das	die	ART	ART	Def|Neut|_|Sg	52	det	_	_
+52	Leute	Leute	N	NN	Neut|Nom|Sg	53	pred	_	_
+53	sind	sein	V	VAFIN	_|Pl|Pres|Ind	47	objc	_	_
+54	,	,	$,	$,	_	0	root	_	_
+55	die	die	PRO	PRELS	Fem|Nom|Pl	59	subj	_	_
+56	international	international	ADV	ADJD	Pos|	59	adv	_	_
+57	schon	schon	ADV	ADV	_	59	adv	_	_
+58	etwas	etwas	ADV	ADV	_	59	adv	_	_
+59	draufhaben	draufhaben	V	VVFIN	3|Pl|Pres|_	8	rel	_	_
+60	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 55390
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Bundesminister für Europa, Integration und Äußeres Mag. Alexander Schallen­berg, LL.M.
+# governing = _
+# text = Meine sehr geehrten Damen und Herren, in Wirklichkeit gab es für das Außenminis­terium nie einen Lockdown, in Wahrheit sind wir seit Anfang des Jahres konstant im Krisenbewältigungsmodus: zuerst zum Jahreswechsel durch einen massiven Angriff auf die Cyberinfrastruktur des Außenministeriums, den wir dank schnellen Handelns und Erkennens durch große Anstrengungen abwehren konnten.
+1	Meine	meine	ART	PPOSAT	Fem|_|Pl	4	det	_	_
+2	sehr	sehr	ADV	ADV	_	3	adv	_	_
+3	geehrten	geehrt	ADJA	ADJA	Pos|Fem|_|Pl|Wk|	4	attr	_	_
+4	Damen	Dame	N	NN	Fem|_|Pl	0	root	_	_
+5	und	und	KON	KON	_	4	kon	_	_
+6	Herren	Herr	N	NN	Masc|_|_	5	cj	_	_
+7	,	,	$,	$,	_	0	root	_	_
+8	in	in	PREP	APPR	_	10	pp	_	_
+9	Wirklichkeit	Wirklichkeit	N	NN	Fem|_|Sg	8	pn	_	_
+10	gab	geben	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+11	es	es	PRO	PPER	3|Sg|Neut|Nom	10	subj	_	_
+12	für	für	PREP	APPR	Acc	10	pp	_	_
+13	das	die	ART	ART	Def|Neut|Acc|Sg	14	det	_	_
+14	Außenminis	Außenminis	FM	FM	Neut|Acc|Sg	12	pn	_	_
+15	­	­	FM	FM	Neut|Acc|Sg	14	app	_	_
+16	terium	terium	FM	FM	Neut|Acc|Sg	15	app	_	_
+17	nie	nie	ADV	ADV	_	10	adv	_	_
+18	einen	eine	ART	ART	Indef|Masc|Acc|Sg	19	det	_	_
+19	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	10	obja	_	_
+20	,	,	$,	$,	_	0	root	_	_
+21	in	in	PREP	APPR	_	23	pp	_	_
+22	Wahrheit	Wahrheit	N	NN	Fem|_|Sg	21	pn	_	_
+23	sind	sein	V	VAFIN	1|Pl|Pres|Ind	10	kon	_	_
+24	wir	wir	PRO	PPER	1|Pl|_|Nom	23	subj	_	_
+25	seit	seit	PREP	APPR	Dat	23	pp	_	_
+26	Anfang	Anfang	N	NN	Masc|Dat|Sg	25	pn	_	_
+27	des	die	ART	ART	Def|Neut|Gen|Sg	28	det	_	_
+28	Jahres	Jahr	N	NN	Neut|Gen|Sg	26	gmod	_	_
+29	konstant	konstant	ADV	ADJD	Pos|	23	pred	_	_
+30	im	in	PREP	APPRART	Dat	23	pp	_	_
+31	Krisenbewältigungsmodus	Krisenbewältigungsmodus	N	NN	Masc|Dat|Sg	30	pn	_	_
+32	:	\:	$.	$.	_	0	root	_	_
+33	zuerst	zuerst	ADV	ADV	_	34	adv	_	_
+34	zum	zu	PREP	APPRART	Dat	0	root	_	_
+35	Jahreswechsel	Jahreswechsel	N	NN	Masc|Dat|Sg	34	pn	_	_
+36	durch	durch	PREP	APPR	Acc	35	pp	_	_
+37	einen	eine	ART	ART	Indef|Masc|Acc|Sg	39	det	_	_
+38	massiven	massiv	ADJA	ADJA	Pos|Masc|Acc|Sg|_|	39	attr	_	_
+39	Angriff	Angriff	N	NN	Masc|Acc|Sg	36	pn	_	_
+40	auf	auf	PREP	APPR	Acc	39	pp	_	_
+41	die	die	ART	ART	Def|_|Acc|_	42	det	_	_
+42	Cyberinfrastruktur	Cyberinfrastruktur	N	NN	_|Acc|_	40	pn	_	_
+43	des	die	ART	ART	Def|Neut|Gen|Sg	44	det	_	_
+44	Außenministeriums	Außenministerium	N	NN	Neut|Gen|Sg	42	gmod	_	_
+45	,	,	$,	$,	_	0	root	_	_
+46	den	die	PRO	PRELS	Masc|Acc|Sg	56	obja	_	_
+47	wir	wir	PRO	PPER	1|Pl|_|Nom	57	subj	_	_
+48	dank	dank	PREP	APPR	Gen	56	pp	_	_
+49	schnellen	schnell	ADJA	ADJA	Pos|Neut|Gen|Sg|_|	50	attr	_	_
+50	Handelns	Handeln	N	NN	Neut|Gen|Sg	48	pn	_	_
+51	und	und	KON	KON	_	50	kon	_	_
+52	Erkennens	Erkennen	N	NN	Neut|Gen|Sg	51	cj	_	_
+53	durch	durch	PREP	APPR	Acc	56	pp	_	_
+54	große	groß	ADJA	ADJA	Pos|_|Acc|_|_|	55	attr	_	_
+55	Anstrengungen	Anstrengung	N	NN	_|Acc|_	53	pn	_	_
+56	abwehren	abwehren	V	VVINF	_	57	aux	_	_
+57	konnten	können	V	VMFIN	1|Pl|Past|Ind	39	rel	_	_
+58	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 55403
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Bundesminister für Europa, Integration und Äußeres Mag. Alexander Schallen­berg, LL.M.
+# governing = _
+# text = Es waren letzten Endes nämlich unsere Botschaften in Lima, Kuala Lumpur, Canberra und Peking, die diese Rückholaktion organisiert haben, die dafür gesorgt haben, dass die Bürger überhaupt ihre Hotels und Quartiere verlassen und zum Flughafen kommen konnten, obwohl vielleicht lokal strengster Lockdown herrschte, die am Höhepunkt der Krise dafür gesorgt haben, dass es Landegenehmigungen und Exportgenehmigungen gab, als es darum ging, dringend benötigtes medizinisches Material nach Österreich zu bringen.
+1	Es	es	PRO	PPER	3|Sg|Neut|Nom	2	pred	_	_
+2	waren	sein	V	VAFIN	3|Pl|Past|Ind	0	root	_	_
+3	letzten	letzte	ADJA	ADJA	Pos|Neut|Gen|Sg|_|	4	attr	_	_
+4	Endes	Ende	N	NN	Neut|Gen|Sg	2	objg	_	_
+5	nämlich	nämlich	ADV	ADV	_	2	adv	_	_
+6	unsere	unsre	ART	PPOSAT	Fem|Nom|Pl	7	det	_	_
+7	Botschaften	Botschaft	N	NN	Fem|Nom|Pl	2	subj	_	_
+8	in	in	PREP	APPR	_	2	pp	_	_
+9	Lima	Lima	N	NE	Neut|_|Sg	8	pn	_	_
+10	,	,	$,	$,	_	0	root	_	_
+11	Kuala	Kuala	N	NE	Neut|_|Sg	9	kon	_	_
+12	Lumpur	Lumpur	N	NE	Neut|_|Sg	11	app	_	_
+13	,	,	$,	$,	_	0	root	_	_
+14	Canberra	Canberra	N	NE	Neut|_|Sg	11	kon	_	_
+15	und	und	KON	KON	_	14	kon	_	_
+16	Peking	Peking	N	NN	Neut|_|Sg	15	cj	_	_
+17	,	,	$,	$,	_	0	root	_	_
+18	die	die	PRO	PRELS	Fem|Nom|Pl	22	subj	_	_
+19	diese	diese	ART	PDAT	Fem|Acc|Sg	20	det	_	_
+20	Rückholaktion	Rückholaktion	N	NN	Fem|Acc|Sg	21	obja	_	_
+21	organisiert	organisieren	V	VVPP	_	22	aux	_	_
+22	haben	haben	V	VAFIN	3|Pl|Pres|_	7	rel	_	_
+23	,	,	$,	$,	_	0	root	_	_
+24	die	die	PRO	PRELS	Fem|Nom|Pl	27	subj	_	_
+25	dafür	dafür	PROAV	PROAV	_	26	objp	_	_
+26	gesorgt	sorgen	V	VVPP	_	27	aux	_	_
+27	haben	haben	V	VAFIN	3|Pl|Pres|_	18	rel	_	_
+28	,	,	$,	$,	_	0	root	_	_
+29	dass	dass	KOUS	KOUS	_	37	konj	_	_
+30	die	die	ART	ART	Def|Masc|Nom|Pl	31	det	_	_
+31	Bürger	Bürger	N	NN	Masc|Nom|Pl	37	subj	_	_
+32	überhaupt	überhaupt	ADV	ADV	_	37	adv	_	_
+33	ihre	ihre	ART	PPOSAT	Neut|Acc|Pl	34	det	_	_
+34	Hotels	Hotel	N	NN	Neut|Acc|Pl	37	obja	_	_
+35	und	und	KON	KON	_	34	kon	_	_
+36	Quartiere	Quartier	N	NN	Neut|Acc|Pl	35	cj	_	_
+37	verlassen	verlassen	V	VVFIN	3|Pl|Pres|_	26	objc	_	_
+38	und	und	KON	KON	_	0	root	_	_
+39	zum	zu	PREP	APPRART	Dat	41	objp	_	_
+40	Flughafen	Flughafen	N	NN	Masc|Dat|Sg	39	pn	_	_
+41	kommen	kommen	V	VVINF	_	38	cj	_	_
+42	konnten	können	V	VMFIN	_|Pl|Past|Ind	0	root	_	_
+43	,	,	$,	$,	_	0	root	_	_
+44	obwohl	obwohl	KOUS	KOUS	_	49	konj	_	_
+45	vielleicht	vielleicht	ADV	ADV	_	49	adv	_	_
+46	lokal	lokal	ADV	ADJD	Pos|	49	adv	_	_
+47	strengster	streng	ADJA	ADJA	Sup|Masc|Nom|Sg|St|	48	attr	_	_
+48	Lockdown	Lockdown	N	NN	Masc|Nom|Sg	49	subj	_	_
+49	herrschte	herrschen	V	VVFIN	3|Sg|Past|_	42	neb	_	_
+50	,	,	$,	$,	_	0	root	_	_
+51	die	die	PRO	PRELS	Neut|Nom|Pl	58	subj	_	_
+52	am	an	PREP	APPRART	Dat	57	pp	_	_
+53	Höhepunkt	Höhepunkt	N	NN	Masc|Dat|Sg	52	pn	_	_
+54	der	die	ART	ART	Def|Fem|Gen|Sg	55	det	_	_
+55	Krise	Krise	N	NN	Fem|Gen|Sg	53	gmod	_	_
+56	dafür	dafür	PROAV	PROAV	_	57	objp	_	_
+57	gesorgt	sorgen	V	VVPP	_	58	aux	_	_
+58	haben	haben	V	VAFIN	3|Pl|Pres|_	36	rel	_	_
+59	,	,	$,	$,	_	0	root	_	_
+60	dass	dass	KOUS	KOUS	_	65	konj	_	_
+61	es	es	PRO	PPER	3|Sg|Neut|Nom	65	subj	_	_
+62	Landegenehmigungen	Landegenehmigung	N	NN	_|Acc|_	65	obja	_	_
+63	und	und	KON	KON	_	62	kon	_	_
+64	Exportgenehmigungen	Exportgenehmigung	N	NN	_|Acc|_	63	cj	_	_
+65	gab	geben	V	VVFIN	3|Sg|Past|Ind	57	objc	_	_
+66	,	,	$,	$,	_	0	root	_	_
+67	als	als	KOUS	KOUS	_	70	konj	_	_
+68	es	es	PRO	PPER	3|Sg|Neut|_	70	expl	_	_
+69	darum	darum	PROAV	PROAV	_	70	objp	_	_
+70	ging	gehen	V	VVFIN	_|Sg|Past|Ind	65	neb	_	_
+71	,	,	$,	$,	_	0	root	_	_
+72	dringend	dringend	ADV	ADJD	_|_	73	adv	_	_
+73	benötigtes	benötigt	ADJA	ADJA	Pos|Neut|Acc|Sg|St|	75	attr	_	_
+74	medizinisches	medizinisch	ADJA	ADJA	Pos|Neut|Acc|Sg|St|	75	attr	_	_
+75	Material	Material	N	NN	Neut|Acc|Sg	79	obja	_	_
+76	nach	nach	PREP	APPR	Dat	79	pp	_	_
+77	Österreich	Österreich	N	NE	Neut|Dat|Sg	76	pn	_	_
+78	zu	zu	PTKZU	PTKZU	_	79	part	_	_
+79	bringen	bringen	V	VVINF	_	70	obji	_	_
+80	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 58137
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordneter Joachim Schnabel (ÖVP)
+# governing = _
+# text = Dieses Ein-Milliarden-Euro-Paket ermöglicht uns Gemeinden, am Ende des Lock­downs Planungssicherheit zu haben und für die Zukunft zu investieren.
+1	Dieses	diese	ART	PDAT	Neut|Nom|Sg	2	det	_	_
+2	Ein-Milliarden-Euro-Paket	Ein-Milliarden-Euro-Paket	N	NN	Neut|Nom|Sg	3	subj	_	_
+3	ermöglicht	ermöglichen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+4	uns	wir	PRO	PPER	1|Pl|_|Dat	3	objd	15	subj
+5	Gemeinden	Gemeinde	N	NN	_|Acc|_	3	obja	_	_
+6	,	,	$,	$,	_	0	root	_	_
+7	am	an	PREP	APPRART	Dat	15	pp	_	_
+8	Ende	Ende	N	NN	Neut|Dat|Sg	7	pn	_	_
+9	des	die	ART	ART	Def|_|Gen|Sg	10	det	_	_
+10	Lock	Lock	FM	FM	Fem|Gen|Sg	8	gmod	_	_
+11	­	­	FM	FM	Fem|Gen|Sg	10	app	_	_
+12	downs	downs	FM	FM	Fem|Gen|Sg	11	app	_	_
+13	Planungssicherheit	Planungssicherheit	N	NN	Fem|Gen|Sg	12	app	_	_
+14	zu	zu	PTKZU	PTKZU	_	15	part	_	_
+15	haben	haben	V	VAINF	_	3	obji	_	_
+16	und	und	KON	KON	_	15	kon	_	_
+17	für	für	PREP	APPR	Acc	21	pp	_	_
+18	die	die	ART	ART	Def|Fem|Acc|Sg	19	det	_	_
+19	Zukunft	Zukunft	N	NN	Fem|Acc|Sg	17	pn	_	_
+20	zu	zu	PTKZU	PTKZU	_	21	part	_	_
+21	investieren	investieren	V	VVINF	_	16	cj	_	_
+22	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 60807
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordneter Franz Hörl (ÖVP)
+# governing = _
+# text = Wir werden die 31 Millionen Nächtigungen, die wir im Jahr davor gehabt haben, in diesen Monaten in Österreich nicht mehr aufholen, und der durch diesen Lockdown eingetretene Scha­den liegt bei 2 Milliarden Euro.
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	_
+2	werden	werden	V	VAFIN	1|Pl|Pres|_	0	root	_	_
+3	die	die	ART	ART	Def|Fem|Acc|Pl	5	det	_	_
+4	31	31	CARD	CARD	_	5	attr	_	_
+5	Millionen	Million	N	NN	_|Acc|_	23	obja	_	_
+6	Nächtigungen	Nächtigung	N	NN	_|Acc|_	5	app	_	_
+7	,	,	$,	$,	_	0	root	_	_
+8	die	die	PRO	PRELS	_|Acc|_	13	obja	_	_
+9	wir	wir	PRO	PPER	1|Pl|_|Nom	14	subj	_	_
+10	im	in	PREP	APPRART	Dat	13	pp	_	_
+11	Jahr	Jahr	N	NN	Neut|Dat|Sg	10	pn	_	_
+12	davor	davor	PROAV	PROAV	_	13	pp	_	_
+13	gehabt	haben	V	VAPP	_	14	aux	_	_
+14	haben	haben	V	VAFIN	1|Pl|Pres|_	6	rel	_	_
+15	,	,	$,	$,	_	0	root	_	_
+16	in	in	PREP	APPR	Dat	23	pp	_	_
+17	diesen	diese	ART	PDAT	Masc|Dat|Pl	18	det	_	_
+18	Monaten	Monat	N	NN	Masc|Dat|Pl	16	pn	_	_
+19	in	in	PREP	APPR	_	23	pp	_	_
+20	Österreich	Österreich	N	NE	Neut|_|Sg	19	pn	_	_
+21	nicht	nicht	PTKNEG	PTKNEG	_	23	adv	_	_
+22	mehr	mehr	ADV	ADV	_	21	adv	_	_
+23	aufholen	aufholen	V	VVINF	_	2	aux	_	_
+24	,	,	$,	$,	_	0	root	_	_
+25	und	und	KON	KON	_	0	root	_	_
+26	der	die	PRO	PRELS	Masc|Nom|Sg	34	subj	_	_
+27	durch	durch	PREP	APPR	Acc	34	pp	_	_
+28	diesen	diese	ART	PDAT	Masc|Acc|Sg	29	det	_	_
+29	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	27	pn	_	_
+30	eingetretene	eingetreten	ADJA	ADJA	Pos|_|Acc|_|_|	31	attr	_	_
+31	Scha	Scha	FM	FM	_|Acc|_	29	app	_	_
+32	­	­	FM	FM	_|Acc|_	31	app	_	_
+33	den	die	PRO	PDS	Masc|Acc|Sg	34	obja	_	_
+34	liegt	liegen	V	VVFIN	3|Sg|Pres|Ind	25	cj	_	_
+35	bei	bei	PREP	APPR	Dat	34	objp	_	_
+36	2	2	CARD	CARD	_	37	attr	_	_
+37	Milliarden	Milliarde	N	NN	Masc|Dat|Pl	35	pn	_	_
+38	Euro	Euro	N	NN	_|Dat|_	37	app	_	_
+39	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 60932
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordnete MMMag. Gertraud Salzmann (ÖVP)
+# governing = _
+# text = Gerade diese Wochen sind schwierige Zeiten, vor allem auch für die Gastronomie und die Hotellerie, weil der Shutdown, der Lockdown, für diese Branche sehr, sehr einschneidend war, deshalb hat die Bundesregierung da auch sehr beherzt wesentliche Maßnahmen getroffen.
+1	Gerade	gerade	ADV	ADV	_	3	adv	_	_
+2	diese	diese	ART	PDAT	Fem|Nom|Pl	3	det	_	_
+3	Wochen	Woche	N	NN	Fem|Nom|Pl	4	subj	_	_
+4	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+5	schwierige	schwierig	ADJA	ADJA	Pos|Fem|Nom|Pl|St|	6	attr	_	_
+6	Zeiten	Zeit	N	NN	Fem|Nom|Pl	4	pred	_	_
+7	,	,	$,	$,	_	0	root	_	_
+8	vor	vor	PREP	APPR	Dat	6	pp	_	_
+9	allem	alle	PRO	PIS	_|Dat|Sg	8	pn	_	_
+10	auch	auch	ADV	ADV	_	11	adv	_	_
+11	für	für	PREP	APPR	Acc	9	pp	_	_
+12	die	die	ART	ART	Def|Fem|Acc|Sg	13	det	_	_
+13	Gastronomie	Gastronomie	N	NN	Fem|Acc|Sg	11	pn	_	_
+14	und	und	KON	KON	_	13	kon	_	_
+15	die	die	ART	ART	Def|Fem|Acc|Sg	16	det	_	_
+16	Hotellerie	Hotellerie	N	NN	Fem|Acc|Sg	14	cj	_	_
+17	,	,	$,	$,	_	0	root	_	_
+18	weil	weil	KOUS	KOUS	_	32	konj	_	_
+19	der	die	ART	ART	Def|Masc|Nom|Sg	20	det	_	_
+20	Shutdown	Shutdown	N	NN	Masc|Nom|Sg	32	subj	_	_
+21	,	,	$,	$,	_	0	root	_	_
+22	der	die	ART	ART	Def|Masc|Nom|Sg	23	det	_	_
+23	Lockdown	Lockdown	N	NN	Masc|Nom|Sg	20	app	_	_
+24	,	,	$,	$,	_	0	root	_	_
+25	für	für	PREP	APPR	Acc	32	pp	_	_
+26	diese	diese	ART	PDAT	Fem|Acc|Sg	27	det	_	_
+27	Branche	Branche	N	NN	Fem|Acc|Sg	25	pn	_	_
+28	sehr	sehr	ADV	ADV	_	32	adv	_	_
+29	,	,	$,	$,	_	0	root	_	_
+30	sehr	sehr	ADV	ADV	_	31	adv	_	_
+31	einschneidend	einschneiden	ADV	ADJD	_|<PPRES	28	kon	_	_
+32	war	sein	V	VAFIN	3|Sg|Past|Ind	4	neb	_	_
+33	,	,	$,	$,	_	0	root	_	_
+34	deshalb	deshalb	PROAV	PROAV	_	35	pp	_	_
+35	hat	haben	V	VAFIN	3|Sg|Pres|Ind	4	kon	_	_
+36	die	die	ART	ART	Def|Fem|Nom|Sg	37	det	_	_
+37	Bundesregierung	Bundesregierung	N	NN	Fem|Nom|Sg	35	subj	_	_
+38	da	da	ADV	ADV	_	44	adv	_	_
+39	auch	auch	ADV	ADV	_	44	adv	_	_
+40	sehr	sehr	ADV	ADV	_	41	adv	_	_
+41	beherzt	beherzt	ADV	ADJD	Pos|	44	adv	_	_
+42	wesentliche	wesentlich	ADJA	ADJA	Pos|Fem|Acc|Pl|St|	43	attr	_	_
+43	Maßnahmen	Maßnahme	N	NN	Fem|Acc|Pl	44	obja	_	_
+44	getroffen	treffen	V	VVPP	_	35	aux	_	_
+45	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 62495
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Bundesministerin für Frauen und Integration im Bundeskanzleramt MMag. Dr. Su­sanne Raab
+# governing = _
+# text = Ich habe mit meiner italienischen Amtskollegin zu Beginn der Ausgangbeschränkungen gesprochen, und sie hat mir von ihren Erfahrungen berichtet: In Italien hat jeder während des Lockdowns geglaubt, diese Unterstützungseinrichtungen hätten – analog zu ande­ren infrastrukturellen Einrichtungen – nicht mehr offen, und deshalb haben viele Frauen nicht gewusst, an wen sie sich wenden sollen, wenn sie Unterstützung und Hilfe brau­chen.
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	_
+2	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+3	mit	mit	PREP	APPR	Dat	11	pp	_	_
+4	meiner	meine	ART	PPOSAT	Fem|Dat|Sg	6	det	_	_
+5	italienischen	italienisch	ADJA	ADJA	Pos|Fem|Dat|Sg|Wk|	6	attr	_	_
+6	Amtskollegin	Amtskollegin	N	NN	Fem|Dat|Sg	3	pn	_	_
+7	zu	zu	PREP	APPR	Dat	11	pp	_	_
+8	Beginn	Beginn	N	NN	Masc|Dat|Sg	7	pn	_	_
+9	der	die	ART	ART	Def|Fem|Gen|Pl	10	det	_	_
+10	Ausgangbeschränkungen	Ausgangbeschränkung	N	NN	Fem|Gen|Pl	8	gmod	_	_
+11	gesprochen	sprechen	V	VVPP	_	2	aux	_	_
+12	,	,	$,	$,	_	0	root	_	_
+13	und	und	KON	KON	_	2	kon	_	_
+14	sie	sie	PRO	PPER	3|Sg|Fem|Nom	15	subj	_	_
+15	hat	haben	V	VAFIN	3|Sg|Pres|Ind	13	cj	_	_
+16	mir	ich	PRO	PPER	1|Sg|_|Dat	20	objd	_	_
+17	von	von	PREP	APPR	_	20	pp	_	_
+18	ihren	ihre	ART	PPOSAT	_|_|_	19	det	_	_
+19	Erfahrungen	Erfahrung	N	NN	_|_|_	17	pn	_	_
+20	berichtet	berichten	V	VVPP	_	15	aux	_	_
+21	:	\:	$.	$.	_	0	root	_	_
+22	In	in	PREP	APPR	_	24	pp	_	_
+23	Italien	Italien	N	NE	Neut|_|Sg	22	pn	_	_
+24	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+25	jeder	jede	PRO	PIS	Masc|Nom|Sg	24	subj	_	_
+26	während	während	PREP	APPR	Gen	29	pp	_	_
+27	des	die	ART	ART	Def|Masc|Gen|Sg	28	det	_	_
+28	Lockdowns	Lockdown	N	NN	Masc|Gen|Sg	26	pn	_	_
+29	geglaubt	glauben	V	VVPP	_	24	aux	_	_
+30	,	,	$,	$,	_	0	root	_	_
+31	diese	diese	ART	PDAT	Fem|Acc|Pl	32	det	_	_
+32	Unterstützungseinrichtungen	Unterstützungseinrichtung	N	NN	Fem|Acc|Pl	33	obja	_	_
+33	hätten	haben	V	VAFIN	_|Pl|Past|Subj	0	root	_	_
+34	–	–	$(	$(	_	0	root	_	_
+35	analog	analog	ADV	ADJD	Pos|	41	adv	_	_
+36	zu	zu	PREP	APPR	Dat	35	pp	_	_
+37	ande	ande	FM	FM	_|Dat|_	36	pn	_	_
+38	­	­	FM	FM	_|Dat|_	37	app	_	_
+39	ren	ren	FM	FM	_|Dat|_	38	app	_	_
+40	infrastrukturellen	infrastrukturellen	FM	FM	_|Dat|_	39	app	_	_
+41	Einrichtungen	Einrichtung	N	NN	_|Nom|_	53	subj	_	_
+42	–	–	$(	$(	_	0	root	_	_
+43	nicht	nicht	PTKNEG	PTKNEG	_	53	adv	_	_
+44	mehr	mehr	ADV	ADV	_	43	adv	_	_
+45	offen	offen	ADV	ADJD	Pos|	53	adv	_	_
+46	,	,	$,	$,	_	0	root	_	_
+47	und	und	KON	KON	_	45	kon	_	_
+48	deshalb	deshalb	PROAV	PROAV	_	47	cj	_	_
+49	haben	haben	V	VAINF	_	53	aux	_	_
+50	viele	viele	ART	PIDAT	Fem|Acc|Pl	51	det	_	_
+51	Frauen	Frau	N	NN	Fem|Acc|Pl	53	obja	_	_
+52	nicht	nicht	PTKNEG	PTKNEG	_	53	adv	_	_
+53	gewusst	wissen	V	VVPP	_	60	neb	_	_
+54	,	,	$,	$,	_	0	root	_	_
+55	an	an	PREP	APPR	Acc	59	objp	_	_
+56	wen	wer	PRO	PWS	_|Acc|Sg	55	pn	_	_
+57	sie	sie	PRO	PPER	3|Pl|_|Nom	60	subj	_	_
+58	sich	sie	PRO	PRF	3|_|Acc	59	obja	_	_
+59	wenden	wenden	V	VVINF	_	60	aux	_	_
+60	sollen	sollen	V	VMFIN	3|Pl|Pres|_	33	subjc	_	_
+61	,	,	$,	$,	_	0	root	_	_
+62	wenn	wenn	KOUS	KOUS	_	0	root	_	_
+63	sie	sie	PRO	PPER	Fem|_|Sg	0	root	_	_
+64	Unterstützung	Unterstützung	N	NN	Fem|_|Sg	63	app	_	_
+65	und	und	KON	KON	_	64	kon	_	_
+66	Hilfe	Hilfe	N	NN	Fem|_|Sg	65	cj	_	_
+67	brau	brau	FM	FM	Fem|_|Sg	66	app	_	_
+68	­	­	FM	FM	Fem|_|Sg	67	app	_	_
+69	chen	chen	FM	FM	Fem|_|Sg	68	app	_	_
+70	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 63451
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordnete Dr. Gudrun Kugler (ÖVP)
+# governing = _
+# text = Die Familie hat den Lockdown aufgefangen, und dennoch hat man den Eindruck, dass in der politischen Diskussion die Familie ganz oft in einen negativen Kontext gerückt wird und es heißt: Armutsfalle, Überlastung oder auch Gewalt.
+1	Die	die	ART	ART	Def|Fem|Nom|Sg	2	det	_	_
+2	Familie	Familie	N	NN	Fem|Nom|Sg	3	subj	_	_
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	den	die	ART	ART	Def|Masc|Acc|Sg	5	det	_	_
+5	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	6	obja	_	_
+6	aufgefangen	auffangen	V	VVPP	_	3	aux	_	_
+7	,	,	$,	$,	_	0	root	_	_
+8	und	und	KON	KON	_	3	kon	_	_
+9	dennoch	dennoch	ADV	ADV	_	10	adv	_	_
+10	hat	haben	V	VAFIN	3|Sg|Pres|Ind	8	cj	_	_
+11	man	man	PRO	PIS	_|Nom|Sg	10	subj	_	_
+12	den	die	ART	ART	Def|Masc|Acc|Sg	13	det	_	_
+13	Eindruck	Eindruck	N	NN	Masc|Acc|Sg	10	obja	_	_
+14	,	,	$,	$,	_	0	root	_	_
+15	dass	dass	KOUS	KOUS	_	29	konj	_	_
+16	in	in	PREP	APPR	Dat	28	pp	_	_
+17	der	die	ART	ART	Def|Fem|Dat|Sg	19	det	_	_
+18	politischen	politisch	ADJA	ADJA	Pos|Fem|Dat|Sg|Wk|	19	attr	_	_
+19	Diskussion	Diskussion	N	NN	Fem|Dat|Sg	16	pn	_	_
+20	die	die	ART	ART	Def|Fem|Nom|Sg	21	det	_	_
+21	Familie	Familie	N	NN	Fem|Nom|Sg	29	subj	_	_
+22	ganz	ganz	ADV	ADV	_	23	adv	_	_
+23	oft	oft	ADV	ADV	_	28	adv	_	_
+24	in	in	PREP	APPR	Acc	28	objp	_	_
+25	einen	eine	ART	ART	Indef|Masc|Acc|Sg	27	det	_	_
+26	negativen	negativ	ADJA	ADJA	Pos|Masc|Acc|Sg|_|	27	attr	_	_
+27	Kontext	Kontext	N	NN	Masc|Acc|Sg	24	pn	_	_
+28	gerückt	rücken	V	VVPP	_	29	aux	_	_
+29	wird	werden	V	VAFIN	3|Sg|Pres|Ind	13	objc	_	_
+30	und	und	KON	KON	_	29	kon	_	_
+31	es	es	PRO	PPER	3|Sg|Neut|Nom	32	subj	_	_
+32	heißt	heißen	V	VVFIN	3|Sg|Pres|Ind	30	cj	_	_
+33	:	\:	$.	$.	_	0	root	_	_
+34	Armutsfalle	Armutsfall	N	NN	_|_|Sg	0	root	_	_
+35	,	,	$,	$,	_	0	root	_	_
+36	Überlastung	Überlastung	N	NN	Fem|_|Sg	34	kon	_	_
+37	oder	oder	KON	KON	_	36	kon	_	_
+38	auch	auch	ADV	ADV	_	39	adv	_	_
+39	Gewalt	Gewalt	N	NN	Fem|_|Sg	37	cj	_	_
+40	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 63459
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordnete Dr. Gudrun Kugler (ÖVP)
+# governing = _
+# text = Laut den Zahlen, die die Frauenministerin heute genannt hat, gab es vor der Krise im Jänner 936 Fälle und im April, als das ganze Monat Lockdown war, waren es 1 075.
+1	Laut	laut	PREP	APPR	Dat	12	pp	_	_
+2	den	die	ART	ART	Def|Fem|Dat|Pl	3	det	_	_
+3	Zahlen	Zahl	N	NN	Fem|Dat|Pl	1	pn	_	_
+4	,	,	$,	$,	_	0	root	_	_
+5	die	die	PRO	PRELS	Fem|Nom|Sg	10	subj	_	_
+6	die	die	ART	ART	Def|Fem|Acc|Sg	7	det	_	_
+7	Frauenministerin	Frauenministerin	N	NN	Fem|Acc|Sg	9	obja	_	_
+8	heute	heute	ADV	ADV	_	9	adv	_	_
+9	genannt	nennen	V	VVPP	_	10	aux	_	_
+10	hat	haben	V	VAFIN	3|Sg|Pres|Ind	3	rel	_	_
+11	,	,	$,	$,	_	0	root	_	_
+12	gab	geben	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+13	es	es	PRO	PPER	3|Sg|Neut|Nom	12	subj	_	_
+14	vor	vor	PREP	APPR	Dat	12	pp	_	_
+15	der	die	ART	ART	Def|Fem|Dat|Sg	16	det	_	_
+16	Krise	Krise	N	NN	Fem|Dat|Sg	14	pn	_	_
+17	im	in	PREP	APPRART	Dat	12	pp	_	_
+18	Jänner	Jänner	N	NN	Masc|_|_	17	pn	_	_
+19	936	936	CARD	CARD	_	20	attr	_	_
+20	Fälle	Fall	N	NN	Masc|_|Pl	18	app	_	_
+21	und	und	KON	KON	_	17	kon	_	_
+22	im	in	PREP	APPRART	Dat	21	cj	_	_
+23	April	April	N	NN	Masc|Dat|Sg	22	pn	_	_
+24	,	,	$,	$,	_	0	root	_	_
+25	als	als	KOUS	KOUS	_	30	konj	_	_
+26	das	die	ART	ART	Def|Neut|_|Sg	28	det	_	_
+27	ganze	ganz	ADJA	ADJA	Pos|Neut|Nom|Sg|Wk|	28	attr	_	_
+28	Monat	Monat	N	NN	Neut|Nom|Sg	30	subj	_	_
+29	Lockdown	lockdown	ADV	ADJD	Pos|	30	pred	_	_
+30	war	sein	V	VAFIN	3|Sg|Past|Ind	32	neb	_	_
+31	,	,	$,	$,	_	0	root	_	_
+32	waren	sein	V	VAFIN	_|Pl|Past|Ind	12	kon	_	_
+33	es	es	PRO	PPER	3|Sg|Neut|Nom	32	subj	_	_
+34	1	1	CARD	CARD	_	35	attr	_	_
+35	075	075	CARD	CARD	_	32	pred	_	_
+36	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 63542
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordnete Eva Maria Holzleitner, BSc (SPÖ)
+# governing = _
+# text = Während des Lockdowns waren wirklich auch die Kinderrechte massiv eingeschränkt.
+1	Während	während	PREP	APPR	Gen	4	pp	_	_
+2	des	die	ART	ART	Def|Masc|Gen|Sg	3	det	_	_
+3	Lockdowns	Lockdown	N	NN	Masc|Gen|Sg	1	pn	_	_
+4	waren	sein	V	VAFIN	3|Pl|Past|Ind	0	root	_	_
+5	wirklich	wirklich	ADV	ADJD	Pos|	10	adv	_	_
+6	auch	auch	ADV	ADV	_	10	adv	_	_
+7	die	die	ART	ART	Def|_|Nom|Pl	8	det	_	_
+8	Kinderrechte	Kinderrecht	N	NN	_|Nom|Pl	4	subj	_	_
+9	massiv	massiv	ADV	ADJD	Pos|	10	adv	_	_
+10	eingeschränkt	einschränken	V	VVPP	_	4	aux	_	_
+11	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 64955
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordneter Mag. Gerhard Kaniak (FPÖ)
+# governing = _
+# text = Da rede ich gar nicht von den möglicherweise erforderlichen Kostendeckungen für die Sozialversicherungen oder für die Krankenkassen; da rede ich noch gar nicht von den zusätzlichen Kosten durch den Behandlungsrückstau, der wegen des Lockdown im Ge­sundheitswesen passiert ist; da spreche ich noch gar nicht von den notwendigen Inves­titionsanreizen, damit wir unser Gesundheitssystem so umformen, dass die nächste Krise noch besser bestanden wird; und da rede ich noch gar nicht von den Kosten, die zur Absicherung der Arzneimittelversorgung und der Versorgung mit Medizinprodukten notwendig sind.
+1	Da	da	ADV	ADV	_	2	adv	_	_
+2	rede	reden	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+3	ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	_
+4	gar	gar	ADV	ADV	_	5	adv	_	_
+5	nicht	nicht	PTKNEG	PTKNEG	_	2	adv	_	_
+6	von	von	PREP	APPR	Dat	2	pp	_	_
+7	den	die	ART	ART	Def|Fem|Dat|Pl	10	det	_	_
+8	möglicherweise	möglicherweise	ADV	ADV	_	10	adv	_	_
+9	erforderlichen	erforderlich	ADJA	ADJA	Pos|Fem|Dat|Pl|_|	10	attr	_	_
+10	Kostendeckungen	Kostendeckung	N	NN	Fem|Dat|Pl	6	pn	_	_
+11	für	für	PREP	APPR	Acc	10	pp	_	_
+12	die	die	ART	ART	Def|Fem|Acc|Pl	13	det	_	_
+13	Sozialversicherungen	Sozialversicherung	N	NN	Fem|Acc|Pl	11	pn	_	_
+14	oder	oder	KON	KON	_	11	kon	_	_
+15	für	für	PREP	APPR	Acc	14	cj	_	_
+16	die	die	ART	ART	Def|Fem|Acc|Pl	17	det	_	_
+17	Krankenkassen	Krankenkasse	N	NN	Fem|Acc|Pl	15	pn	_	_
+18	;	;	$.	$.	_	0	root	_	_
+19	da	da	ADV	ADV	_	20	adv	_	_
+20	rede	reden	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+21	ich	ich	PRO	PPER	1|Sg|_|Nom	20	subj	_	_
+22	noch	noch	ADV	ADV	_	24	adv	_	_
+23	gar	gar	ADV	ADV	_	24	adv	_	_
+24	nicht	nicht	PTKNEG	PTKNEG	_	20	adv	_	_
+25	von	von	PREP	APPR	Dat	20	pp	_	_
+26	den	die	ART	ART	Def|_|Dat|Pl	28	det	_	_
+27	zusätzlichen	zusätzlich	ADJA	ADJA	Pos|_|Dat|Pl|_|	28	attr	_	_
+28	Kosten	Kosten	N	NN	_|Dat|Pl	25	pn	_	_
+29	durch	durch	PREP	APPR	Acc	20	pp	_	_
+30	den	die	ART	ART	Def|Masc|Acc|Sg	31	det	_	_
+31	Behandlungsrückstau	Behandlungsrückstau	N	NN	Masc|Acc|Sg	29	pn	_	_
+32	,	,	$,	$,	_	0	root	_	_
+33	der	die	PRO	PRELS	Masc|Nom|Sg	42	subj	_	_
+34	wegen	wegen	PREP	APPR	Gen	41	pp	_	_
+35	des	die	ART	ART	Def|_|Gen|Sg	36	det	_	_
+36	Lockdown	Lockdown	N	NN	_|Gen|Sg	34	pn	_	_
+37	im	in	PREP	APPRART	Dat	41	pp	_	_
+38	Ge	Ge	FM	FM	_|Dat|_	37	pn	_	_
+39	­	­	FM	FM	_|Dat|_	38	app	_	_
+40	sundheitswesen	sundheitswesen	FM	FM	_|Dat|_	39	app	_	_
+41	passiert	passieren	V	VVPP	_	42	aux	_	_
+42	ist	sein	V	VAFIN	3|Sg|Pres|Ind	31	rel	_	_
+43	;	;	$.	$.	_	0	root	_	_
+44	da	da	ADV	ADV	_	45	adv	_	_
+45	spreche	sprechen	V	VVFIN	1|Sg|Pres|_	0	root	_	_
+46	ich	ich	PRO	PPER	1|Sg|_|Nom	45	subj	_	_
+47	noch	noch	ADV	ADV	_	49	adv	_	_
+48	gar	gar	ADV	ADV	_	49	adv	_	_
+49	nicht	nicht	PTKNEG	PTKNEG	_	45	adv	_	_
+50	von	von	PREP	APPR	Dat	45	pp	_	_
+51	den	die	ART	ART	Def|_|Dat|Pl	53	det	_	_
+52	notwendigen	notwendig	ADJA	ADJA	Pos|_|Dat|Pl|_|	53	attr	_	_
+53	Inves	Inves	FM	FM	_|Dat|Pl	50	pn	_	_
+54	­	­	FM	FM	_|Dat|Pl	53	app	_	_
+55	titionsanreizen	titionsanreizen	FM	FM	_|Dat|Pl	54	app	_	_
+56	,	,	$,	$,	_	0	root	_	_
+57	damit	damit	KOUS	KOUS	_	62	konj	_	_
+58	wir	wir	PRO	PPER	1|Pl|_|Nom	62	subj	_	_
+59	unser	unsre	ART	PPOSAT	Neut|Acc|Sg	60	det	_	_
+60	Gesundheitssystem	Gesundheitssystem	N	NN	Neut|Acc|Sg	62	obja	_	_
+61	so	so	ADV	ADV	_	62	adv	_	_
+62	umformen	umformen	V	VVFIN	1|Pl|Pres|_	45	neb	_	_
+63	,	,	$,	$,	_	0	root	_	_
+64	dass	dass	KOUS	KOUS	_	71	konj	_	_
+65	die	die	ART	ART	Def|Fem|Nom|Sg	67	det	_	_
+66	nächste	nah	ADJA	ADJA	_|Fem|Nom|Sg|_|	67	attr	_	_
+67	Krise	Krise	N	NN	Fem|Nom|Sg	71	subj	_	_
+68	noch	noch	ADV	ADV	_	70	adv	_	_
+69	besser	gut	ADV	ADJD	Comp|	70	adv	_	_
+70	bestanden	bestehen	V	VVPP	_	71	aux	_	_
+71	wird	werden	V	VAFIN	3|Sg|Pres|Ind	62	neb	_	_
+72	;	;	$.	$.	_	0	root	_	_
+73	und	und	KON	KON	_	0	root	_	_
+74	da	da	ADV	ADV	_	75	adv	_	_
+75	rede	reden	V	VVFIN	1|Sg|Pres|_	73	cj	_	_
+76	ich	ich	PRO	PPER	1|Sg|_|Nom	75	subj	_	_
+77	noch	noch	ADV	ADV	_	79	adv	_	_
+78	gar	gar	ADV	ADV	_	79	adv	_	_
+79	nicht	nicht	PTKNEG	PTKNEG	_	75	adv	_	_
+80	von	von	PREP	APPR	Dat	75	pp	_	_
+81	den	die	ART	ART	Def|_|Dat|Pl	82	det	_	_
+82	Kosten	Kosten	N	NN	_|Dat|Pl	80	pn	_	_
+83	,	,	$,	$,	_	0	root	_	_
+84	die	die	PRO	PRELS	_|Nom|Pl	95	subj	_	_
+85	zur	zu	PREP	APPRART	Dat	95	pp	_	_
+86	Absicherung	Absicherung	N	NN	Fem|Dat|Sg	85	pn	_	_
+87	der	die	ART	ART	Def|Fem|Gen|Sg	88	det	_	_
+88	Arzneimittelversorgung	Arzneimittelversorgung	N	NN	Fem|Gen|Sg	86	gmod	_	_
+89	und	und	KON	KON	_	88	kon	_	_
+90	der	die	ART	ART	Def|Fem|Gen|Sg	91	det	_	_
+91	Versorgung	Versorgung	N	NN	Fem|Gen|Sg	89	cj	_	_
+92	mit	mit	PREP	APPR	Dat	91	pp	_	_
+93	Medizinprodukten	Medizinprodukt	N	NN	Neut|Dat|Pl	92	pn	_	_
+94	notwendig	notwendig	ADV	ADJD	Pos|	95	pred	_	_
+95	sind	sein	V	VAFIN	3|Pl|Pres|Ind	82	rel	_	_
+96	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 65177
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordneter Dietmar Keck (SPÖ)
+# governing = _
+# text = Der Antrag hat folgenden Gesamtwortlaut: der Abgeordneten Dietmar Keck, Kolleginnen und Kollegen betreffend höchstnotwendige Unterstützung von Gnadenhöfen und privaten Vereinen, die sich um Tiere in Not kümmern eingebracht im Zuge der Debatte zu TOP 7, Bericht des Budgetausschusses über die Regierungsvorlage : Bundesgesetz über die Bewilligung des Bundesvoran­schlages für das Jahr 2020  samt Anlagen  zur Untergliederung 24 Die Covid 19 – Krise hat durch den rigorosen Lockdown zu großer Not bei Vereinen geführt, die sich um Tiere kümmern, die sonst keine Chance mehr auf ein tierwohlge­rechtes Leben gehabt hätten.
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Antrag	Antrag	N	NN	Masc|Nom|Sg	3	subj	_	_
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	folgenden	folgend	ADJA	ADJA	Pos|Masc|Acc|Sg|_|_	5	attr	_	_
+5	Gesamtwortlaut	Gesamtwortlaut	N	NN	Masc|Acc|Sg	3	obja	_	_
+6	:	\:	$.	$.	_	0	root	_	_
+7	der	die	ART	ART	Def|_|_|_	8	det	_	_
+8	Abgeordneten	Abgeordnete	N	NN	_|_|_	0	root	_	_
+9	Dietmar	Dietmar	N	NE	Fem|_|Pl	8	app	_	_
+10	Keck	Keck	N	NE	Fem|_|Pl	9	app	_	_
+11	,	,	$,	$,	_	0	root	_	_
+12	Kolleginnen	Kollegin	N	NN	Fem|_|Pl	9	kon	_	_
+13	und	und	KON	KON	_	12	kon	_	_
+14	Kollegen	Kollege	N	NN	Masc|_|_	13	cj	_	_
+15	betreffend	betreffend	ADV	ADJD	_|_	16	adv	_	_
+16	höchstnotwendige	höchstnotwendig	ADJA	ADJA	Pos|Fem|_|Sg|_|	17	attr	_	_
+17	Unterstützung	Unterstützung	N	NN	Fem|_|Sg	14	app	_	_
+18	von	von	PREP	APPR	Dat	17	pp	_	_
+19	Gnadenhöfen	Gnadenhof	N	NN	Masc|Dat|Pl	18	pn	_	_
+20	und	und	KON	KON	_	19	kon	_	_
+21	privaten	privat	ADJA	ADJA	Pos|_|Dat|_|_|	22	attr	_	_
+22	Vereinen	Verein	N	NN	Masc|Dat|Pl	20	cj	_	_
+23	,	,	$,	$,	_	0	root	_	_
+24	die	die	PRO	PRELS	Masc|Nom|Pl	30	subj	_	_
+25	sich	sie	PRO	PRF	3|_|Acc	30	obja	_	_
+26	um	um	PREP	APPR	_	30	objp	_	_
+27	Tiere	Tier	N	NN	Neut|_|Pl	26	pn	_	_
+28	in	in	PREP	APPR	_	27	pp	_	_
+29	Not	Not	N	NN	Fem|_|Sg	28	pn	_	_
+30	kümmern	kümmern	V	VVFIN	3|Pl|Pres|_	22	rel	_	_
+31	eingebracht	eingebracht	ADV	ADJD	Pos|	30	adv	_	_
+32	im	in	PREP	APPRART	Dat	30	pp	_	_
+33	Zuge	Zug	N	NN	_|Dat|Sg	32	pn	_	_
+34	der	die	ART	ART	Def|Fem|Gen|Sg	35	det	_	_
+35	Debatte	Debatte	N	NN	Fem|Gen|Sg	33	gmod	_	_
+36	zu	zu	PREP	APPR	Dat	30	pp	_	_
+37	TOP	TOP	N	NE	Masc|Dat|Sg	36	pn	_	_
+38	7	7	CARD	CARD	_	37	app	_	_
+39	,	,	$,	$,	_	0	root	_	_
+40	Bericht	Bericht	N	NN	Masc|Dat|Sg	37	app	_	_
+41	des	die	ART	ART	Def|Masc|Gen|Sg	42	det	_	_
+42	Budgetausschusses	Budgetausschuss	N	NN	Masc|Gen|Sg	40	gmod	_	_
+43	über	über	PREP	APPR	Acc	40	pp	_	_
+44	die	die	ART	ART	Def|Fem|Acc|Sg	45	det	_	_
+45	Regierungsvorlage	Regierungsvorlage	N	NN	Fem|Acc|Sg	43	pn	_	_
+46	:	\:	$.	$.	_	0	root	_	_
+47	Bundesgesetz	Bundesgesetz	N	NN	Neut|_|Sg	0	root	_	_
+48	über	über	PREP	APPR	Acc	65	pp	_	_
+49	die	die	ART	ART	Def|Fem|Acc|Sg	50	det	_	_
+50	Bewilligung	Bewilligung	N	NN	Fem|Acc|Sg	48	pn	_	_
+51	des	die	ART	ART	Def|_|Gen|Sg	52	det	_	_
+52	Bundesvoran	Bundesvoran	FM	FM	_|Gen|Sg	50	gmod	_	_
+53	­	­	FM	FM	_|Gen|Sg	52	app	_	_
+54	schlages	schlages	FM	FM	_|Gen|Sg	53	app	_	_
+55	für	für	PREP	APPR	Acc	50	pp	_	_
+56	das	die	ART	ART	Def|Neut|Acc|Sg	57	det	_	_
+57	Jahr	Jahr	N	NN	Neut|Acc|Sg	55	pn	_	_
+58	2020	2020	CARD	CARD	_	57	app	_	_
+59	samt	samt	PREP	APPR	Dat	57	pp	_	_
+60	Anlagen	Anlage	N	NN	Fem|Dat|Pl	59	pn	_	_
+61	zur	zu	PREP	APPRART	Dat	48	kon	_	_
+62	Untergliederung	Untergliederung	N	NN	Fem|Dat|Sg	61	pn	_	_
+63	24	24	CARD	CARD	_	62	app	_	_
+64	Die	die	ART	ART	Def|_|_|_	65	det	_	_
+65	Covid	Covid	N	NN	_|_|_	0	root	_	_
+66	19	19	CARD	CARD	_	65	app	_	_
+67	–	–	$(	$(	_	0	root	_	_
+68	Krise	Krise	N	NN	Fem|Nom|Sg	69	subj	_	_
+69	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+70	durch	durch	PREP	APPR	Acc	79	objp	_	_
+71	den	die	ART	ART	Def|Masc|Acc|Sg	73	det	_	_
+72	rigorosen	rigoros	ADJA	ADJA	Pos|Masc|Acc|Sg|_|	73	attr	_	_
+73	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	70	pn	_	_
+74	zu	zu	PREP	APPR	Dat	73	pp	_	_
+75	großer	groß	ADJA	ADJA	Pos|Fem|Dat|Sg|St|	76	attr	_	_
+76	Not	Not	N	NN	Fem|Dat|Sg	74	pn	_	_
+77	bei	bei	PREP	APPR	Dat	76	pp	_	_
+78	Vereinen	Verein	N	NN	Masc|Dat|Pl	77	pn	_	_
+79	geführt	führen	V	VVPP	_	69	aux	_	_
+80	,	,	$,	$,	_	0	root	_	_
+81	die	die	PRO	PRELS	Masc|Nom|Pl	85	subj	_	_
+82	sich	sie	PRO	PRF	3|_|Acc	85	obja	_	_
+83	um	um	PREP	APPR	_	85	objp	_	_
+84	Tiere	Tier	N	NN	Neut|_|Pl	83	pn	_	_
+85	kümmern	kümmern	V	VVFIN	3|Pl|Pres|_	78	rel	_	_
+86	,	,	$,	$,	_	0	root	_	_
+87	die	die	PRO	PRELS	Neut|Nom|Pl	99	subj	_	_
+88	sonst	sonst	ADV	ADV	_	98	adv	_	_
+89	keine	keine	ART	PIAT	Fem|Acc|Sg	90	det	_	_
+90	Chance	Chance	N	NN	Fem|Acc|Sg	98	obja	_	_
+91	mehr	mehr	ADV	ADV	_	90	adv	_	_
+92	auf	auf	PREP	APPR	Acc	98	pp	_	_
+93	ein	eine	ART	ART	Indef|Neut|Acc|Sg	94	det	_	_
+94	tierwohlge	tierwohlge	FM	FM	Neut|Acc|Sg	92	pn	_	_
+95	­	­	FM	FM	Neut|Acc|Sg	94	app	_	_
+96	rechtes	recht	ADJA	ADJA	Pos|Neut|Acc|Sg|St|	97	attr	_	_
+97	Leben	Leben	N	NN	Neut|Acc|Sg	95	app	_	_
+98	gehabt	haben	V	VAPP	_	99	aux	_	_
+99	hätten	haben	V	VAFIN	3|Pl|Past|Subj	84	rel	_	_
+100	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 65245
+# date = 2020_05_26
+# protocol_id = 32
+# party = _
+# speaker = Abgeordnete Rosa Ecker, MBA (FPÖ)
+# governing = _
+# text = Durch den Lockdown wird es einen großen Kollateralschaden geben, finanziell und gesundheitlich.
+1	Durch	durch	PREP	APPR	Acc	4	pp	_	_
+2	den	die	ART	ART	Def|Masc|Acc|Sg	3	det	_	_
+3	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	1	pn	_	_
+4	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	es	es	PRO	PPER	3|Sg|Neut|Nom	4	subj	_	_
+6	einen	eine	ART	ART	Indef|Masc|Acc|Sg	8	det	_	_
+7	großen	groß	ADJA	ADJA	Pos|Masc|Acc|Sg|_|	8	attr	_	_
+8	Kollateralschaden	Kollateralschaden	N	NN	Masc|Acc|Sg	9	obja	_	_
+9	geben	geben	V	VVINF	_	4	aux	_	_
+10	,	,	$,	$,	_	0	root	_	_
+11	finanziell	finanziell	ADV	ADJD	Pos|	0	root	_	_
+12	und	und	KON	KON	_	11	kon	_	_
+13	gesundheitlich	gesundheitlich	ADV	ADJD	Pos|	12	cj	_	_
+14	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 67022
+# date = 2020_05_29
+# protocol_id = 33
+# party = _
+# speaker = Abgeordneter Andreas Ottenschläger (ÖVP)
+# governing = _
+# text = Der Antragsteller, Herr Kollege Kickl, hat ja bekanntlich – man muss es an dieser Stelle wiederholen – Mitte März selber harte Maßnahmen und einen Lockdown gefordert , und jetzt hinterfragt er das.
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Antragsteller	Antragsteller	N	NN	Masc|Nom|Sg	8	subj	_	_
+3	,	,	$,	$,	_	0	root	_	_
+4	Herr	Herr	N	NN	Masc|Nom|Sg	2	app	_	_
+5	Kollege	Kollege	N	NN	Masc|Nom|Sg	4	app	_	_
+6	Kickl	Kickl	N	NE	Masc|Nom|Sg	5	app	_	_
+7	,	,	$,	$,	_	0	root	_	_
+8	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+9	ja	ja	ADV	ADV	_	8	adv	_	_
+10	bekanntlich	bekanntlich	ADV	ADV	_	8	adv	_	_
+11	–	–	$(	$(	_	0	root	_	_
+12	man	man	PRO	PIS	_|Nom|Sg	13	subj	_	_
+13	muss	müssen	V	VMFIN	3|Sg|Pres|Ind	10	par	_	_
+14	es	es	PRO	PPER	3|Sg|Neut|Acc	18	obja	_	_
+15	an	an	PREP	APPR	Dat	18	pp	_	_
+16	dieser	diese	ART	PDAT	Fem|Dat|Sg	17	det	_	_
+17	Stelle	Stelle	N	NN	Fem|Dat|Sg	15	pn	_	_
+18	wiederholen	wiederholen	V	VVINF	_	13	aux	_	_
+19	–	–	$(	$(	_	0	root	_	_
+20	Mitte	Mitte	N	NN	Masc|Acc|Sg	28	zeit	_	_
+21	März	März	N	NN	Masc|Acc|Sg	20	app	_	_
+22	selber	selber	ADV	ADV	_	28	adv	_	_
+23	harte	hart	ADJA	ADJA	Pos|Fem|Acc|Pl|St|	24	attr	_	_
+24	Maßnahmen	Maßnahme	N	NN	Fem|Acc|Pl	28	obja	_	_
+25	und	und	KON	KON	_	24	kon	_	_
+26	einen	eine	ART	ART	Indef|Masc|Acc|Sg	27	det	_	_
+27	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	25	cj	_	_
+28	gefordert	fordern	V	VVPP	_	8	neb	_	_
+29	,	,	$,	$,	_	0	root	_	_
+30	und	und	KON	KON	_	0	root	_	_
+31	jetzt	jetzt	ADV	ADV	_	32	adv	_	_
+32	hinterfragt	hinterfragen	V	VVFIN	3|Sg|Pres|Ind	30	cj	_	_
+33	er	er	PRO	PPER	3|Sg|Masc|Nom	32	subj	_	_
+34	das	die	PRO	PDS	Neut|Acc|Sg	32	obja	_	_
+35	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 67024
+# date = 2020_05_29
+# protocol_id = 33
+# party = _
+# speaker = Abgeordneter Andreas Ottenschläger (ÖVP)
+# governing = _
+# text = Gestern hat ein Simulationsexperte der TU Wien ganz eindeutig dargestellt, dass sich die Zahl der Infizierten vervierfacht hätte, wenn der Lockdown eine Woche später statt­gefunden hätte.
+1	Gestern	gestern	ADV	ADV	_	2	adv	_	_
+2	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	ein	eine	ART	ART	Indef|Neut|Acc|Sg	4	det	_	_
+4	Simulationsexperte	Simulationsexperte	N	NN	Neut|Acc|Sg	10	obja	_	_
+5	der	die	ART	ART	Def|Fem|Gen|Sg	6	det	_	_
+6	TU	TU	N	NE	Fem|Gen|Sg	4	gmod	_	_
+7	Wien	Wien	N	NE	Fem|Gen|Sg	6	app	_	_
+8	ganz	ganz	ADV	ADV	_	9	adv	_	_
+9	eindeutig	eindeutig	ADV	ADJD	Pos|	10	adv	_	_
+10	dargestellt	darstellen	V	VVPP	_	2	aux	_	_
+11	,	,	$,	$,	_	0	root	_	_
+12	dass	dass	KOUS	KOUS	_	19	konj	_	_
+13	sich	sie	PRO	PRF	3|_|Acc	18	obja	_	_
+14	die	die	ART	ART	Def|Fem|Nom|Sg	15	det	_	_
+15	Zahl	Zahl	N	NN	Fem|Nom|Sg	19	subj	_	_
+16	der	die	ART	ART	Def|_|Gen|_	17	det	_	_
+17	Infizierten	Infizierte	N	NN	_|Gen|_	15	gmod	_	_
+18	vervierfacht	vervierfachen	V	VVPP	_	19	aux	_	_
+19	hätte	haben	V	VAFIN	3|Sg|Past|Subj	2	subjc	_	_
+20	,	,	$,	$,	_	0	root	_	_
+21	wenn	wenn	KOUS	KOUS	_	30	konj	_	_
+22	der	die	ART	ART	Def|Masc|Nom|Sg	23	det	_	_
+23	Lockdown	Lockdown	N	NN	Masc|Nom|Sg	30	subj	_	_
+24	eine	eine	ART	ART	Indef|Fem|Acc|Sg	25	det	_	_
+25	Woche	Woche	N	NN	Fem|Acc|Sg	29	obja	_	_
+26	später	spät	ADV	ADJD	_|	29	adv	_	_
+27	statt	statt	PREP	APPR	_	29	pp	_	_
+28	­	­	FM	FM	_|_|_	27	pn	_	_
+29	gefunden	finden	V	VVPP	_	30	aux	_	_
+30	hätte	haben	V	VAFIN	3|Sg|Past|Subj	19	neb	_	_
+31	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 67025
+# date = 2020_05_29
+# protocol_id = 33
+# party = _
+# speaker = Abgeordneter Andreas Ottenschläger (ÖVP)
+# governing = _
+# text = Am 16. März hat in Österreich der Lockdown zur Eindämmung der Coronaviruspandemie begonnen.
+1	Am	an	PREP	APPRART	Dat	4	pp	_	_
+2	16.	16.	ADJA	ADJA	_|Masc|Dat|Sg|_|	3	attr	_	_
+3	März	März	N	NN	Masc|Dat|Sg	1	pn	_	_
+4	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+5	in	in	PREP	APPR	_	13	pp	_	_
+6	Österreich	Österreich	N	NE	Neut|_|Sg	5	pn	_	_
+7	der	die	ART	ART	Def|Masc|Nom|Sg	8	det	_	_
+8	Lockdown	Lockdown	N	NN	Masc|Nom|Sg	4	subj	_	_
+9	zur	zu	PREP	APPRART	Dat	13	pp	_	_
+10	Eindämmung	Eindämmung	N	NN	Fem|Dat|Sg	9	pn	_	_
+11	der	die	ART	ART	Def|Fem|Gen|Sg	12	det	_	_
+12	Coronaviruspandemie	Coronaviruspandemie	N	NN	Fem|Gen|Sg	10	gmod	_	_
+13	begonnen	beginnen	V	VVPP	_	4	aux	_	_
+14	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 67074
+# date = 2020_05_29
+# protocol_id = 33
+# party = _
+# speaker = Abgeordnete Dr. Susanne Fürst (FPÖ)
+# governing = _
+# text = Ich darf Ihnen nur mitteilen, dass es auch in Ihrem Vorbildland Italien schon intensive Diskussionen gibt, wie es dort zu dem Lockdown kam.
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	_
+2	darf	dürfen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+3	Ihnen	sie	PRO	PPER	3|Pl|_|Dat	5	objd	_	_
+4	nur	nur	ADV	ADV	_	5	adv	_	_
+5	mitteilen	mitteilen	V	VVINF	_	2	aux	_	_
+6	,	,	$,	$,	_	0	root	_	_
+7	dass	dass	KOUS	KOUS	_	17	konj	_	_
+8	es	es	PRO	PPER	3|Sg|Neut|_	25	expl	_	_
+9	auch	auch	ADV	ADV	_	17	adv	_	_
+10	in	in	PREP	APPR	Dat	17	pp	_	_
+11	Ihrem	ihre	ART	PPOSAT	Neut|Dat|Sg	12	det	_	_
+12	Vorbildland	Vorbildland	N	NN	Neut|Dat|Sg	10	pn	_	_
+13	Italien	Italien	N	NE	Neut|Dat|Sg	12	app	_	_
+14	schon	schon	ADV	ADV	_	15	adv	_	_
+15	intensive	intensiv	ADJA	ADJA	Pos|_|Acc|Pl|St|	16	attr	_	_
+16	Diskussionen	Diskussion	N	NN	_|Acc|Pl	17	obja	_	_
+17	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	5	objc	_	_
+18	,	,	$,	$,	_	0	root	_	_
+19	wie	wie	PWAV	PWAV	_	25	adv	_	_
+20	es	es	PRO	PPER	3|Sg|Neut|Nom	25	subj	_	_
+21	dort	dort	ADV	ADV	_	25	adv	_	_
+22	zu	zu	PREP	APPR	Dat	25	objp	_	_
+23	dem	die	ART	ART	Def|Masc|Dat|Sg	24	det	_	_
+24	Lockdown	Lockdown	N	NN	Masc|Dat|Sg	22	pn	_	_
+25	kam	kommen	V	VVFIN	3|Sg|Past|Ind	17	subjc	_	_
+26	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 67588
+# date = 2020_05_29
+# protocol_id = 34
+# party = _
+# speaker = Abgeordneter August Wöginger (ÖVP)
+# governing = _
+# text = – Na ja, man muss schon eines sagen: Das ist ja gar nicht so lustig und geht wieder dorthin; Kickl, ihr habt ja - -  – Ihr habt ja alle, auch Kickl, am 13. März den Lockdown gefordert.
+1	–	–	$(	$(	_	0	root	_	_
+2	Na	Na	ITJ	ITJ	_	0	root	_	_
+3	ja	ja	ADV	ADV	_	0	root	_	_
+4	,	,	$,	$,	_	0	root	_	_
+5	man	man	PRO	PIS	_|Nom|Sg	6	subj	_	_
+6	muss	müssen	V	VMFIN	3|Sg|Pres|Ind	0	root	_	_
+7	schon	schon	ADV	ADV	_	9	adv	_	_
+8	eines	eine	PRO	PIS	Neut|Acc|Sg	9	obja	_	_
+9	sagen	sagen	V	VVINF	_	6	aux	_	_
+10	:	\:	$.	$.	_	0	root	_	_
+11	Das	die	PRO	PDS	Neut|Nom|Sg	12	subj	_	_
+12	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+13	ja	ja	ADV	ADV	_	12	adv	_	_
+14	gar	gar	ADV	ADV	_	15	adv	_	_
+15	nicht	nicht	PTKNEG	PTKNEG	_	12	adv	_	_
+16	so	so	ADV	ADV	_	17	adv	_	_
+17	lustig	lustig	ADV	ADJD	Pos|	12	pred	_	_
+18	und	und	KON	KON	_	12	kon	_	_
+19	geht	gehen	V	VVFIN	_|_|Pres|Ind	18	cj	_	_
+20	wieder	wieder	ADV	ADV	_	19	adv	_	_
+21	dorthin	dorthin	ADV	ADV	_	19	adv	_	_
+22	;	;	$.	$.	_	0	root	_	_
+23	Kickl	Kickl	N	NE	_	26	vok	_	_
+24	,	,	$,	$,	_	0	root	_	_
+25	ihr	ihr	PRO	PPER	2|Pl|_|Nom	26	subj	_	_
+26	habt	haben	V	VAFIN	2|Pl|Pres|Ind	0	root	_	_
+27	ja	ja	ADV	ADV	_	26	adv	_	_
+28	-	-	$(	$(	_	0	root	_	_
+29	-	-	$(	$(	_	0	root	_	_
+30	–	–	$(	$(	_	0	root	_	_
+31	Ihr	ihr	PRO	PPER	2|Pl|_|Nom	32	subj	_	_
+32	habt	haben	V	VAFIN	2|Pl|Pres|Ind	26	kon	_	_
+33	ja	ja	ADV	ADV	_	32	adv	_	_
+34	alle	alle	PRO	PIS	_|Acc|_	32	obja	_	_
+35	,	,	$,	$,	_	0	root	_	_
+36	auch	auch	ADV	ADV	_	37	adv	_	_
+37	Kickl	Kickl	N	NE	_|Acc|_	34	app	_	_
+38	,	,	$,	$,	_	0	root	_	_
+39	am	an	PREP	APPRART	Dat	32	pp	_	_
+40	13.	13.	ADJA	ADJA	_|Masc|Dat|Sg|_|	41	attr	_	_
+41	März	März	N	NN	Masc|Dat|Sg	39	pn	_	_
+42	den	die	ART	ART	Def|Masc|Acc|Sg	43	det	_	_
+43	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	0	root	_	_
+44	gefordert	fordern	V	VVPP	_	0	root	_	_
+45	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 68403
+# date = 2020_05_29
+# protocol_id = 34
+# party = _
+# speaker = Abgeordneter Hermann Weratschnig, MBA MSc (Grüne)
+# governing = _
+# text = Der Lockdown hat uns genau gezeigt, was es in den Ortschaften in Österreich braucht: Es braucht ein gutes Zusammenspiel, damit wir Frequenz haben, zwischen Vereinen, Gastronomiebetrieben und Institutionen.
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Lockdown	Lockdown	N	NE	Masc|Nom|Sg	3	subj	_	_
+3	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	uns	wir	PRO	PPER	1|Pl|_|Acc	6	obja	_	_
+5	genau	genau	ADV	ADJD	Pos|	6	adv	_	_
+6	gezeigt	zeigen	V	VVPP	_	3	aux	_	_
+7	,	,	$,	$,	_	0	root	_	_
+8	was	was	PRO	PRELS	Neut|Nom|Sg	15	subj	_	_
+9	es	es	PRO	PPER	3|Sg|Neut|Acc	15	obja	_	_
+10	in	in	PREP	APPR	Dat	15	pp	_	_
+11	den	die	ART	ART	Def|Fem|Dat|Pl	12	det	_	_
+12	Ortschaften	Ortschaft	N	NN	Fem|Dat|Pl	10	pn	_	_
+13	in	in	PREP	APPR	_	15	pp	_	_
+14	Österreich	Österreich	N	NE	Neut|_|Sg	13	pn	_	_
+15	braucht	brauchen	V	VVFIN	3|Sg|Pres|Ind	6	rel	_	_
+16	:	\:	$.	$.	_	0	root	_	_
+17	Es	es	PRO	PPER	3|Sg|Neut|Nom	18	subj	_	_
+18	braucht	brauchen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+19	ein	eine	ART	ART	Indef|Neut|Acc|Sg	21	det	_	_
+20	gutes	gut	ADJA	ADJA	Pos|Neut|Acc|Sg|St|	21	attr	_	_
+21	Zusammenspiel	Zusammenspiel	N	NN	Neut|Acc|Sg	18	obja	_	_
+22	,	,	$,	$,	_	0	root	_	_
+23	damit	damit	KOUS	KOUS	_	26	konj	_	_
+24	wir	wir	PRO	PPER	1|Pl|_|Nom	26	subj	_	_
+25	Frequenz	Frequenz	N	NN	Fem|Acc|Sg	26	obja	_	_
+26	haben	haben	V	VAFIN	1|Pl|Pres|_	18	neb	_	_
+27	,	,	$,	$,	_	0	root	_	_
+28	zwischen	zwischen	PREP	APPR	Dat	26	pp	_	_
+29	Vereinen	Verein	N	NN	_|Dat|_	28	pn	_	_
+30	,	,	$,	$,	_	0	root	_	_
+31	Gastronomiebetrieben	Gastronomiebetrieb	N	NN	Masc|Dat|Pl	29	kon	_	_
+32	und	und	KON	KON	_	31	kon	_	_
+33	Institutionen	Institution	N	NN	_|Dat|Pl	32	cj	_	_
+34	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 68429
+# date = 2020_05_29
+# protocol_id = 34
+# party = _
+# speaker = Abgeordneter Maximilian Köllner, MA (SPÖ)
+# governing = _
+# text = Die Rechnungen für Materialkosten und externe Arbeiten sind fast zeitgleich mit dem Coronalockdown eingetroffen.
+1	Die	die	ART	ART	Def|Fem|Nom|Pl	2	det	_	_
+2	Rechnungen	Rechnung	N	NN	Fem|Nom|Pl	8	subj	_	_
+3	für	für	PREP	APPR	Acc	2	pp	_	_
+4	Materialkosten	Materialkosten	N	NN	_|Acc|_	3	pn	_	_
+5	und	und	KON	KON	_	4	kon	_	_
+6	externe	extern	ADJA	ADJA	Pos|_|Acc|_|_|	7	attr	_	_
+7	Arbeiten	Arbeit	N	NN	_|Acc|_	5	cj	_	_
+8	sind	sein	V	VAFIN	3|Pl|Pres|Ind	0	root	_	_
+9	fast	fast	ADV	ADV	_	10	adv	_	_
+10	zeitgleich	zeitgleich	ADV	ADJD	Pos|	14	adv	_	_
+11	mit	mit	PREP	APPR	Dat	14	pp	_	_
+12	dem	die	ART	ART	Def|Masc|Dat|Sg	13	det	_	_
+13	Coronalockdown	Coronalockdown	N	NN	Masc|Dat|Sg	11	pn	_	_
+14	eingetroffen	eintreffen	V	VVPP	_	8	aux	_	_
+15	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 68438
+# date = 2020_05_29
+# protocol_id = 34
+# party = _
+# speaker = Abgeordneter Maximilian Köllner, MA (SPÖ)
+# governing = _
+# text = Erlauben Sie mir eine kurze Chronologie: Schon vor dem Lockdown hat es erste Stimmen gegeben, dass der Sport eine Entschädigung braucht.
+1	Erlauben	erlauben	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+2	Sie	sie	PRO	PPER	3|Pl|_|Nom	1	subj	_	_
+3	mir	ich	PRO	PPER	1|Sg|_|Dat	1	objd	_	_
+4	eine	eine	ART	ART	Indef|Fem|Acc|Sg	6	det	_	_
+5	kurze	kurz	ADJA	ADJA	Pos|Fem|Acc|Sg|_|	6	attr	_	_
+6	Chronologie	Chronologie	N	NN	Fem|Acc|Sg	1	obja	_	_
+7	:	\:	$.	$.	_	0	root	_	_
+8	Schon	schon	ADV	ADV	_	9	adv	_	_
+9	vor	vor	PREP	APPR	Dat	12	pp	_	_
+10	dem	die	ART	ART	Def|Masc|Dat|Sg	11	det	_	_
+11	Lockdown	Lockdown	N	NN	Masc|Dat|Sg	9	pn	_	_
+12	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+13	es	es	PRO	PPER	3|Sg|Neut|_	23	expl	_	_
+14	erste	erst	ADJA	ADJA	_|_|Acc|_|_|	15	attr	_	_
+15	Stimmen	Stimme	N	NN	_|Acc|_	16	obja	_	_
+16	gegeben	geben	V	VVPP	_	12	aux	_	_
+17	,	,	$,	$,	_	0	root	_	_
+18	dass	dass	KOUS	KOUS	_	23	konj	_	_
+19	der	die	ART	ART	Def|Masc|Nom|Sg	20	det	_	_
+20	Sport	Sport	N	NN	Masc|Nom|Sg	23	subj	_	_
+21	eine	eine	ART	ART	Indef|Fem|Acc|Sg	22	det	_	_
+22	Entschädigung	Entschädigung	N	NN	Fem|Acc|Sg	23	obja	_	_
+23	braucht	brauchen	V	VVFIN	3|Sg|Pres|Ind	12	subjc	_	_
+24	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 70827
+# date = 2020_05_29
+# protocol_id = 34
+# party = _
+# speaker = Abgeordnete Petra Wimmer (SPÖ)
+# governing = _
+# text = Kinder haben Rechte, diese sind in den letzten Wochen des Lockdowns kaum zur Sprache gekommen.
+1	Kinder	Kind	N	NN	Neut|Nom|Pl	2	subj	_	_
+2	haben	haben	V	VAFIN	3|Pl|Pres|_	0	root	_	_
+3	Rechte	Recht	N	NN	_|Acc|_	2	obja	_	_
+4	,	,	$,	$,	_	0	root	_	_
+5	diese	diese	PRO	PDS	_|Nom|Pl	6	subj	_	_
+6	sind	sein	V	VAFIN	3|Pl|Pres|Ind	2	kon	_	_
+7	in	in	PREP	APPR	Dat	16	pp	_	_
+8	den	die	ART	ART	Def|Fem|Dat|Pl	10	det	_	_
+9	letzten	letzte	ADJA	ADJA	Pos|Fem|Dat|Pl|_|	10	attr	_	_
+10	Wochen	Woche	N	NN	Fem|Dat|Pl	7	pn	_	_
+11	des	die	ART	ART	Def|Masc|Gen|Sg	12	det	_	_
+12	Lockdowns	Lockdown	N	NN	Masc|Gen|Sg	10	gmod	_	_
+13	kaum	kaum	ADV	ADV	_	16	adv	_	_
+14	zur	zu	PREP	APPRART	Dat	16	objp	_	_
+15	Sprache	Sprache	N	NN	Fem|Dat|Sg	14	pn	_	_
+16	gekommen	kommen	V	VVPP	_	6	aux	_	_
+17	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 71670
+# date = 2020_05_29
+# protocol_id = 34
+# party = _
+# speaker = Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz Rudolf Anschober
+# governing = _
+# text = Weil von einigen, wie etwa von Kollegen Wurm – jetzt habe ich quasi meinen Sparring­partner in der Diskussion gefunden; ich muss nur ein bisschen an die anderen denken, das ist, glaube ich, besser –, immer wieder darüber diskutiert wurde, ob es notwendig gewesen ist, diesen Lockdown zu machen – abgesehen davon, dass die Freiheitliche Partei da am Beginn etwas Richtiges gefordert hat, nämlich ebendiesen Lockdown –: Der war richtig, der war notwendig.
+1	Weil	weil	KOUS	KOUS	_	0	root	_	_
+2	von	von	PREP	APPR	Dat	0	root	_	_
+3	einigen	einige	PRO	PIS	_|Dat|_	2	pn	_	_
+4	,	,	$,	$,	_	0	root	_	_
+5	wie	wie	KOKOM	KOKOM	_	9	kom	_	_
+6	etwa	etwa	ADV	ADV	_	7	adv	_	_
+7	von	von	PREP	APPR	_	5	cj	_	_
+8	Kollegen	Kollege	N	NN	Masc|Dat|_	7	pn	_	_
+9	Wurm	Wurm	N	NN	Masc|Dat|Sg	3	app	_	_
+10	–	–	$(	$(	_	0	root	_	_
+11	jetzt	jetzt	ADV	ADV	_	12	adv	_	_
+12	habe	haben	V	VAFIN	1|Sg|Pres|_	0	root	_	_
+13	ich	ich	PRO	PPER	1|Sg|_|Nom	12	subj	_	_
+14	quasi	quasi	ADV	ADV	_	12	adv	_	_
+15	meinen	meine	ART	PPOSAT	Masc|Acc|Sg	16	det	_	_
+16	Sparring	Sparring	N	NN	Masc|Acc|Sg	22	obja	_	_
+17	­	­	FM	FM	Masc|Acc|Sg	16	app	_	_
+18	partner	partner	FM	FM	Masc|Acc|Sg	17	app	_	_
+19	in	in	PREP	APPR	Dat	22	pp	_	_
+20	der	die	ART	ART	Def|Fem|Dat|Sg	21	det	_	_
+21	Diskussion	Diskussion	N	NN	Fem|Dat|Sg	19	pn	_	_
+22	gefunden	finden	V	VVPP	_	12	neb	_	_
+23	;	;	$.	$.	_	0	root	_	_
+24	ich	ich	PRO	PPER	1|Sg|_|Nom	25	subj	_	_
+25	muss	müssen	V	VMFIN	1|Sg|Pres|Ind	0	root	_	_
+26	nur	nur	ADV	ADV	_	25	adv	_	_
+27	ein	eine	ART	ART	Indef|_|_|Sg	0	root	_	_
+28	bisschen	bisschen	ADV	ADV	_	29	adv	_	_
+29	an	an	PREP	APPR	Acc	0	root	_	_
+30	die	die	ART	ART	Def|_|_|_	31	det	_	_
+31	anderen	anderen	ADJA	ADJA	_|_|_	29	pn	_	_
+32	denken	denken	V	VVINF	_	0	root	_	_
+33	,	,	$,	$,	_	0	root	_	_
+34	das	die	PRO	PDS	Neut|Nom|Sg	35	subj	_	_
+35	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+36	,	,	$,	$,	_	0	root	_	_
+37	glaube	glauben	V	VVFIN	1|Sg|Pres|_	35	par	_	_
+38	ich	ich	PRO	PPER	1|Sg|_|Nom	37	subj	_	_
+39	,	,	$,	$,	_	0	root	_	_
+40	besser	gut	ADV	ADJD	Comp|	35	pred	_	_
+41	–	–	$(	$(	_	0	root	_	_
+42	,	,	$,	$,	_	0	root	_	_
+43	immer	immer	ADV	ADV	_	44	adv	_	_
+44	wieder	wieder	ADV	ADV	_	45	adv	_	_
+45	darüber	darüber	PROAV	PROAV	_	46	pp	_	_
+46	diskutiert	diskutieren	V	VVPP	_	47	aux	_	_
+47	wurde	werden	V	VAFIN	_|Sg|Past|Ind	40	par	_	_
+48	,	,	$,	$,	_	0	root	_	_
+49	ob	ob	KOUS	KOUS	_	53	konj	_	_
+50	es	es	PRO	PPER	3|Sg|Neut|Nom	53	subj	_	_
+51	notwendig	notwendig	ADV	ADJD	Pos|	52	pred	_	_
+52	gewesen	sein	V	VAPP	_	53	aux	_	_
+53	ist	sein	V	VAFIN	3|Sg|Pres|Ind	47	subjc	_	_
+54	,	,	$,	$,	_	0	root	_	_
+55	diesen	diese	ART	PDAT	Masc|Acc|Sg	56	det	_	_
+56	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	58	obja	_	_
+57	zu	zu	PTKZU	PTKZU	_	58	part	_	_
+58	machen	machen	V	VVINF	_	52	obji	_	_
+59	–	–	$(	$(	_	0	root	_	_
+60	abgesehen	abgesehen	ADV	ADJD	Pos|	77	adv	_	_
+61	davon	davon	PROAV	PROAV	_	60	pp	_	_
+62	,	,	$,	$,	_	0	root	_	_
+63	dass	dass	KOUS	KOUS	_	73	konj	_	_
+64	die	die	ART	ART	Def|Fem|Nom|Sg	66	det	_	_
+65	Freiheitliche	freiheitlich	ADJA	ADJA	Pos|Fem|Nom|Sg|_|	66	attr	_	_
+66	Partei	Partei	N	NN	Fem|Nom|Sg	73	subj	_	_
+67	da	da	ADV	ADV	_	66	adv	_	_
+68	am	an	PREP	APPRART	Dat	72	pp	_	_
+69	Beginn	Beginn	N	NN	Masc|Dat|Sg	68	pn	_	_
+70	etwas	etwas	ART	PIAT	Neut|Acc|Sg	71	det	_	_
+71	Richtiges	Richtiges	N	NN	Neut|Acc|Sg	72	obja	_	_
+72	gefordert	fordern	V	VVPP	_	73	aux	_	_
+73	hat	haben	V	VAFIN	3|Sg|Pres|Ind	61	objc	_	_
+74	,	,	$,	$,	_	0	root	_	_
+75	nämlich	nämlich	ADV	ADV	_	60	adv	_	_
+76	ebendiesen	ebendiese	ART	PDAT	Masc|Acc|Sg	77	det	_	_
+77	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	35	obja	_	_
+78	–	–	$(	$(	_	0	root	_	_
+79	:	\:	$.	$.	_	0	root	_	_
+80	Der	die	PRO	PDS	Masc|Nom|Sg	81	subj	_	_
+81	war	sein	V	VAFIN	3|Sg|Past|Ind	0	root	_	_
+82	richtig	richtig	ADV	ADJD	Pos|	81	pred	_	_
+83	,	,	$,	$,	_	0	root	_	_
+84	der	die	PRO	PDS	Masc|Nom|Sg	85	subj	_	_
+85	war	sein	V	VAFIN	3|Sg|Past|Ind	81	kon	_	_
+86	notwendig	notwendig	ADV	ADJD	Pos|	85	pred	_	_
+87	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 71676
+# date = 2020_05_29
+# protocol_id = 34
+# party = _
+# speaker = Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz Rudolf Anschober
+# governing = _
+# text = Das macht er ganz ausgezeichnet, er hat de facto die Entwick­lungen immer getroffen, sagt uns zehn Tage im Vorhinein, wie die Auslastungszahlen in Österreich sein werden – das ist ganz wichtig, damit die Spitäler planen können –, und jetzt hat er dahin gehend eine Modellierung durchgeführt , ob es der richtige Zeitpunkt war, an dem wir diesen Lockdown realisiert haben.
+1	Das	die	PRO	PDS	Neut|Nom|Sg	2	subj	_	_
+2	macht	machen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	er	er	PRO	PPER	3|Sg|Masc|Nom	5	subj	_	_
+4	ganz	ganz	ADV	ADV	_	5	adv	_	_
+5	ausgezeichnet	auszeichnen	V	VVPP	_	2	neb	_	_
+6	,	,	$,	$,	_	0	root	_	_
+7	er	er	PRO	PPER	3|Sg|Masc|Nom	8	subj	_	_
+8	hat	haben	V	VAFIN	3|Sg|Pres|Ind	18	s	_	_
+9	de	de	FM	FM	_|_|_	16	obja	_	_
+10	facto	facto	FM	FM	_|_|_	9	app	_	_
+11	die	die	FM	FM	_|_|_	10	app	_	_
+12	Entwick	Entwick	FM	FM	_|_|_	11	app	_	_
+13	­	­	FM	FM	_|_|_	12	app	_	_
+14	lungen	lungen	FM	FM	_|_|_	13	app	_	_
+15	immer	immer	ADV	ADV	_	16	adv	_	_
+16	getroffen	treffen	V	VVPP	_	8	aux	_	_
+17	,	,	$,	$,	_	0	root	_	_
+18	sagt	sagen	V	VVFIN	_|_|Pres|Ind	2	kon	_	_
+19	uns	wir	PRO	PPER	1|Pl|_|Dat	18	objd	_	_
+20	zehn	zehn	CARD	CARD	_	21	attr	_	_
+21	Tage	Tag	N	NN	Masc|Nom|Pl	18	subj	_	_
+22	im	in	PREP	APPRART	Dat	21	pp	_	_
+23	Vorhinein	Vorhinein	N	NN	_|Dat|_	22	pn	_	_
+24	,	,	$,	$,	_	0	root	_	_
+25	wie	wie	PWAV	PWAV	_	30	adv	_	_
+26	die	die	ART	ART	Def|Fem|Nom|Pl	27	det	_	_
+27	Auslastungszahlen	Auslastungszahl	N	NN	Fem|Nom|Pl	31	subj	_	_
+28	in	in	PREP	APPR	_	30	pp	_	_
+29	Österreich	Österreich	N	NE	Neut|_|Sg	28	pn	_	_
+30	sein	sein	V	VAINF	_	31	aux	_	_
+31	werden	werden	V	VAFIN	3|Pl|Pres|_	23	objc	_	_
+32	–	–	$(	$(	_	0	root	_	_
+33	das	die	PRO	PDS	Neut|Nom|Sg	34	subj	_	_
+34	ist	sein	V	VAFIN	3|Sg|Pres|Ind	31	par	_	_
+35	ganz	ganz	ADV	ADV	_	36	adv	_	_
+36	wichtig	wichtig	ADV	ADJD	Pos|	34	pred	_	_
+37	,	,	$,	$,	_	0	root	_	_
+38	damit	damit	KOUS	KOUS	_	42	konj	_	_
+39	die	die	ART	ART	Def|Neut|Nom|Pl	40	det	_	_
+40	Spitäler	Spital	N	NN	Neut|Nom|Pl	42	subj	_	_
+41	planen	planen	V	VVINF	_	42	aux	_	_
+42	können	können	V	VMFIN	3|Pl|Pres|_	34	neb	_	_
+43	–	–	$(	$(	_	0	root	_	_
+44	,	,	$,	$,	_	0	root	_	_
+45	und	und	KON	KON	_	31	kon	_	_
+46	jetzt	jetzt	ADV	ADV	_	47	adv	_	_
+47	hat	haben	V	VAFIN	3|Sg|Pres|Ind	45	cj	_	_
+48	er	er	PRO	PPER	3|Sg|Masc|Nom	47	subj	_	_
+49	dahin	dahin	ADV	ADV	_	53	adv	_	_
+50	gehend	gehen	ADV	ADJD	_|<PPRES	53	adv	_	_
+51	eine	eine	ART	ART	Indef|Fem|Acc|Sg	52	det	_	_
+52	Modellierung	Modellierung	N	NN	Fem|Acc|Sg	53	obja	_	_
+53	durchgeführt	durchführen	V	VVPP	_	47	aux	_	_
+54	,	,	$,	$,	_	0	root	_	_
+55	ob	ob	KOUS	KOUS	_	60	konj	_	_
+56	es	es	PRO	PPER	3|Sg|Neut|Nom	60	subj	_	_
+57	der	die	ART	ART	Def|Masc|Nom|Sg	59	det	_	_
+58	richtige	richtig	ADJA	ADJA	Pos|Masc|Nom|Sg|Wk|	59	attr	_	_
+59	Zeitpunkt	Zeitpunkt	N	NN	Masc|Nom|Sg	60	pred	_	_
+60	war	sein	V	VAFIN	_|Sg|Past|Ind	21	objc	_	_
+61	,	,	$,	$,	_	0	root	_	_
+62	an	an	PREP	APPR	Dat	67	pp	_	_
+63	dem	die	PRO	PRELS	Masc|Dat|Sg	62	pn	_	_
+64	wir	wir	PRO	PPER	1|Pl|_|Nom	68	subj	_	_
+65	diesen	diese	ART	PDAT	Masc|Acc|Sg	66	det	_	_
+66	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	67	obja	_	_
+67	realisiert	realisieren	V	VVPP	_	68	aux	_	_
+68	haben	haben	V	VAFIN	1|Pl|Pres|_	59	rel	_	_
+69	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 73149
+# date = 2020_06_17
+# protocol_id = 36
+# party = _
+# speaker = Abgeordneter Rudolf Silvan (SPÖ)
+# governing = _
+# text = Auch viele Polizistinnen und Polizisten waren aufgrund der unklaren Kommunikation und der unklaren Verordnungen der Meinung, dass private Besuche während des Lock­downs verboten waren.
+1	Auch	auch	ADV	ADV	_	3	adv	_	_
+2	viele	viele	ART	PIDAT	Fem|Nom|Pl	3	det	_	_
+3	Polizistinnen	Polizistin	N	NN	Fem|Nom|Pl	6	subj	_	_
+4	und	und	KON	KON	_	3	kon	_	_
+5	Polizisten	Polizist	N	NN	Masc|Nom|Pl	4	cj	_	_
+6	waren	sein	V	VAFIN	3|Pl|Past|Ind	0	root	_	_
+7	aufgrund	aufgrund	PREP	APPR	Gen	6	pp	_	_
+8	der	die	ART	ART	Def|Fem|Gen|Sg	10	det	_	_
+9	unklaren	unklar	ADJA	ADJA	Pos|Fem|Gen|Sg|Wk|	10	attr	_	_
+10	Kommunikation	Kommunikation	N	NN	Fem|Gen|Sg	7	pn	_	_
+11	und	und	KON	KON	_	10	kon	_	_
+12	der	die	ART	ART	Def|Fem|Gen|Pl	14	det	_	_
+13	unklaren	unklar	ADJA	ADJA	Pos|Fem|Gen|Pl|Wk|	14	attr	_	_
+14	Verordnungen	Verordnung	N	NN	Fem|Gen|Pl	11	cj	_	_
+15	der	die	ART	ART	Def|Fem|Gen|Sg	16	det	_	_
+16	Meinung	Meinung	N	NN	Fem|Gen|Sg	14	gmod	_	_
+17	,	,	$,	$,	_	0	root	_	_
+18	dass	dass	KOUS	KOUS	_	27	konj	_	_
+19	private	privat	ADJA	ADJA	Pos|Masc|Nom|Pl|St|	20	attr	_	_
+20	Besuche	Besuch	N	NN	Masc|Nom|Pl	27	subj	_	_
+21	während	während	PREP	APPR	Gen	26	pp	_	_
+22	des	die	ART	ART	Def|_|Gen|Sg	23	det	_	_
+23	Lock	Lock	FM	FM	_|Gen|Sg	21	pn	_	_
+24	­	­	FM	FM	_|Gen|Sg	23	app	_	_
+25	downs	downs	FM	FM	_|Gen|Sg	24	app	_	_
+26	verboten	verbieten	V	VVPP	_	27	aux	_	_
+27	waren	sein	V	VAFIN	3|Pl|Past|Ind	6	objc	_	_
+28	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 74076
+# date = 2020_06_17
+# protocol_id = 36
+# party = _
+# speaker = Abgeordnete Mag. Ruth Becher (SPÖ)
+# governing = _
+# text = Den Kulturschaffenden und den Beschäftigten in diesem Bereichen gebührt natürlich auch eine entsprechende Unterstützung, schließlich war der von der Bundesregierung verordnete Lockdown nicht absehbar.
+1	Den	die	ART	ART	Def|_|Dat|Pl	2	det	_	_
+2	Kulturschaffenden	Kulturschaffende	N	NN	_|Dat|Pl	9	objd	_	_
+3	und	und	KON	KON	_	2	kon	_	_
+4	den	die	ART	ART	Def|_|Dat|Pl	5	det	_	_
+5	Beschäftigten	Beschäftigte	N	NN	_|Dat|Pl	3	cj	_	_
+6	in	in	PREP	APPR	Dat	5	pp	_	_
+7	diesem	diese	ART	PDAT	Neut|Dat|Sg	8	det	_	_
+8	Bereichen	Bereich	N	NN	Neut|Dat|Sg	6	pn	_	_
+9	gebührt	gebühren	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+10	natürlich	natürlich	ADV	ADJD	Pos|	9	adv	_	_
+11	auch	auch	ADV	ADV	_	9	adv	_	_
+12	eine	eine	ART	ART	Indef|Fem|Nom|Sg	14	det	_	_
+13	entsprechende	entsprechend	ADJA	ADJA	Pos|Fem|Nom|Sg|_|_	14	attr	_	_
+14	Unterstützung	Unterstützung	N	NN	Fem|Nom|Sg	9	subj	_	_
+15	,	,	$,	$,	_	0	root	_	_
+16	schließlich	schließlich	ADV	ADV	_	17	adv	_	_
+17	war	sein	V	VAFIN	3|Sg|Past|Ind	9	kon	_	_
+18	der	die	PRO	PDS	Masc|Nom|Sg	17	subj	_	_
+19	von	von	PREP	APPR	_	18	pp	_	_
+20	der	die	ART	ART	Def|_|_|_	21	det	_	_
+21	Bundesregierung	Bundesregierung	N	NN	_|_|_	19	pn	_	_
+22	verordnete	verordnet	ADJA	ADJA	Pos|Masc|Nom|Sg|Wk|	23	attr	_	_
+23	Lockdown	Lockdown	N	NN	Masc|Nom|Sg	21	app	_	_
+24	nicht	nicht	PTKNEG	PTKNEG	_	17	adv	_	_
+25	absehbar	absehbar	ADV	ADJD	Pos|	17	pred	_	_
+26	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 74556
+# date = 2020_06_17
+# protocol_id = 36
+# party = _
+# speaker = Abgeordnete Dr. Dagmar Belakowitsch (FPÖ)
+# governing = _
+# text = Es ist jetzt ungefähr drei Monate her, da hat diese Bundesregierung der Republik Österreich einen Lockdown verordnet – einen Lockdown, der zu fürchterlichen wirtschaftlichen Folgen geführt hat.
+1	Es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+3	jetzt	jetzt	ADV	ADV	_	2	adv	_	_
+4	ungefähr	ungefähr	ADV	ADJD	Pos|	2	adv	_	_
+5	drei	drei	CARD	CARD	_	6	attr	_	_
+6	Monate	Monat	N	NN	Masc|Acc|Pl	2	obja	_	_
+7	her	her	PTKVZ	PTKVZ	_	2	avz	_	_
+8	,	,	$,	$,	_	0	root	_	_
+9	da	da	ADV	ADV	_	10	adv	_	_
+10	hat	haben	V	VAFIN	3|Sg|Pres|Ind	2	kon	_	_
+11	diese	diese	ART	PDAT	Fem|Nom|Sg	12	det	_	_
+12	Bundesregierung	Bundesregierung	N	NN	Fem|Nom|Sg	10	subj	_	_
+13	der	die	ART	ART	Def|Fem|Gen|Sg	14	det	_	_
+14	Republik	Republik	N	NN	Fem|Gen|Sg	12	gmod	_	_
+15	Österreich	Österreich	N	NE	Neut|_|Sg	14	app	_	_
+16	einen	eine	ART	ART	Indef|Masc|Acc|Sg	17	det	_	_
+17	Lockdown	Lockdown	N	NE	Masc|Acc|Sg	18	obja	_	_
+18	verordnet	verordnen	V	VVPP	_	10	aux	_	_
+19	–	–	$(	$(	_	0	root	_	_
+20	einen	eine	ART	ART	Indef|Masc|Acc|Sg	21	det	_	_
+21	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	0	root	_	_
+22	,	,	$,	$,	_	0	root	_	_
+23	der	die	PRO	PRELS	Masc|Nom|Sg	29	subj	_	_
+24	zu	zu	PREP	APPR	Dat	28	objp	_	_
+25	fürchterlichen	fürchterlich	ADJA	ADJA	Pos|_|Dat|_|_|	27	attr	_	_
+26	wirtschaftlichen	wirtschaftlich	ADJA	ADJA	Pos|_|Dat|_|_|	27	attr	_	_
+27	Folgen	Folge	N	NN	_|Dat|_	24	pn	_	_
+28	geführt	führen	V	VVPP	_	29	aux	_	_
+29	hat	haben	V	VAFIN	3|Sg|Pres|Ind	21	rel	_	_
+30	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 74565
+# date = 2020_06_17
+# protocol_id = 36
+# party = _
+# speaker = Abgeordnete Dr. Dagmar Belakowitsch (FPÖ)
+# governing = _
+# text = Es gibt viele Länder, die gesundheitlich besser durchgekommen sind, aber auch sehr viele, nämlich die meisten, denen es wirtschaftlich besser geht als Österreich, und nicht, weil sie dort vielleicht keinen Lockdown hatten.
+1	Es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	_
+2	gibt	geben	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+3	viele	viele	ART	PIDAT	_|Acc|Pl	4	det	_	_
+4	Länder	Land	N	NN	_|Acc|Pl	2	obja	_	_
+5	,	,	$,	$,	_	0	root	_	_
+6	die	die	PRO	PRELS	_|Nom|Pl	10	subj	_	_
+7	gesundheitlich	gesundheitlich	ADV	ADJD	Pos|	9	adv	_	_
+8	besser	gut	ADV	ADJD	Comp|	9	adv	_	_
+9	durchgekommen	durchkommen	V	VVPP	_	10	aux	_	_
+10	sind	sein	V	VAFIN	3|Pl|Pres|Ind	4	rel	_	_
+11	,	,	$,	$,	_	0	root	_	_
+12	aber	aber	KON	KON	_	0	root	_	_
+13	auch	auch	ADV	ADV	_	15	adv	_	_
+14	sehr	sehr	ADV	ADV	_	15	adv	_	_
+15	viele	viele	PRO	PIS	_|_|_	0	root	_	_
+16	,	,	$,	$,	_	0	root	_	_
+17	nämlich	nämlich	ADV	ADV	_	19	adv	_	_
+18	die	die	ART	ART	Def|_|_|_	19	part	_	_
+19	meisten	meiste	PRO	PIS	_|_|Pl	15	kon	_	_
+20	,	,	$,	$,	_	0	root	_	_
+21	denen	die	PRO	PRELS	_|Dat|Pl	25	objd	_	_
+22	es	es	PRO	PPER	3|Sg|Neut|Nom	25	subj	_	_
+23	wirtschaftlich	wirtschaftlich	ADV	ADJD	Pos|	24	adv	_	_
+24	besser	gut	ADV	ADJD	Comp|	25	pred	_	_
+25	geht	gehen	V	VVFIN	3|Sg|Pres|Ind	19	rel	_	_
+26	als	als	KOKOM	KOKOM	_	25	kom	_	_
+27	Österreich	Österreich	N	NE	Neut|_|Sg	26	cj	_	_
+28	,	,	$,	$,	_	0	root	_	_
+29	und	und	KON	KON	_	0	root	_	_
+30	nicht	nicht	PTKNEG	PTKNEG	_	0	root	_	_
+31	,	,	$,	$,	_	0	root	_	_
+32	weil	weil	KOUS	KOUS	_	38	konj	_	_
+33	sie	sie	PRO	PPER	3|Pl|_|Nom	38	subj	_	_
+34	dort	dort	ADV	ADV	_	38	adv	_	_
+35	vielleicht	vielleicht	ADV	ADV	_	38	adv	_	_
+36	keinen	keine	ART	PIAT	Masc|Acc|Sg	37	det	_	_
+37	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	38	obja	_	_
+38	hatten	haben	V	VAFIN	3|Pl|Past|Ind	0	root	_	_
+39	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 74597
+# date = 2020_06_17
+# protocol_id = 36
+# party = _
+# speaker = Abgeordnete Dr. Dagmar Belakowitsch (FPÖ)
+# governing = _
+# text = Da gab es einen Lockdown, der hier einstimmig beschlos­sen worden ist.
+1	Da	da	ADV	ADV	_	2	adv	_	_
+2	gab	geben	V	VVFIN	3|Sg|Past|Ind	0	root	_	_
+3	es	es	PRO	PPER	3|Sg|Neut|Nom	2	subj	_	_
+4	einen	eine	ART	ART	Indef|Masc|Acc|Sg	5	det	_	_
+5	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	2	obja	_	_
+6	,	,	$,	$,	_	0	root	_	_
+7	der	die	PRO	PRELS	Masc|Nom|Sg	14	subj	_	_
+8	hier	hier	ADV	ADV	_	13	adv	_	_
+9	einstimmig	einstimmig	ADV	ADJD	Pos|	13	adv	_	_
+10	beschlos	beschlos	ADV	ADJD	Pos|	13	adv	_	_
+11	­	­	FM	FM	_|Nom|_	13	pred	_	_
+12	sen	sen	FM	FM	_|Nom|_	11	app	_	_
+13	worden	werden	V	VAPP	_	14	aux	_	_
+14	ist	sein	V	VAFIN	3|Sg|Pres|Ind	5	rel	_	_
+15	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 74601
+# date = 2020_06_17
+# protocol_id = 36
+# party = _
+# speaker = Abgeordnete Dr. Dagmar Belakowitsch (FPÖ)
+# governing = _
+# text = Wir haben den Lockdown, wir haben das Herunterfahren zur Kenntnis genom­men, und der Herr Bundeskanzler hat sich überhaupt nicht hinterfragt.
+1	Wir	wir	PRO	PPER	1|Pl|_|Nom	2	subj	_	_
+2	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	_
+3	den	die	ART	ART	Def|Masc|Acc|Sg	4	det	_	_
+4	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	2	obja	_	_
+5	,	,	$,	$,	_	0	root	_	_
+6	wir	wir	PRO	PPER	1|Pl|_|Nom	0	root	_	_
+7	haben	haben	V	VAINF	_	0	root	_	_
+8	das	die	ART	ART	Def|Neut|_|Sg	9	det	_	_
+9	Herunterfahren	Herunterfahren	N	NN	Neut|_|Sg	0	root	_	_
+10	zur	zu	PREP	APPRART	Dat	9	pp	_	_
+11	Kenntnis	Kenntnis	N	NN	Fem|Dat|Sg	10	pn	_	_
+12	genom	genom	FM	FM	Fem|Dat|Sg	11	app	_	_
+13	­	­	FM	FM	Fem|Dat|Sg	12	app	_	_
+14	men	men	FM	FM	Fem|Dat|Sg	13	app	_	_
+15	,	,	$,	$,	_	0	root	_	_
+16	und	und	KON	KON	_	0	root	_	_
+17	der	die	ART	ART	Def|Masc|Nom|Sg	18	det	_	_
+18	Herr	Herr	N	NN	Masc|Nom|Sg	20	subj	_	_
+19	Bundeskanzler	Bundeskanzler	N	NN	Masc|Nom|_	18	app	_	_
+20	hat	haben	V	VAFIN	3|Sg|Pres|Ind	16	cj	_	_
+21	sich	sie	PRO	PRF	3|_|Acc	24	obja	_	_
+22	überhaupt	überhaupt	ADV	ADV	_	23	adv	_	_
+23	nicht	nicht	PTKNEG	PTKNEG	_	24	adv	_	_
+24	hinterfragt	hinterfragen	V	VVPP	_	20	aux	_	_
+25	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 74902
+# date = 2020_06_17
+# protocol_id = 36
+# party = _
+# speaker = Abgeordneter August Wöginger (ÖVP)
+# governing = _
+# text = Zum Zweiten: Sie kritisieren nach wie vor den Lockdown.
+1	Zum	zu	PREP	APPRART	Dat	0	root	_	_
+2	Zweiten	zweit	ADJA	ADJA	_|_|Dat|_|_|	1	pn	_	_
+3	:	\:	$.	$.	_	0	root	_	_
+4	Sie	sie	PRO	PPER	3|Pl|_|Nom	5	subj	_	_
+5	kritisieren	kritisieren	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+6	nach	nach	ADV	ADV	_	5	adv	_	_
+7	wie	wie	KOKOM	KOKOM	_	5	kom	_	_
+8	vor	vor	ADV	ADV	_	7	cj	_	_
+9	den	die	ART	ART	Def|Masc|Acc|Sg	10	det	_	_
+10	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	5	obja	_	_
+11	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 74905
+# date = 2020_06_17
+# protocol_id = 36
+# party = _
+# speaker = Abgeordneter August Wöginger (ÖVP)
+# governing = _
+# text = Aber Sie waren es mit Klubobmann Kickl, die am 13. März dieses Jahres den völligen Lockdown für Österreich eingefordert haben.
+1	Aber	aber	KON	KON	_	0	root	_	_
+2	Sie	sie	PRO	PPER	3|Pl|_|Nom	3	subj	_	_
+3	waren	sein	V	VAFIN	3|Pl|Past|Ind	1	cj	_	_
+4	es	es	PRO	PPER	3|Sg|Neut|Nom	3	pred	_	_
+5	mit	mit	PREP	APPR	Dat	3	pp	_	_
+6	Klubobmann	Klubobmann	N	NN	Masc|Dat|_	5	pn	_	_
+7	Kickl	Kickl	N	NE	Masc|Dat|Pl	6	app	_	_
+8	,	,	$,	$,	_	0	root	_	_
+9	die	die	PRO	PRELS	Masc|Nom|Pl	21	subj	_	_
+10	am	an	PREP	APPRART	Dat	20	pp	_	_
+11	13.	13.	ADJA	ADJA	_|Masc|Dat|Sg|_|	12	attr	_	_
+12	März	März	N	NN	Masc|Dat|Sg	10	pn	_	_
+13	dieses	diese	ART	PDAT	Neut|Gen|Sg	14	det	_	_
+14	Jahres	Jahr	N	NN	Neut|Gen|Sg	12	gmod	_	_
+15	den	die	ART	ART	Def|Masc|Acc|Sg	17	det	_	_
+16	völligen	völlig	ADJA	ADJA	Pos|Masc|Acc|Sg|_|	17	attr	_	_
+17	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	20	obja	_	_
+18	für	für	PREP	APPR	Acc	17	pp	_	_
+19	Österreich	Österreich	N	NE	Neut|Acc|Sg	18	pn	_	_
+20	eingefordert	einfordern	V	VVPP	_	21	aux	_	_
+21	haben	haben	V	VAFIN	3|Pl|Pres|_	7	rel	_	_
+22	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 75380
+# date = 2020_06_17
+# protocol_id = 36
+# party = _
+# speaker = Abgeordneter Ralph Schallmeiner (Grüne)
+# governing = _
+# text = Fangen wir dort an, wo alles angefangen hat – beim Coronalockdown!
+1	Fangen	fangen	V	VVFIN	1|Pl|Pres|_	0	root	_	_
+2	wir	wir	PRO	PPER	1|Pl|_|Nom	1	subj	_	_
+3	dort	dort	ADV	ADV	_	1	adv	_	_
+4	an	an	PTKVZ	PTKVZ	_	1	avz	_	_
+5	,	,	$,	$,	_	0	root	_	_
+6	wo	wo	PWAV	PWAV	_	8	adv	_	_
+7	alles	alle	PRO	PIS	Neut|Nom|Sg	9	subj	_	_
+8	angefangen	anfangen	V	VVPP	_	9	aux	_	_
+9	hat	haben	V	VAFIN	3|Sg|Pres|Ind	1	rel	_	_
+10	–	–	$(	$(	_	0	root	_	_
+11	beim	bei	PREP	APPRART	Dat	8	pp	_	_
+12	Coronalockdown	Coronalockdown	N	NN	Masc|Dat|Sg	11	pn	_	_
+13	!	!	$.	$.	_	0	root	_	_
+
+# sent_id = 75385
+# date = 2020_06_17
+# protocol_id = 36
+# party = _
+# speaker = Abgeordneter Ralph Schallmeiner (Grüne)
+# governing = _
+# text = Den Lockdown haben wir also nicht aus Spaß und Jux und Tollerei gemacht – übrigens, ihr habt ihn ja selber gefordert, das habt ihr heute eh schon öfters gehört –, sondern wir haben ihn deswegen gemacht, weil es einfach notwendig war.
+1	Den	die	ART	ART	Def|Masc|Acc|Sg	2	det	_	_
+2	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	13	obja	_	_
+3	haben	haben	V	VAFIN	1|Pl|Pres|_	0	root	_	_
+4	wir	wir	PRO	PPER	1|Pl|_|Nom	3	subj	_	_
+5	also	also	ADV	ADV	_	13	adv	_	_
+6	nicht	nicht	PTKNEG	PTKNEG	_	13	adv	_	_
+7	aus	aus	PREP	APPR	Dat	13	objp	_	_
+8	Spaß	Spaß	N	NN	Masc|Dat|Sg	7	pn	_	_
+9	und	und	KON	KON	_	8	kon	_	_
+10	Jux	Jux	N	NN	Masc|Dat|Sg	9	cj	_	_
+11	und	und	KON	KON	_	10	kon	_	_
+12	Tollerei	Tollerei	N	NN	Fem|Dat|Sg	11	cj	_	_
+13	gemacht	machen	V	VVPP	_	3	aux	_	_
+14	–	–	$(	$(	_	0	root	_	_
+15	übrigens	übrigens	ADV	ADV	_	0	root	_	_
+16	,	,	$,	$,	_	0	root	_	_
+17	ihr	ihr	PRO	PPER	2|Pl|_|Nom	18	subj	_	_
+18	habt	haben	V	VAFIN	2|Pl|Pres|Ind	0	root	_	_
+19	ihn	er	PRO	PPER	3|Sg|Masc|Acc	22	obja	_	_
+20	ja	ja	ADV	ADV	_	22	adv	_	_
+21	selber	selber	ADV	ADV	_	22	adv	_	_
+22	gefordert	fordern	V	VVPP	_	18	aux	_	_
+23	,	,	$,	$,	_	0	root	_	_
+24	das	die	PRO	PDS	Neut|_|Sg	0	root	_	_
+25	habt	haben	V	VAFIN	2|Pl|Pres|Ind	0	root	_	_
+26	ihr	ihr	PRO	PPER	2|Pl|_|Nom	25	subj	_	_
+27	heute	heute	ADV	ADV	_	31	adv	_	_
+28	eh	eh	ADV	ADJD	_	31	adv	_	_
+29	schon	schon	ADV	ADV	_	31	adv	_	_
+30	öfters	öfters	ADV	ADV	_	31	adv	_	_
+31	gehört	gehören	V	VVPP	_	25	aux	_	_
+32	–	–	$(	$(	_	0	root	_	_
+33	,	,	$,	$,	_	0	root	_	_
+34	sondern	sondern	KON	KON	_	0	root	_	_
+35	wir	wir	PRO	PPER	1|Pl|_|Nom	36	subj	_	_
+36	haben	haben	V	VAFIN	1|Pl|Pres|_	34	cj	_	_
+37	ihn	er	PRO	PPER	3|Sg|Masc|Acc	39	obja	_	_
+38	deswegen	deswegen	PROAV	PROAV	_	39	pp	_	_
+39	gemacht	machen	V	VVPP	_	36	aux	_	_
+40	,	,	$,	$,	_	0	root	_	_
+41	weil	weil	KOUS	KOUS	_	45	konj	_	_
+42	es	es	PRO	PPER	3|Sg|Neut|Nom	45	subj	_	_
+43	einfach	einfach	ADV	ADJD	Pos|	45	adv	_	_
+44	notwendig	notwendig	ADV	ADJD	Pos|	45	pred	_	_
+45	war	sein	V	VAFIN	3|Sg|Past|Ind	36	neb	_	_
+46	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 75475
+# date = 2020_06_17
+# protocol_id = 36
+# party = _
+# speaker = Abgeordneter Mag. Hannes Amesbauer, BA (FPÖ)
+# governing = _
+# text = Ich möchte jetzt einiges zurechtrücken, was hier seitens der ÖVP wieder einmal verzapft wurde – zu Beginn der Debatte von Klubobmann Wöginger, aber auch Kollege Pöttinger hat das angeführt und hat den angeblichen Zickzackkurs der FPÖ kritisiert, denn wir wären ja die Ersten gewesen, die den totalen Lockdown Österreichs gefordert hätten.
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	_
+2	möchte	mögen	V	VMFIN	1|Sg|Past|Subj	0	root	_	_
+3	jetzt	jetzt	ADV	ADV	_	5	adv	_	_
+4	einiges	einige	PRO	PIS	Neut|Acc|Sg	5	obja	_	_
+5	zurechtrücken	zurechtrücken	V	VVINF	_	2	aux	_	_
+6	,	,	$,	$,	_	0	root	_	_
+7	was	was	PRO	PRELS	Neut|Nom|Sg	15	subj	_	_
+8	hier	hier	ADV	ADV	_	14	adv	_	_
+9	seitens	seitens	PREP	APPR	_	14	pp	_	_
+10	der	die	ART	ART	Def|_|_|_	11	det	_	_
+11	ÖVP	ÖVP	N	NN	_|_|_	9	pn	_	_
+12	wieder	wieder	ADV	ADV	_	14	adv	_	_
+13	einmal	einmal	ADV	ADV	_	14	adv	_	_
+14	verzapft	verzapfen	V	VVPP	_	15	aux	_	_
+15	wurde	werden	V	VAFIN	3|Sg|Past|Ind	4	rel	_	_
+16	–	–	$(	$(	_	0	root	_	_
+17	zu	zu	PREP	APPR	Dat	29	pp	_	_
+18	Beginn	Beginn	N	NN	Masc|Dat|Sg	17	pn	_	_
+19	der	die	ART	ART	Def|Fem|Gen|Sg	20	det	_	_
+20	Debatte	Debatte	N	NN	Fem|Gen|Sg	18	gmod	_	_
+21	von	von	PREP	APPR	Dat	20	pp	_	_
+22	Klubobmann	Klubobmann	N	NE	_|Dat|Sg	21	pn	_	_
+23	Wöginger	Wöginger	N	NE	Masc|Nom|Sg	20	app	_	_
+24	,	,	$,	$,	_	0	root	_	_
+25	aber	aber	KON	KON	_	23	kon	_	_
+26	auch	auch	ADV	ADV	_	27	adv	_	_
+27	Kollege	Kollege	N	NN	Masc|Nom|Sg	25	cj	_	_
+28	Pöttinger	Pöttinger	N	NE	Masc|Nom|Sg	27	app	_	_
+29	hat	haben	V	VAFIN	3|Sg|Pres|Ind	2	kon	_	_
+30	das	die	PRO	PDS	Neut|Nom|Sg	29	subj	_	_
+31	angeführt	anführen	V	VVPP	_	29	aux	_	_
+32	und	und	KON	KON	_	29	kon	_	_
+33	hat	haben	V	VAFIN	3|Sg|Pres|Ind	32	cj	_	_
+34	den	die	ART	ART	Def|Masc|Acc|Sg	36	det	_	_
+35	angeblichen	angeblich	ADJA	ADJA	Pos|Masc|Acc|Sg|_|	36	attr	_	_
+36	Zickzackkurs	Zickzackkurs	N	NN	Masc|Acc|Sg	39	obja	_	_
+37	der	die	ART	ART	Def|_|Gen|_	38	det	_	_
+38	FPÖ	FPÖ	N	NN	_|Gen|_	36	gmod	_	_
+39	kritisiert	kritisieren	V	VVPP	_	33	aux	_	_
+40	,	,	$,	$,	_	0	root	_	_
+41	denn	denn	KON	KON	_	33	kon	_	_
+42	wir	wir	PRO	PPER	1|Pl|_|Nom	43	subj	_	_
+43	wären	sein	V	VAFIN	1|Pl|Past|Subj	41	cj	_	_
+44	ja	ja	ADV	ADV	_	47	adv	_	_
+45	die	die	ART	ART	Def|_|Nom|Pl	46	det	_	_
+46	Ersten	Erste	N	NN	_|Nom|Pl	47	pred	_	_
+47	gewesen	sein	V	VAPP	_	43	aux	_	_
+48	,	,	$,	$,	_	0	root	_	_
+49	die	die	PRO	PRELS	_|Nom|Pl	55	subj	_	_
+50	den	die	ART	ART	Def|Masc|Acc|Sg	52	det	_	_
+51	totalen	total	ADJA	ADJA	Pos|Masc|Acc|Sg|_|	52	attr	_	_
+52	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	54	obja	_	_
+53	Österreichs	Österreich	N	NE	Neut|Gen|Sg	52	gmod	_	_
+54	gefordert	fordern	V	VVPP	_	55	aux	_	_
+55	hätten	haben	V	VAFIN	3|Pl|Past|Subj	46	rel	_	_
+56	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 75533
+# date = 2020_06_17
+# protocol_id = 36
+# party = _
+# speaker = Abgeordneter Mag. Hannes Amesbauer, BA (FPÖ)
+# governing = _
+# text = Bedenkt man, dass der Umsatzrückgang allein für Österreichs Gastronomie während des Corona-Lockdowns täglich ca 60 Millionen Euro betrug und laut Experten auch nicht wieder aufholbar ist, stellt sich die Frage, wie nun 2.000 Euro, die die Regierung beisteuern möchte, bei gleichzeitig hohen Lehrlingskosten und eingebrochenem Umsatz tatsächlich helfen sollen.
+1	Bedenkt	bedenken	V	VVFIN	3|Sg|Pres|Ind	29	neb	_	_
+2	man	man	PRO	PIS	_|Nom|Sg	1	subj	_	_
+3	,	,	$,	$,	_	0	root	_	_
+4	dass	dass	KOUS	KOUS	_	19	konj	_	_
+5	der	die	ART	ART	Def|Masc|Nom|Sg	6	det	_	_
+6	Umsatzrückgang	Umsatzrückgang	N	NN	Masc|Nom|Sg	19	subj	_	_
+7	allein	allein	ADV	ADV	_	8	adv	_	_
+8	für	für	PREP	APPR	Acc	6	pp	_	_
+9	Österreichs	Österreich	N	NE	Neut|Gen|Sg	10	gmod	_	_
+10	Gastronomie	Gastronomie	N	NN	Fem|Acc|Sg	8	pn	_	_
+11	während	während	PREP	APPR	Gen	19	pp	_	_
+12	des	die	ART	ART	Def|Masc|Gen|Sg	13	det	_	_
+13	Corona-Lockdowns	Corona-Lockdown	N	NN	Masc|Gen|Sg	11	pn	_	_
+14	täglich	täglich	ADV	ADJD	Pos|	19	adv	_	_
+15	ca	ca	ADV	ADV	_	19	adv	_	_
+16	60	60	CARD	CARD	_	17	attr	_	_
+17	Millionen	Million	N	NN	Masc|Acc|Pl	19	obja	_	_
+18	Euro	Euro	N	NN	_|Acc|_	17	app	_	_
+19	betrug	betragen	V	VVFIN	3|Sg|Past|Ind	1	objc	_	_
+20	und	und	KON	KON	_	19	kon	_	_
+21	laut	laut	PREP	APPR	Dat	27	pp	_	_
+22	Experten	Experte	N	NN	_|Dat|_	21	pn	_	_
+23	auch	auch	ADV	ADV	_	27	adv	_	_
+24	nicht	nicht	PTKNEG	PTKNEG	_	27	adv	_	_
+25	wieder	wieder	ADV	ADV	_	27	adv	_	_
+26	aufholbar	aufholbar	ADV	ADJD	Pos|	27	pred	_	_
+27	ist	sein	V	VAFIN	3|Sg|Pres|Ind	20	cj	_	_
+28	,	,	$,	$,	_	0	root	_	_
+29	stellt	stellen	V	VVFIN	3|Sg|Pres|Ind	0	root	_	_
+30	sich	sie	PRO	PRF	3|_|Acc	29	obja	_	_
+31	die	die	ART	ART	Def|Fem|Nom|Sg	32	det	_	_
+32	Frage	Frage	N	NN	Fem|Nom|Sg	29	subj	_	_
+33	,	,	$,	$,	_	0	root	_	_
+34	wie	wie	PWAV	PWAV	_	53	adv	_	_
+35	nun	nun	ADV	ADV	_	53	adv	_	_
+36	2.000	2.000	CARD	CARD	_	37	attr	_	_
+37	Euro	Euro	N	NN	_|Nom|Pl	54	subj	_	_
+38	,	,	$,	$,	_	0	root	_	_
+39	die	die	PRO	PRELS	Fem|Nom|Sg	43	subj	_	_
+40	die	die	ART	ART	Def|Fem|Acc|Sg	41	det	_	_
+41	Regierung	Regierung	N	NN	Fem|Acc|Sg	42	obja	_	_
+42	beisteuern	beisteuern	V	VVINF	_	43	aux	_	_
+43	möchte	mögen	V	VMFIN	3|Sg|Past|Subj	32	rel	_	_
+44	,	,	$,	$,	_	0	root	_	_
+45	bei	bei	PREP	APPR	Dat	53	pp	_	_
+46	gleichzeitig	gleichzeitig	ADV	ADJD	Pos|	47	adv	_	_
+47	hohen	hoch	ADJA	ADJA	Pos|_|Dat|_|_|	48	attr	_	_
+48	Lehrlingskosten	Lehrlingskosten	N	NN	_|Dat|_	45	pn	_	_
+49	und	und	KON	KON	_	48	kon	_	_
+50	eingebrochenem	eingebrochen	ADJA	ADJA	Pos|Masc|Dat|Sg|St|	51	attr	_	_
+51	Umsatz	Umsatz	N	NN	Masc|Dat|Sg	49	cj	_	_
+52	tatsächlich	tatsächlich	ADV	ADJD	Pos|	53	adv	_	_
+53	helfen	helfen	V	VVINF	_	54	aux	_	_
+54	sollen	sollen	V	VMFIN	3|Pl|Pres|_	32	objc	_	_
+55	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 75825
+# date = 2020_06_17
+# protocol_id = 36
+# party = _
+# speaker = Abgeordneter Dietmar Keck (SPÖ)
+# governing = _
+# text = Die Ausgangslage Der Lockdown hat eine soziale und wirtschaftliche Krise ausgelöst, die beispielhaft ist in der Zweiten Republik.
+1	Die	die	ART	ART	Def|Fem|_|Sg	2	det	_	_
+2	Ausgangslage	Ausgangslage	N	NN	Fem|_|Sg	0	root	_	_
+3	Der	die	ART	ART	Def|Masc|Nom|Sg	4	det	_	_
+4	Lockdown	Lockdown	N	NN	Masc|Nom|Sg	5	subj	_	_
+5	hat	haben	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+6	eine	eine	ART	ART	Indef|Fem|Acc|Sg	10	det	_	_
+7	soziale	sozial	ADJA	ADJA	Pos|Fem|Acc|Sg|_|	10	attr	_	_
+8	und	und	KON	KON	_	7	kon	_	_
+9	wirtschaftliche	wirtschaftlich	ADJA	ADJA	Pos|_|Acc|_|_|	8	cj	_	_
+10	Krise	Krise	N	NN	Fem|Acc|Sg	11	obja	_	_
+11	ausgelöst	auslösen	V	VVPP	_	5	aux	_	_
+12	,	,	$,	$,	_	0	root	_	_
+13	die	die	PRO	PRELS	Fem|Nom|Sg	15	subj	_	_
+14	beispielhaft	beispielhaft	ADV	ADJD	Pos|	15	pred	_	_
+15	ist	sein	V	VAFIN	3|Sg|Pres|Ind	10	rel	_	_
+16	in	in	PREP	APPR	Dat	15	pp	_	_
+17	der	die	ART	ART	Def|Fem|Dat|Sg	19	det	_	_
+18	Zweiten	zweit	ADJA	ADJA	_|Fem|Dat|Sg|Wk|	19	attr	_	_
+19	Republik	Republik	N	NN	Fem|Dat|Sg	16	pn	_	_
+20	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 77704
+# date = 2020_06_17
+# protocol_id = 36
+# party = _
+# speaker = Abgeordnete Dipl.-Kffr. (FH) Elisabeth Pfurtscheller (ÖVP)
+# governing = _
+# text = Zahlen aus China und Italien – diese Länder mussten sich ja schon früher zu einem Lockdown entschließen – ließen befürchten, dass sich auch bei uns in Österreich die Zahl der Über­griffe auf Frauen im häuslichen Bereich, also im Privatbereich, erhöhen würde.
+1	Zahlen	Zahl	N	NN	Fem|Nom|Pl	19	subj	_	_
+2	aus	aus	PREP	APPR	Dat	1	pp	_	_
+3	China	China	N	NE	Neut|Dat|Sg	2	pn	_	_
+4	und	und	KON	KON	_	3	kon	_	_
+5	Italien	Italien	N	NE	Neut|Dat|Sg	4	cj	_	_
+6	–	–	$(	$(	_	0	root	_	_
+7	diese	diese	ART	PDAT	_|Nom|Pl	8	det	_	_
+8	Länder	Land	N	NN	_|Nom|Pl	9	subj	_	_
+9	mussten	müssen	V	VMFIN	3|Pl|Past|Ind	5	par	_	_
+10	sich	sie	PRO	PRF	3|_|Acc	17	obja	_	_
+11	ja	ja	ADV	ADV	_	17	adv	_	_
+12	schon	schon	ADV	ADV	_	17	adv	_	_
+13	früher	früh	ADV	ADJD	_|	17	adv	_	_
+14	zu	zu	PREP	APPR	Dat	17	objp	_	_
+15	einem	eine	ART	ART	Indef|Masc|Dat|Sg	16	det	_	_
+16	Lockdown	Lockdown	N	NN	Masc|Dat|Sg	14	pn	_	_
+17	entschließen	entschließen	V	VVINF	_	9	aux	_	_
+18	–	–	$(	$(	_	0	root	_	_
+19	ließen	lassen	V	VVFIN	3|Pl|Past|_	0	root	_	_
+20	befürchten	befürchten	V	VVINF	_	19	obji	_	_
+21	,	,	$,	$,	_	0	root	_	_
+22	dass	dass	KOUS	KOUS	_	34	konj	_	_
+23	sich	sie	PRO	PRF	3|_|Dat	34	objd	_	_
+24	auch	auch	ADV	ADV	_	34	adv	_	_
+25	bei	bei	PREP	APPR	Dat	34	pp	_	_
+26	uns	wir	PRO	PPER	1|Pl|_|Dat	25	pn	_	_
+27	in	in	PREP	APPR	_	34	pp	_	_
+28	Österreich	Österreich	N	NE	Neut|_|Sg	27	pn	_	_
+29	die	die	ART	ART	Def|Fem|Nom|Sg	30	det	_	_
+30	Zahl	Zahl	N	NN	Fem|Nom|Sg	34	subj	_	_
+31	der	die	ART	ART	Def|Masc|Gen|Pl	32	det	_	_
+32	Über	Über	N	NN	Masc|Gen|Pl	30	gmod	_	_
+33	­	­	FM	FM	Masc|Gen|Pl	32	app	_	_
+34	griffe	greifen	V	VVFIN	3|Sg|Past|Subj	46	subjc	_	_
+35	auf	auf	PREP	APPR	_	45	pp	_	_
+36	Frauen	Frau	N	NN	Fem|_|Pl	35	pn	_	_
+37	im	in	PREP	APPRART	Dat	45	pp	_	_
+38	häuslichen	häuslich	ADJA	ADJA	Pos|_|Dat|Sg|Wk|	39	attr	_	_
+39	Bereich	Bereich	N	NN	_|Dat|Sg	37	pn	_	_
+40	,	,	$,	$,	_	0	root	_	_
+41	also	also	ADV	ADV	_	42	adv	_	_
+42	im	in	PREP	APPRART	Dat	37	kon	_	_
+43	Privatbereich	Privatbereich	N	NN	_|Dat|Sg	42	pn	_	_
+44	,	,	$,	$,	_	0	root	_	_
+45	erhöhen	erhöhen	V	VVINF	_	46	aux	_	_
+46	würde	werden	V	VAFIN	_|Sg|Past|Subj	0	root	_	_
+47	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 77705
+# date = 2020_06_17
+# protocol_id = 36
+# party = _
+# speaker = Abgeordnete Dipl.-Kffr. (FH) Elisabeth Pfurtscheller (ÖVP)
+# governing = _
+# text = Aufgrund des Stresses, unter dem viele Paare und Familien durch den Lockdown, durch Kurzarbeit oder Arbeitslosigkeit, Homeschooling und so weiter standen, war ja auch zu erwarten, dass es vermehrt zu Gewalteskalationen kommen könnte.
+1	Aufgrund	aufgrund	PREP	APPR	Gen	26	pp	_	_
+2	des	die	ART	ART	Def|Masc|Gen|Sg	3	det	_	_
+3	Stresses	Stress	N	NN	Masc|Gen|Sg	1	pn	_	_
+4	,	,	$,	$,	_	0	root	_	_
+5	unter	unter	PREP	APPR	Dat	24	objp	_	_
+6	dem	die	PRO	PRELS	Masc|Dat|Sg	5	pn	_	_
+7	viele	viele	ART	PIDAT	Neut|Nom|Pl	8	det	_	_
+8	Paare	Paar	N	NN	Neut|Nom|Pl	24	subj	_	_
+9	und	und	KON	KON	_	8	kon	_	_
+10	Familien	Familie	N	NN	Fem|Nom|Pl	9	cj	_	_
+11	durch	durch	PREP	APPR	Acc	10	pp	_	_
+12	den	die	ART	ART	Def|Masc|Acc|Sg	13	det	_	_
+13	Lockdown	Lockdown	N	NN	Masc|Acc|Sg	11	pn	_	_
+14	,	,	$,	$,	_	0	root	_	_
+15	durch	durch	PREP	APPR	Acc	13	pp	_	_
+16	Kurzarbeit	Kurzarbeit	N	NN	Fem|Acc|Sg	15	pn	_	_
+17	oder	oder	KON	KON	_	16	kon	_	_
+18	Arbeitslosigkeit	Arbeitslosigkeit	N	NN	Fem|Acc|Sg	17	cj	_	_
+19	,	,	$,	$,	_	0	root	_	_
+20	Homeschooling	Homeschooling	N	NE	Masc|Acc|Sg	13	app	_	_
+21	und	und	KON	KON	_	11	kon	_	_
+22	so	so	ADV	ADV	_	23	adv	_	_
+23	weiter	weiter	ADV	ADV	_	21	cj	_	_
+24	standen	stehen	V	VVFIN	_|Pl|Past|Ind	3	rel	_	_
+25	,	,	$,	$,	_	0	root	_	_
+26	war	sein	V	VAFIN	_|Sg|Past|Ind	0	root	_	_
+27	ja	ja	ADV	ADV	_	30	adv	_	_
+28	auch	auch	ADV	ADV	_	30	adv	_	_
+29	zu	zu	PTKZU	PTKZU	_	30	part	_	_
+30	erwarten	erwarten	V	VVINF	_	26	aux	_	_
+31	,	,	$,	$,	_	0	root	_	_
+32	dass	dass	KOUS	KOUS	_	38	konj	_	_
+33	es	es	PRO	PPER	3|Sg|Neut|Nom	38	subj	_	_
+34	vermehrt	vermehrt	ADV	ADJD	Pos|	37	adv	_	_
+35	zu	zu	PREP	APPR	Dat	37	objp	_	_
+36	Gewalteskalationen	Gewalteskalation	N	NN	Fem|Dat|Pl	35	pn	_	_
+37	kommen	kommen	V	VVINF	_	38	aux	_	_
+38	könnte	können	V	VMFIN	3|Sg|Past|Subj	30	objc	_	_
+39	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 77713
+# date = 2020_06_17
+# protocol_id = 36
+# party = _
+# speaker = Abgeordnete Dipl.-Kffr. (FH) Elisabeth Pfurtscheller (ÖVP)
+# governing = _
+# text = Der Lockdown ist mittlerweile beendet und wir kehren auch Schritt für Schritt zur Nor­malität zurück.
+1	Der	die	ART	ART	Def|Masc|Nom|Sg	2	det	_	_
+2	Lockdown	Lockdown	N	NN	Masc|Nom|Sg	3	subj	_	_
+3	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+4	mittlerweile	mittlerweile	ADV	ADV	_	5	adv	_	_
+5	beendet	beenden	V	VVPP	_	3	aux	_	_
+6	und	und	KON	KON	_	3	kon	_	_
+7	wir	wir	PRO	PPER	1|Pl|_|Nom	8	subj	_	_
+8	kehren	kehren	V	VVFIN	1|Pl|Pres|_	6	cj	_	_
+9	auch	auch	ADV	ADV	_	8	adv	_	_
+10	Schritt	Schritt	N	NN	Masc|Acc|Sg	11	grad	_	_
+11	für	für	PREP	APPR	Acc	8	pp	_	_
+12	Schritt	Schritt	N	NN	Masc|Acc|Sg	11	pn	_	_
+13	zur	zu	PREP	APPRART	Dat	8	pp	_	_
+14	Nor	Nor	FM	FM	_|Dat|_	13	pn	_	_
+15	­	­	FM	FM	_|Dat|_	14	app	_	_
+16	malität	malität	FM	FM	_|Dat|_	15	app	_	_
+17	zurück	zurück	PTKVZ	PTKVZ	_	8	avz	_	_
+18	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 78001
+# date = 2020_06_17
+# protocol_id = 36
+# party = _
+# speaker = Abgeordneter Norbert Sieber (ÖVP)
+# governing = _
+# text = Ich bin daher von der Notwendigkeit überzeugt und auch dankbar dafür, dass bereits während der Coronakrise, während des Lockdowns 2 Millionen Euro für eine Sensibilisierungs­kampagne bereitgestellt wurden.
+1	Ich	ich	PRO	PPER	1|Sg|_|Nom	2	subj	_	_
+2	bin	sein	V	VAFIN	1|Sg|Pres|Ind	0	root	_	_
+3	daher	daher	PROAV	PROAV	_	7	pp	_	_
+4	von	von	PREP	APPR	_	7	pp	_	_
+5	der	die	ART	ART	Def|Fem|_|Sg	6	det	_	_
+6	Notwendigkeit	Notwendigkeit	N	NN	Fem|_|Sg	4	pn	_	_
+7	überzeugt	überzeugen	V	VVPP	_	2	aux	_	_
+8	und	und	KON	KON	_	0	root	_	_
+9	auch	auch	ADV	ADV	_	10	adv	_	_
+10	dankbar	dankbar	ADV	ADJD	Pos|	8	cj	_	_
+11	dafür	dafür	PROAV	PROAV	_	10	pp	_	_
+12	,	,	$,	$,	_	0	root	_	_
+13	dass	dass	KOUS	KOUS	_	0	root	_	_
+14	bereits	bereits	ADV	ADV	_	15	adv	_	_
+15	während	während	PREP	APPR	_	0	root	_	_
+16	der	die	ART	ART	Def|Fem|_|Sg	17	det	_	_
+17	Coronakrise	Coronakrise	N	NN	Fem|_|Sg	15	pn	_	_
+18	,	,	$,	$,	_	0	root	_	_
+19	während	während	PREP	APPR	Gen	30	pp	_	_
+20	des	die	ART	ART	Def|Masc|Gen|Sg	21	det	_	_
+21	Lockdowns	Lockdown	N	NN	Masc|Gen|Sg	19	pn	_	_
+22	2	2	CARD	CARD	_	23	attr	_	_
+23	Millionen	Million	N	NN	Masc|Nom|Pl	31	subj	_	_
+24	Euro	Euro	N	NN	_|Nom|_	23	app	_	_
+25	für	für	PREP	APPR	Acc	30	pp	_	_
+26	eine	eine	ART	ART	Indef|Fem|Acc|Sg	27	det	_	_
+27	Sensibilisierungs	Sensibilisierungs	N	NN	Fem|Acc|Sg	25	pn	_	_
+28	­	­	FM	FM	Fem|Acc|Sg	27	app	_	_
+29	kampagne	kampagne	FM	FM	Fem|Acc|Sg	28	app	_	_
+30	bereitgestellt	bereitstellen	V	VVPP	_	31	aux	_	_
+31	wurden	werden	V	VAFIN	3|Pl|Past|Ind	0	root	_	_
+32	.	.	$.	$.	_	0	root	_	_
+
+# sent_id = 78021
+# date = 2020_06_17
+# protocol_id = 36
+# party = _
+# speaker = Abgeordnete Henrike Brandstötter (NEOS)
+# governing = _
+# text = Auf der einen Seite sagen Sie: Der Lockdown ist beendet , die Normalität kehrt zurück!, gleichzeitig wird aber die Teilnahme an der europäischen Zeitverwendungsstudie abgelehnt, denn – hey!
+1	Auf	auf	PREP	APPR	Dat	5	pp	_	_
+2	der	die	ART	ART	Def|Fem|Dat|Sg	4	det	_	_
+3	einen	ein	ADJA	ADJA	Pos|Fem|Dat|Sg|Wk|	4	attr	_	_
+4	Seite	Seite	N	NN	Fem|Dat|Sg	1	pn	_	_
+5	sagen	sagen	V	VVFIN	3|Pl|Pres|_	0	root	_	_
+6	Sie	sie	PRO	PPER	3|Pl|_|Nom	5	subj	_	_
+7	:	\:	$.	$.	_	0	root	_	_
+8	Der	die	ART	ART	Def|Masc|Nom|Sg	9	det	_	_
+9	Lockdown	Lockdown	N	NN	Masc|Nom|Sg	10	subj	_	_
+10	ist	sein	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+11	beendet	beenden	V	VVPP	_	10	aux	_	_
+12	,	,	$,	$,	_	0	root	_	_
+13	die	die	ART	ART	Def|Fem|Nom|Sg	14	det	_	_
+14	Normalität	Normalität	N	NN	Fem|Nom|Sg	15	subj	_	_
+15	kehrt	kehren	V	VVFIN	3|Sg|Pres|Ind	10	kon	_	_
+16	zurück	zurück	PTKVZ	PTKVZ	_	15	avz	_	_
+17	!	!	$.	$.	_	0	root	_	_
+18	,	,	$,	$,	_	0	root	_	_
+19	gleichzeitig	gleichzeitig	ADV	ADJD	Pos|	20	adv	_	_
+20	wird	werden	V	VAFIN	3|Sg|Pres|Ind	0	root	_	_
+21	aber	aber	ADV	ADV	_	28	adv	_	_
+22	die	die	ART	ART	Def|Fem|Nom|Sg	23	det	_	_
+23	Teilnahme	Teilnahme	N	NN	Fem|Nom|Sg	20	subj	_	_
+24	an	an	PREP	APPR	Dat	23	pp	_	_
+25	der	die	ART	ART	Def|Fem|Dat|Sg	27	det	_	_
+26	europäischen	europäisch	ADJA	ADJA	Pos|Fem|Dat|Sg|Wk|	27	attr	_	_
+27	Zeitverwendungsstudie	Zeitverwendungsstudie	N	NN	Fem|Dat|Sg	24	pn	_	_
+28	abgelehnt	ablehnen	V	VVPP	_	20	aux	_	_
+29	,	,	$,	$,	_	0	root	_	_
+30	denn	denn	KON	KON	_	0	root	_	_
+31	–	–	$(	$(	_	0	root	_	_
+32	hey	hey	ITJ	ITJ	_	0	root	_	_
+33	!	!	$.	$.	_	0	root	_	_
+
+# sent_id = 78068
+# date = 2020_06_17
+# protocol_id = 36
+# party = _
+# speaker = Abgeordnete Pia Philippa Strache (ohne Klubzugehörigkeit)
+# governing = _
+# text = Um die Lasten der Coronakrise so gut wie möglich bewältigbar zu machen, müssen wir uns langsam, aber sicher neben den wirtschaftlichen Konsequenzen auch Gedanken über die psychologischen Konsequenzen des Lockdowns machen, Konsequenzen, welche vor allem die Zukunft und das Leben der Frauen in diesem Land besonders stark be­treffen werden.
+1	Um	Um	KOUI	KOUI	_	12	konj	_	_
+2	die	die	ART	ART	Def|Fem|Acc|Pl	3	det	_	_
+3	Lasten	Last	N	NN	Fem|Acc|Pl	12	obja	_	_
+4	der	die	ART	ART	Def|Fem|Gen|Sg	5	det	_	_
+5	Coronakrise	Coronakrise	N	NN	Fem|Gen|Sg	3	gmod	_	_
+6	so	so	ADV	ADV	_	7	adv	_	_
+7	gut	gut	ADV	ADJD	Pos|	12	adv	_	_
+8	wie	wie	KOKOM	KOKOM	_	7	kom	_	_
+9	möglich	möglich	ADV	ADJD	Pos|	8	cj	_	_
+10	bewältigbar	bewältigbar	ADV	ADJD	Pos|	12	pred	_	_
+11	zu	zu	PTKZU	PTKZU	_	12	part	_	_
+12	machen	machen	V	VVINF	_	14	neb	_	_
+13	,	,	$,	$,	_	0	root	_	_
+14	müssen	müssen	V	VMFIN	1|Pl|Pres|_	0	root	_	_
+15	wir	wir	PRO	PPER	1|Pl|_|Nom	14	subj	_	_
+16	uns	wir	PRO	PRF	1|Pl|Acc	33	obja	_	_
+17	langsam	langsam	ADV	ADJD	Pos|	33	pred	_	_
+18	,	,	$,	$,	_	0	root	_	_
+19	aber	aber	KON	KON	_	17	kon	_	_
+20	sicher	sicher	ADV	ADJD	Pos|	19	cj	_	_
+21	neben	neben	PREP	APPR	_	33	pp	_	_
+22	den	die	ART	ART	Def|Masc|_|_	24	det	_	_
+23	wirtschaftlichen	wirtschaftlich	ADJA	ADJA	Pos|Masc|_|_|_|	24	attr	_	_
+24	Konsequenzen	Konsequenz	N	NN	Masc|_|_	21	pn	_	_
+25	auch	auch	ADV	ADV	_	26	adv	_	_
+26	Gedanken	Gedanke	N	NN	Masc|_|_	24	app	_	_
+27	über	über	PREP	APPR	Acc	26	pp	_	_
+28	die	die	ART	ART	Def|Fem|Acc|Pl	30	det	_	_
+29	psychologischen	psychologisch	ADJA	ADJA	Pos|Fem|Acc|Pl|Wk|	30	attr	_	_
+30	Konsequenzen	Konsequenz	N	NN	Fem|Acc|Pl	27	pn	_	_
+31	des	die	ART	ART	Def|Masc|Gen|Sg	32	det	_	_
+32	Lockdowns	Lockdown	N	NN	Masc|Gen|Sg	30	gmod	_	_
+33	machen	machen	V	VVINF	_	14	aux	_	_
+34	,	,	$,	$,	_	0	root	_	_
+35	Konsequenzen	Konsequenz	N	NN	Fem|_|Pl	0	root	_	_
+36	,	,	$,	$,	_	0	root	_	_
+37	welche	welche	PRO	PRELS	_|_|_	0	root	_	_
+38	vor	vor	PREP	APPR	Dat	54	pp	_	_
+39	allem	alle	PRO	PIS	_|Dat|Sg	38	pn	_	_
+40	die	die	ART	ART	Def|Fem|Nom|Sg	41	det	_	_
+41	Zukunft	Zukunft	N	NN	Fem|Nom|Sg	55	subj	_	_
+42	und	und	KON	KON	_	41	kon	_	_
+43	das	die	ART	ART	Def|Neut|Nom|Sg	44	det	_	_
+44	Leben	Leben	N	NN	Neut|Nom|Sg	42	cj	_	_
+45	der	die	ART	ART	Def|Fem|Gen|Pl	46	det	_	_
+46	Frauen	Frau	N	NN	Fem|Gen|Pl	44	gmod	_	_
+47	in	in	PREP	APPR	Dat	54	pp	_	_
+48	diesem	diese	ART	PDAT	Neut|Dat|Sg	49	det	_	_
+49	Land	Land	N	NN	Neut|Dat|Sg	47	pn	_	_
+50	besonders	besonders	ADV	ADV	_	51	adv	_	_
+51	stark	stark	ADV	ADJD	Pos|	54	adv	_	_
+52	be	be	FM	FM	_|_|_	54	obja	_	_
+53	­	­	FM	FM	_|_|_	52	app	_	_
+54	treffen	treffen	V	VVINF	_	55	aux	_	_
+55	werden	werden	V	VAFIN	_|Pl|Pres|_	0	root	_	_
+56	.	.	$.	$.	_	0	root	_	_
