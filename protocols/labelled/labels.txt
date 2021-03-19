@@ -1,0 +1,7 @@
++  the speaker expresses a positive opinion towards the topic
+-  the speaker expresses a negative opinion towards the topic
+o  the speaker does not clearly express a positive nor a negative opinion towards the topic
+?  the annotator is unsure about the speaker's opinion towards the topic
+x+  the speaker speaks about somebody else's positive opinion towards the topic
+x-  the speaker speaks about somebody else's negative opinion towards the topic
+xx+  the speaker talks about somebody else talking about the speaker's positive opinion towards the topic
