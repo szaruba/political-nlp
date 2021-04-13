@@ -9,7 +9,7 @@ with open('protocols/labelled/only_lockdown.csv', 'r') as f:
     f.readline()
     for line in f:
         col_vals = re.split('\\t', line)
-        opinion = col_vals[5]
+        opinion = col_vals[6]
         opinion_counts[opinion]['count'] += 1
         for i in range(len(col_names[:-1])):
             col_val = col_vals[i]
