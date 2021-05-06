@@ -25,7 +25,62 @@ class ParserSecond:
                      'Kurz': 'ÖVP', 'Blümel': 'ÖVP', 'Gewessler': 'Grüne', 'Laimer': 'SPÖ', 'Taschner': 'ÖVP',
                      'Brückl': 'FPÖ', 'Blimlinger': 'Grüne', 'Brandstätter': 'NEOS', 'Lopatka': 'ÖVP',
                      'Schellhorn': 'NEOS', 'Anschober': 'Grüne', 'Hammer': 'ÖVP', 'Raab': 'ÖVP', 'Köstinger': 'ÖVP',
-                     'Aschbacher': 'ÖVP', 'Alma': 'Grüne', 'Hauser': 'FPÖ', 'Tanner': 'ÖVP', 'Schramböck': 'ÖVP'}
+                     'Aschbacher': 'ÖVP', 'Alma': 'Grüne', 'Hauser': 'FPÖ', 'Tanner': 'ÖVP', 'Schramböck': 'ÖVP',
+                     'Schallen­berg': 'ÖVP', 'Julia Elisabeth Herr': 'SPÖ', 'Jabloner': 'SPÖ', 'Faßmann': 'ÖVP', 'Vana': 'Grüne',
+                     'Stögmüller': 'Grüne', 'Weratschnig': 'Grüne', 'Ottenschläger': 'ÖVP', 'Stöger': 'SPÖ', 'Rössler': 'Grüne',
+                     'Michael Bernhard': 'NEOS', 'Julia Elisabeth Herr': 'SPÖ', 'Pfurtscheller': 'ÖVP', 'Nehammer': 'ÖVP',
+                     'Ralph Schallmeiner': 'Grüne', 'Erwin Angerer': 'FPÖ', 'Gabriel Obernosterer': 'ÖVP', 'Christoph Matznetter': 'SPÖ',
+                     'Margarete Schram-böck': 'ÖVP', 'Schallen-berg': 'ÖVP', 'Jörg Leichtfried': 'SPÖ', 'Nina Tomaselli': 'Grüne',
+                     'Klaus Lindinger': 'ÖVP', 'Magnus Brunner': 'ÖVP', 'Karin Doppelbauer': 'NEOS', 'Peter Haubner': 'ÖVP',
+                     'Rendi-Wagner': 'SPÖ', 'Rainer Wimmer': 'SPÖ',
+                     'Ulrike Lunacek': 'Grüne',
+                     'Karoline Edtstadler': 'ÖVP',
+                     'Dziedzic': 'Grüne',
+                     'Yannick Shetty': 'NEOS',
+                     'Philip Kucher': 'SPÖ',
+                     'Petra Steger': 'FPÖ',
+                     'Werner Amon': 'ÖVP',
+                     'Peter Wurm': 'FPÖ',
+                     'Hubert Fuchs': 'FPÖ',
+                     'Andrea Mayer': 'Grüne',
+                     'Martin Litschauer': 'Grüne',
+                     'Harald Troch': 'SPÖ',
+                     'Andreas Hanger': 'ÖVP',
+                     'Karlheinz Kopf': 'ÖVP',
+                     'Michel Reimon': 'Grüne',
+                     'Philippa Strache': 'ohne Klubzugehörigkeit',
+                     'Bernhard Achitz': 'SPÖ',
+                     'Walter Rosenkranz': 'FPÖ', 'Johannes Margreiter': 'NEOS',
+                     'Petra Oberrauner': 'SPÖ',
+                     'Felix Eypeltauer': 'NEOS',
+                     'Himmelbauer': 'ÖVP',
+                     'Harald Stefan': 'FPÖ',
+                     'Karl Mahrer': 'ÖVP',
+                     'Nagashi': 'Grüne',
+                     'Nico Marchetti': 'ÖVP',
+                     'Georg Bürstmayr': 'Grüne',
+                     'Philipp Schrangl': 'FPÖ',
+                     'Gerhard Kaniak': 'FPÖ',
+                     'Kira Grünberg': 'ÖVP',
+                     'Petra Bayr': 'SPÖ',
+                     'Georg Mayer': 'FPÖ',
+                     'Sigrid Maurer': 'Grüne',
+                     'Wolfgang Zanger': 'FPÖ',
+                     'Gerald Loacker': 'NEOS',
+                     'Andreas Kollross': 'SPÖ',
+                     'Manfred Hofinger': 'ÖVP',
+                     'Dietmar Keck': 'SPÖ',
+                     'Christian Ragger': 'FPÖ',
+                     'Norbert Sieber': 'ÖVP',
+                     'Gertraud Salzmann': 'ÖVP',
+                     'Nikolaus Prinz': 'ÖVP',
+                     'Gerhard Deimek': 'FPÖ',
+                     'Markus Koza': 'Grüne',
+                     'Sibylle Hamann': 'Grüne',
+                     'Elisabeth Köstin': 'ÖVP',
+                     'Martin Kocher': 'ÖVP',
+                     'Wolfgang Mückstein': 'Grüne'
+                     }
     party_governing = OrderedDict([('2020-01-07', ['ÖVP', 'Grüne']), ('2019-06-03', []), ('2019-05-28', ['ÖVP']),
                                    ('2017-12-18', ['ÖVP', 'FPÖ'])])
 
@@ -38,7 +93,13 @@ class ParserSecond:
         # get files in input dir
         files = os.listdir(self.input_dir)
         # files = ['06_2019_12_11.html']
-        for file in sorted(files):
+        sorted_files_99 = sorted([f for f in files if re.match('^[0-9]{2}_', f)])
+        sorted_files_999 = sorted([f for f in files if re.match('^[0-9]{3}_', f)])
+
+        for file in sorted_files_99:
+            self.process_file(file)
+
+        for file in sorted_files_999:
             self.process_file(file)
         print("All files processed.")
 
@@ -59,7 +120,11 @@ class ParserSecond:
 
         split = re.split('@@', line)
         speaker = split[0]
+        speaker = speaker.replace('\xa0', ' ')
+        speaker = speaker.replace('\xad', '-')
         party = self.determine_party(speaker)
+        if party == '_':
+            print('party not found')
         governing = self.determine_governing(self.date, party)
         speech = split[1]
 
@@ -71,7 +136,7 @@ class ParserSecond:
 
     def write_line(self, party, speaker, governing, sentence):
         output_file = 'all_sentences.csv'
-        with open(self.output_dir + output_file, 'a', encoding="utf-8") as f:
+        with open(self.output_dir + output_file, 'a+', encoding="utf-8") as f:
             line = str(self.sentence_id) + self.DELIMITER + self.date + self.DELIMITER + self.protocol_id + self.DELIMITER + party + self.DELIMITER + speaker + self.DELIMITER + str(governing) + self.DELIMITER + sentence + '\n'
             print(line)
             f.write(line)
@@ -85,8 +150,9 @@ class ParserSecond:
 
     def determine_party(self, speaker):
         matches = re.findall('(?<=\\().+?(?=\\))', speaker)
-        if matches and matches[len(matches)-1] in self.parties:
-            return matches[len(matches)-1]
+        matches = [match for match in matches if match in self.parties]
+        if matches:
+            return matches[0]
         else:
             for k in self.speaker_party.keys():
                 if re.search(k, speaker):
