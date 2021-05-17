@@ -41,7 +41,7 @@ def massnahmen():
                 postline = lines[i+1]
                 #reg_pattern = 'maske|ffp2|[lL]ock.?[dD]own|impf|polizei.?kon|tracing|corona.?app|pcr|testet|testung|tests|testen|distanc|abstand|social.d'
                 #reg_pattern = 'impf'
-                p_masks = 'mask|ffp2'
+                p_masks = 'mask|ffp2|mund.?nasen'
                 p_lockdown = '[lL]ock.?[dD]own'
                 p_vaccines = 'impf'
                 p_testing = 'testet|testung|tests|testen|pcr'

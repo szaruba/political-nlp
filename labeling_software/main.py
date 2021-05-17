@@ -13,9 +13,9 @@ class Labeler:
     IDX_LABELED_ID                  = 2
 
     # only these will get loaded
-    DESIRED_CATEGORIES = ['VACCINES']
+    DESIRED_CATEGORIES = ['LOCKDOWN']
 
-    KEYWORDS_REGEX = 'mask|ffp2|[lL]ock.?[dD]own|impf|pcr|testet|testung|tests|testen|distanc|abstand|social.d'
+    KEYWORDS_REGEX = 'mask|ffp2|mund.?nasen|[lL]ock.?[dD]own|impf|pcr|testet|testung|tests|testen|distanc|abstand|social.d'
 
     unlabeled_samples = []
     unlabeled_dataset_path = '../protocols/secondary_format/massnahmen.csv'
@@ -71,11 +71,11 @@ class Labeler:
         with open(self.labeled_dataset_path, 'r') as f:
             labeled_ids = [line.split('\t')[self.IDX_LABELED_ID] for line in f]
         with open(self.unlabeled_dataset_path, 'r') as f:
-            all_lines = f.readlines()
+            all_lines = [line.replace('\n', '') for line in f.readlines()]
             # filter BY DESIRED_CATEGORIES
             all_lines = [sample for sample in all_lines if self.sample_has_category(sample, self.DESIRED_CATEGORIES)]
             self.count_total = len(all_lines)
-            self.unlabeled_samples = [line.replace('\n', '') for line in all_lines if line.split('@@')[self.IDX_UNLABELED_ID] not in labeled_ids]
+            self.unlabeled_samples = [line for line in all_lines if line.split('@@')[self.IDX_UNLABELED_ID] not in labeled_ids]
 
         self.update_progress()
 
