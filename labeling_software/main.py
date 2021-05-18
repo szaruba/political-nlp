@@ -13,9 +13,9 @@ class Labeler:
     IDX_LABELED_ID                  = 2
 
     # only these will get loaded
-    DESIRED_CATEGORIES = ['LOCKDOWN']
+    DESIRED_CATEGORIES = ['MASKS', 'LOCKDOWN', 'VACCINES', 'TESTING', 'DISTANCING']
 
-    KEYWORDS_REGEX = 'mask|ffp2|mund.?nasen|[lL]ock.?[dD]own|impf|pcr|testet|testung|tests|testen|distanc|abstand|social.d'
+    KEYWORDS_REGEX = 'mask|ffp2|mund.?nasen|[lL]ock.?[dD]own|impf|pcr|testet|testung|tests|testen|test|distanc|abstand|social.d'
 
     unlabeled_samples = []
     unlabeled_dataset_path = '../protocols/secondary_format/massnahmen.csv'
