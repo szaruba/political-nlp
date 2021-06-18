@@ -5,16 +5,16 @@ Text classification and visualization of opinions extracted from Austrian politi
 The following approaches were used to predict opinions: Embeddingbag, LSTM, BERT, Google Open AI, Multinomial Bayes, BM25, Logistic Regression, Rule-baseed with Spacy library.
 
 ## Project Structure
-| Folder                     | Description                                                                            |
-|----------------------------|----------------------------------------------------------------------------------------|
-| `graphing/`                | Visualizing opinion distributions and consistencies. Plot data set stats.              |
-| `helper/`                  | Helpers for processing results and data sets.                                          |
-| `labeling_software/`       | Makes the labeling of a data set easier.                                               |
-| `lexica/`                  | Word polarity lists.                                                                   |
-| `models/first_experiment/` | Contains model implementations to classify opinions.                                   |
-| `other/`                   | Contains third-party libraries and tutorial implementations.                           |
-| `parser/`                  | Contains parsers for converting parliament speech protocols between different formats. |
-| `results/`                 | Where model evaluations and plots are stored.                                          |
+| Folder               | Description                                                                            |
+|----------------------|----------------------------------------------------------------------------------------|
+| `graphing/`          | Visualizing opinion distributions and consistencies. Plot data set stats.              |
+| `helper/`            | Helpers for processing results and data sets.                                          |
+| `labeling_software/` | Makes the labeling of a data set easier.                                               |
+| `lexica/`            | Word polarity lists.                                                                   |
+| `models/`            | Contains model implementations to classify opinions.                                   |
+| `other/`             | Contains third-party libraries and tutorial implementations.                           |
+| `parser/`            | Contains parsers for converting parliament speech protocols between different formats. |
+| `results/`           | Where model evaluations and plots are stored.                                          |
 
 ## A walk-through
 
