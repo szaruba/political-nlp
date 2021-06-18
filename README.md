@@ -24,15 +24,15 @@ Here is a walk-through of what was done. It may be necessary to adapt some paths
 2. Use `parsers/` to parse the downloaded protocols into the _primary_, _secondary_ and _tertiary formats_ (located in `protocols/primary_format`, `protocols/secondary_format`, and `protocols/tertiary_format`).
 3. Optional: Use `helper/no_president.py` to filter out the president's speeches.
 4. Use `secntence_filter.py` to create a data set of interest. The `massnahmen()` function extracts sentences related to preventative measures against the Coronavirus.
-5. Run `labeling_software/main.py` to start the labeling software. In the code provide paths to the unlabeled and to the labeled data set. Then, label the data set by pressing arrow keys. Left=negative, Down=Indifferent, Right=Positive, Up=Irrelevant (remove from data set). When pressing the Down-Key once the sentence context is loaded, upon pressing the Down-Key a second time the sample is labeled as _Indifferent_. 
+5. Run `labeling_software/main.py` to start the labeling software. In the code, provide paths to the unlabeled and the labeled data set. Then, label the data set by pressing arrow keys. Left=negative, Down=Indifferent, Right=Positive, Up=Irrelevant (remove from data set). When pressing the Down-Key one time, the sentence context is loaded. Upon pressing the Down-Key a second time, the sample is labeled as _Indifferent_. 
 6. Create data set analysis with `graphing/stats.ipynb`, `graphing/stats.py`, and `graphing/speech_lengths.ipynb`.
 7. After the labeled data set is created, run it through some classification models from the `models/` folder. Models from `models/second_experiment` will save the classificaion reports into the `results/` folder. The _Bert_ models should be run on GPU or TPU (Google Collab servers were an option at the time).
 8. Create performance graphs with `graphing/performance_distribution.ipynb`.
 9. Use `models/second_experiment/massnahmen_bert_02_store_predictions.ipynb` to create predictions for the entire data set. Then use `helper/concat_bert_results.ipynb` to concatenate the predictions. Evaluate prediction performance with `graphing/prediction_performance`.
 10. Create a list of speaker names and store it to `helper/speaker_names.txt`. Then use `unify_speakers.ipynb` to append a column of unified speaker names to the data set.
-11. Plot visualisations of actual and predicted opinion data with `graphing/opinion_consistency.ipynb`. Also use it to plot the consistency of opinions per party and per speaker over time.
+11. Plot visualizations of actual and predicted opinion data with `graphing/opinion_consistency.ipynb`. Also, use it to plot the consistency of opinions per party and speaker over time.
 12. Plot the difference between actual and predicted opinion consistency over time with `graphing/opinion_consistency_comparison.ipynb`.
-13. Determine the minimum required model accuracy to predict opinion consistency within a desired margin of error with `graphing/confidence_intervals.ipynb`.
+13. Determine the minimum required model accuracy for predicting opinion consistency within a desired margin of error with `graphing/confidence_intervals.ipynb`.
 
 ## Example Graphs
 
